@@ -3,13 +3,16 @@ import os
 import time
 from Region import Region
 
+import numpy as np
+import pandas as pd
+
 start_time = time.time()
 
 
 
-directory = 'games'
+directory = '../international-games/games'
 
-
+print(len(directory))
 #read all the files
 with open('../esports-data/players.json', 'r', encoding='utf-8') as json_file:
     player_data = json.load(json_file)
@@ -87,25 +90,81 @@ for region in region_array:
                             except:
                                 continue
                             
-
-
-#team_data for international tournaments
 for tournament in international_tournament_data:
     max_score = len(tournament["teams"])
     
     for idx, team in enumerate(tournament["teams"]):
-        print(team_name_dict[team]["name"], team)
+       
         team_region = team_region_map[team]
         
         region = region_dictionary[team_region]
-        print(region.name)
-
+       
         region.add_international_score(max_score - idx)
 
 
-for region in region_dictionary.values():
-    print(region.name, ":", region.get_international_score())
+#ranking international teams:
+#store the matrices for each stage
+data_grids = []
+
+#team_data for international tournaments
+international_tournament_map = {tournament["id"]: tournament for tournament in international_tournament_data}
+
+for tournament in tournament_data:
+    if "msi" not in tournament["slug"] and "worlds" not in tournament["slug"]:
+        continue
+    print(tournament["slug"])
+    for stage in tournament["stages"]:
+        total_teams = len(international_tournament_map[tournament["id"]]["teams"])
+        team_row = international_tournament_map[tournament["id"]]["teams"]
+        data_grid = np.zeros([total_teams, total_teams])
+        data_vector = np.zeros(total_teams)
+
+        team_grid_spot = {team: idx for idx, team in enumerate(international_tournament_map[tournament["id"]]["teams"])}
+       
+        for section in stage["sections"]:
+            for match in section["matches"]:
+
+                t1 = match["teams"][0]["id"]
+                t2 = match["teams"][1]["id"]
+                
+                # print(team_name_dict[t1]["name"], ",", team_name_dict[t2]["name"], t2)
+                team_index_one = team_grid_spot[t1]
+                team_index_two = team_grid_spot[t2]
+
+                data_grid[team_index_one - 1][team_index_one - 1] += 1 
+                data_grid[team_index_two - 1][team_index_two - 1] += 1
+                data_grid[team_index_one-1][team_index_two-1] -= 1
+                data_grid[team_index_two-1][team_index_one-1] -= 1
+
+                for game in match["games"]:
+                    if game["state"] == "completed":
                         
+                        try:
+                            if t1["results"]["outcome"] == "win":
+                                data_vector[team_index_one] += 1
+                                data_vector[team_index_two] -= 1
+                            else:
+                                data_vector[team_index_one] -= 1
+                                data_vector[team_index_two] += 1
+
+                        except:
+                            continue
+        
+        print(data_grid)
+        print("--------") 
+        print("ONE SECTION:")
+        diag = data_grid.diagonal() + 2
+        np.fill_diagonal(data_grid, diag)
+
+        for i, value in enumerate(data_vector):
+            data_vector[i] = data_vector[i]/2
+            data_vector[i] += 1
+        
+        r = np.linalg.solve(data_grid, diag)
+        
+        for idx, val in enumerate(r):
+            print(str(r[idx]), team_name_dict[team_row[idx]]["name"])
+                    
 
 print("--- %s seconds ---" % (time.time() - start_time))
                  
