@@ -26,6 +26,9 @@ with open('../esports-data/tournaments.json', 'r', encoding='utf-8') as json_fil
 with open('../esports-data/teams.json', 'r', encoding='utf-8') as json_file:
     team_data = json.load(json_file)
 
+with open('international_tournament_results.json', 'r', encoding='utf-8') as json_file:
+    international_tournament_data = json.load(json_file)
+
 #store info on regions: region[name] = region object
 region_dictionary = {}
 region_array = []
@@ -34,9 +37,9 @@ region_array = []
 tournament_dictionary = {}
 
 for league in league_data:
-    region = Region(league["name"])
+    region = Region(league["name"], league["id"])
     region_array.append(region)
-    region_dictionary[league["name"]] = region
+    region_dictionary[league["id"]] = region
     
     for tournament in league["tournaments"]:
         region.add_tournament(tournament["id"])
@@ -46,6 +49,12 @@ team_name_dict = {team["team_id"]: team for team in team_data}
 
 #tournamnet id for access
 tournament_id_dict = {tournament["id"]: tournament for tournament in tournament_data}
+
+#map each league to its id
+league_id_dict = {league["id"]: league for league in league_data}
+
+# map each team to a region, we only care about international teams
+team_region_map = {} 
 
 for region in region_array:
     region_tournaments = region.get_tournaments()
@@ -70,49 +79,32 @@ for region in region_array:
                                 t1 = game["teams"][0]["id"]
                                 t2 = game["teams"][1]["id"]
 
+                                team_region_map[t1] = region.id
+                                team_region_map[t2] = region.id
+
                                 region.add_team(t1, team_name_dict[t1]["name"])
                                 region.add_team(t2, team_name_dict[t2]["name"])
                             except:
+                                print(t1, t2)
                                 continue
                             
 
 
 #team_data for international tournaments
-for tournament in tournament_data:
+for tournament in international_tournament_data:
+    max_score = len(tournament["teams"])
     
-    if "msi" not in tournament["slug"] and "worlds" not in tournament["slug"]:
-        continue
-    
-    print(tournament["slug"])
-  
-    last_stage = tournament["stages"][-1]  
-  
-    last_section = last_stage["sections"][-1]
-    
-    last_match = last_section["matches"][-1]
-    
-       
-    recent_winner = ""
+    for idx, team in enumerate(tournament["teams"]):
+        print(team)
+        team_region = team_region_map[team]
+        region = region_dictionary[team_region]
 
-    for game in last_match["games"]:
-        print(game["id"])
-        if game["state"] == "completed":
-            t1 = game["teams"][0]
-            t2 = game["teams"][1]
+        region.add_international_score(max_score - idx)
 
-            if t1["result"]["outcome"] == "win":
-                recent_winner = t1
-            elif t2["result"]["outcome"] == "win":
-                recent_winner = t2
-        else:
-            break
 
-    print(team_name_dict[recent_winner["id"]]["slug"], "is winner of ", tournament["slug"])
-
+for region in region_dictionary.values():
+    print(region.name, ":", region.get_international_score())
                         
-
-
 
 print("--- %s seconds ---" % (time.time() - start_time))
                  
-

@@ -1,11 +1,12 @@
 class Region:
-    def __init__(self, name):
+    def __init__(self, name, ids):
         self.name = name 
         self.teams = {}
         self.team_id = []
         self.rating = 0
         self.tournament = []
-        self.interational_wins = 0
+        self.international_score = 0
+        self.id = ids
 
     def add_tournament(self, id):
         self.tournament.append(id)
@@ -29,5 +30,8 @@ class Region:
             print(team_name)
         print("------")
 
-    def add_interational_wins(self):
-        self.international_wins += 1
+    def add_international_score(self, score):
+        self.international_score += score
+    
+    def get_international_score(self):
+        return self.international_score
