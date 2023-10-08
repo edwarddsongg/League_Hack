@@ -85,7 +85,6 @@ for region in region_array:
                                 region.add_team(t1, team_name_dict[t1]["name"])
                                 region.add_team(t2, team_name_dict[t2]["name"])
                             except:
-                                print(t1, t2)
                                 continue
                             
 
@@ -95,9 +94,11 @@ for tournament in international_tournament_data:
     max_score = len(tournament["teams"])
     
     for idx, team in enumerate(tournament["teams"]):
-        print(team)
+        print(team_name_dict[team]["name"], team)
         team_region = team_region_map[team]
+        
         region = region_dictionary[team_region]
+        print(region.name)
 
         region.add_international_score(max_score - idx)
 
