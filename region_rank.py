@@ -2,7 +2,7 @@ import json
 import os 
 import time
 from Region import Region
-
+from elo import Elo
 import numpy as np
 import pandas as pd
 
@@ -110,30 +110,18 @@ def rank():
     #team_data for international tournaments
     international_tournament_map = {tournament["id"]: tournament for tournament in international_tournament_data}
 
+    list_teams = [team_id for team_id in team_name_dict.keys()]
+
+    elo_system = Elo(list_teams, team_name_dict, {team_id:1500 for team_id in team_name_dict.keys()}, {}, {}, region_dictionary)
+    elo_system.init()
+
+    
     for tournament in tournament_data:
         if "msi" not in tournament["slug"] and "worlds" not in tournament["slug"]:
             continue
         print(tournament["slug"])
         for stage in tournament["stages"]:       
             for section in stage["sections"]:
-                if len(section["rankings"]) == 0:
-                    print(section["name"]) 
-
-                total_teams = len(section["rankings"])
-                team_list = []
-
-
-                for team in section["rankings"]:
-                    print
-                    team_list.append(team["teams"][0]["id"])
-
-                team_grid_spot = {team:idx for idx, team in enumerate(team_list)}
-                
-
-                data_grid = np.zeros([total_teams, total_teams])
-                data_vector = np.zeros(total_teams)
-
-
                 for match in section["matches"]: 
                     for game in match["games"]:
                         if game["state"] == "completed":
@@ -141,42 +129,24 @@ def rank():
                                 t1 = match["teams"][0]["id"]
                                 t2 = match["teams"][1]["id"]
                             
-                                team_index_one = team_grid_spot[t1]
-                                team_index_two = team_grid_spot[t2]
-                             
-                                data_grid[team_index_one][team_index_one] += 1 
-                                data_grid[team_index_two][team_index_two] += 1
-                                data_grid[team_index_one][team_index_two] -= 1
-                                data_grid[team_index_two][team_index_one] -= 1
-
                                 if match["teams"][0]["result"]["outcome"] == "win":
-                                    data_vector[team_index_one] += 1
-                                    data_vector[team_index_two] -= 1
+                                    elo_system.update_score(t1, t2, 1)
                                 else:
-                                    data_vector[team_index_one] -= 1
-                                    data_vector[team_index_two] += 1
-
+                                    elo_system.update_score(t1, t2, 0)
+                                
                             except:
+                                print("gailes")
                                 return
-                
-                print(section["name"])
-                
-                print("--------") 
-                print("ONE SECTION:")
-                diag = data_grid.diagonal() + 2
-                np.fill_diagonal(data_grid, diag)
-                print(data_grid)
-                for i, value in enumerate(data_vector):
-                    data_vector[i] = data_vector[i]/2
-                    data_vector[i] += 1
-                print(data_vector)
-                r = np.linalg.solve(data_grid, diag)
-                print(r)
-                indices = r.argsort()[::-1]
-                
-                for idx in indices:
-                    print(str(r[idx]), team_name_dict[team_list[idx]]["name"])
-            
+        
+        
+        tournament_list = international_tournament_map[tournament["id"]]["teams"]
+        elo_system.print_elo_list(tournament_list)
+        
+        print("-----")
+    
+    
+
+             
                         
 
     print("--- %s seconds ---" % (time.time() - start_time))
