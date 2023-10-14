@@ -1,0 +1,1759 @@
+[
+    {
+        "platformId": "ESPORTSTMNT01:3303961",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3304845",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3304899",
+        "teamOne": "98767991853197861",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3304926",
+        "teamOne": "105505619546859895",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3305848",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3306459",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3306514",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3308368",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3308372",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3308381",
+        "teamOne": "100205573495116443",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3308953",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309028",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309043",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309058",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309094",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309624",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309955",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3309997",
+        "teamOne": "99566404585387054",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3310502",
+        "teamOne": "99566404581868574",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3310542",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3310561",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3310923",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3311011",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3311520",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3311892",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324334",
+        "teamOne": "100725845018863243",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324352",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324628",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324646",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324649",
+        "teamOne": "105505619546859895",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3324928",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325029",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325049",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325060",
+        "teamOne": "100725845022060229",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325316",
+        "teamOne": "100725845018863243",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325340",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325624",
+        "teamOne": "105505619546859895",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325832",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325855",
+        "teamOne": "100725845022060229",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3325862",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3326046",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3326099",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3326924",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3327201",
+        "teamOne": "98767991853197861",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3328186",
+        "teamOne": "102747101565183056",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3328190",
+        "teamOne": "99566404579461230",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3328205",
+        "teamOne": "99566404579461230",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3330071",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3330869",
+        "teamOne": "99566404579461230",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331073",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331076",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331293",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331318",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331791",
+        "teamOne": "99566404579461230",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331800",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3331817",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3332065",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3332285",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3332318",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3332801",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3333121",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3334067",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3334092",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3335064",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3336792",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3336831",
+        "teamOne": "100205573495116443",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3336846",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3337944",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3337979",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3338726",
+        "teamOne": "100205573495116443",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3339077",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3339102",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3340970",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3340987",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3341983",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3341999",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3344120",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3344136",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3344140",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT01:3344160",
+        "teamOne": "100205573495116443",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3148631",
+        "teamOne": "99566404585387054",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3148704",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3148999",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3149952",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3150633",
+        "teamOne": "99566404579461230",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3150637",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3150955",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3150959",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151024",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151319",
+        "teamOne": "100725845022060229",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151356",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151375",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151399",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151678",
+        "teamOne": "99566404581868574",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151708",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3151734",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3152336",
+        "teamOne": "100725845022060229",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3152651",
+        "teamOne": "99566404581868574",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3153683",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3154050",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3154086",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3155063",
+        "teamOne": "100205573495116443",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3156036",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3156083",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3157736",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3158638",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3158788",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3159649",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3160419",
+        "teamOne": "100205573496804586",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3160953",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3160975",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3160991",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3161272",
+        "teamOne": "100205573496804586",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3161348",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3161391",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3162355",
+        "teamOne": "100725845022060229",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163043",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163421",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163473",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163529",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163849",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3163865",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3164423",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3164479",
+        "teamOne": "100725845022060229",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3164832",
+        "teamOne": "99566404585387054",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3164896",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT02:3165696",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3089368",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3089607",
+        "teamOne": "100205573495116443",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3089931",
+        "teamOne": "99566404585387054",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090319",
+        "teamOne": "100725845018863243",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090322",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090339",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090562",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090563",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090572",
+        "teamOne": "99566404581868574",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090837",
+        "teamOne": "99566404585387054",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090868",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3090903",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3091336",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3091907",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3092329",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3092334",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3092604",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3093250",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3093271",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3093537",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3093557",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3093593",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3094238",
+        "teamOne": "100725845018863243",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3094264",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3094541",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3095781",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3096700",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3096742",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3097664",
+        "teamOne": "100725845022060229",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098196",
+        "teamOne": "99566404585387054",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098225",
+        "teamOne": "99566404585387054",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098229",
+        "teamOne": "100205573496804586",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098275",
+        "teamOne": "100205573496804586",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098573",
+        "teamOne": "99566404579461230",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098646",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098932",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098936",
+        "teamOne": "98767991853197861",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098971",
+        "teamOne": "102747101565183056",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3098980",
+        "teamOne": "98767991853197861",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3099119",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3099542",
+        "teamOne": "99566404581868574",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3099594",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3099980",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3099998",
+        "teamOne": "99566404579461230",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3100173",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3100615",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3100826",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3100863",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3102090",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3103007",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3103038",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3111569",
+        "teamOne": "99566404581868574",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3111606",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3111641",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3111908",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3112838",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3112906",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3113604",
+        "teamOne": "99566404581868574",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3113903",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3113908",
+        "teamOne": "100205573496804586",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3114711",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3115239",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3115330",
+        "teamOne": "98767991853197861",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3115657",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116248",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116266",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116279",
+        "teamOne": "105505619546859895",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116666",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116676",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3116711",
+        "teamOne": "99566404585387054",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3117109",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3117150",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3117167",
+        "teamOne": "100205573495116443",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3119106",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3120564",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3120628",
+        "teamOne": "99566404579461230",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3121502",
+        "teamOne": "99566404581868574",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3122530",
+        "teamOne": "102747101565183056",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3122536",
+        "teamOne": "99566404581868574",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3122584",
+        "teamOne": "100205573496804586",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3123048",
+        "teamOne": "100205573495116443",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3123081",
+        "teamOne": "100725845022060229",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3123651",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3124078",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3124535",
+        "teamOne": "100725845018863243",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3125134",
+        "teamOne": "99566404585387054",
+        "teamTwo": "98767991853197861",
+        "winningTeam": "98767991853197861",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3125587",
+        "teamOne": "102747101565183056",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3125600",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3126034",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3126091",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3127022",
+        "teamOne": "100725845022060229",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100725845022060229"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3127306",
+        "teamOne": "100725845018863243",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3127325",
+        "teamOne": "105505619546859895",
+        "teamTwo": "100725845018863243",
+        "winningTeam": "100725845018863243",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3127378",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3127386",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3128016",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3128023",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3128073",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3128324",
+        "teamOne": "100725845018863243",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT03:3128333",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2659018",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2660040",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2661035",
+        "teamOne": "100725845018863243",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2661049",
+        "teamOne": "98767991853197861",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2663029",
+        "teamOne": "102747101565183056",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "102747101565183056"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2663131",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2663182",
+        "teamOne": "99566404585387054",
+        "teamTwo": "100205573495116443",
+        "winningTeam": "100205573495116443",
+        "losingTeam": "99566404585387054"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2663193",
+        "teamOne": "99566404581868574",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2663232",
+        "teamOne": "99566404579461230",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664031",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664115",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664117",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664153",
+        "teamOne": "100205573495116443",
+        "teamTwo": "99566404585387054",
+        "winningTeam": "99566404585387054",
+        "losingTeam": "100205573495116443"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664171",
+        "teamOne": "99566404581868574",
+        "teamTwo": "105505619546859895",
+        "winningTeam": "105505619546859895",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664180",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664200",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2664219",
+        "teamOne": "99566404579461230",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404579461230"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665017",
+        "teamOne": "99566404581868574",
+        "teamTwo": "100205573496804586",
+        "winningTeam": "100205573496804586",
+        "losingTeam": "99566404581868574"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665040",
+        "teamOne": "105505619546859895",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665115",
+        "teamOne": "98767991853197861",
+        "teamTwo": "99566404579461230",
+        "winningTeam": "99566404579461230",
+        "losingTeam": "98767991853197861"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665143",
+        "teamOne": "100725845018863243",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100725845018863243"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665186",
+        "teamOne": "105505619546859895",
+        "teamTwo": "99566404581868574",
+        "winningTeam": "99566404581868574",
+        "losingTeam": "105505619546859895"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665208",
+        "teamOne": "100205573496804586",
+        "teamTwo": "100725845022060229",
+        "winningTeam": "100725845022060229",
+        "losingTeam": "100205573496804586"
+    },
+    {
+        "platformId": "ESPORTSTMNT04:2665209",
+        "teamOne": "99566404579461230",
+        "teamTwo": "102747101565183056",
+        "winningTeam": "102747101565183056",
+        "losingTeam": "99566404579461230"
+    }
+]
