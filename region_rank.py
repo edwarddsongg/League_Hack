@@ -138,15 +138,18 @@ def rank():
                                 print("gailes")
                                 return
         
-        
-        tournament_list = international_tournament_map[tournament["id"]]["teams"]
-        elo_system.print_elo_list(tournament_list)
-        
-        print("-----")
+    
+    for region in region_array:
+        if len(region.teams) == 0: continue
+
+        print(region.name)
+        team_arr = [team for team in region.teams.keys()]
+        elo_system.print_elo_list(team_arr)
+        print("----------")
     
     
 
-             
+    
                         
 
     print("--- %s seconds ---" % (time.time() - start_time))

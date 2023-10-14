@@ -16,7 +16,7 @@ class Elo:
 
 
     def estimated_win(self, r_a, r_b):
-        e_a = 1/(1+10**(r_b - r_a)/400)
+        e_a = 1/(1+10**((r_b - r_a)/400))
         e_b = 1 - e_a
         
         return e_a, e_b
@@ -32,6 +32,7 @@ class Elo:
 
         self.team_elos[t_a] = self.team_elos[t_a] + self.team_k_score[t_a] * (t1wins - e_a)
         self.team_elos[t_b] = self.team_elos[t_b] + self.team_k_score[t_b] * ((1 - t1wins) - e_b)
+
 
     def region_print(self, ids):
         region = self.team_region[ids]
@@ -57,4 +58,13 @@ class Elo:
     def print_all_regions(self):
         for region in self.team_region.keys():
             self.region_print(region)
+
+    def return_elo_list(self, team_list):
+        elo_list = []
+        for team in team_list:
+            elo_list.append({self.team_dict[team]["slug"]:self.team_elos[team]})
+        
+        sorted_array = sorted(elo_list, key=lambda x: list(x.values())[0], reverse=True)
+
+        return sorted_array
 
