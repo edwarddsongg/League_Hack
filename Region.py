@@ -7,6 +7,7 @@ class Region:
         self.tournament = []
         self.international_score = 0
         self.id = ids
+        self.elo_teams = []
 
     def add_tournament(self, id):
         self.tournament.append(id)

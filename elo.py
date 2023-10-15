@@ -9,6 +9,7 @@ class Elo:
     team_games_played: dict
     team_k_score: dict
     team_region: dict
+    rated_teams = {}
 
     def init(self):
         self.team_k_score = {team: 0 for team in self.team_dict.keys()}
@@ -67,4 +68,28 @@ class Elo:
         sorted_array = sorted(elo_list, key=lambda x: list(x.values())[0], reverse=True)
 
         return sorted_array
+    
+    def return_rated_list(self, team_list):
+        elo_list = []
+        for team in team_list:
+            if self.rated_teams[team] == 0: continue
+            elo_list.append({self.team_dict[team]["slug"]:self.team_elos[team]})
+        
+        sorted_array = sorted(elo_list, key=lambda x: list(x.values())[0], reverse=True)
 
+        return sorted_array
+
+    def return_rated_elo_list(self, team_list):
+        elo_list = []
+        for team in team_list:
+            if self.team_games_played[team] == 0: continue
+            elo_list.append({self.team_dict[team]["slug"]:self.team_elos[team]})
+        
+        sorted_array = sorted(elo_list, key=lambda x: list(x.values())[0], reverse=True)
+
+        # for team in sorted_array:
+        #     team_name, score = list(team.items())[0]
+        #     print(f"{team_name}: {score}")
+
+        return sorted_array
+    

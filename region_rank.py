@@ -5,6 +5,7 @@ from Region import Region
 from elo import Elo
 import numpy as np
 import pandas as pd
+from statistics import mean
 
 def rank():
     start_time = time.time()
@@ -115,7 +116,7 @@ def rank():
     elo_system = Elo(list_teams, team_name_dict, {team_id:1500 for team_id in team_name_dict.keys()}, {}, {}, region_dictionary)
     elo_system.init()
 
-    
+
     for tournament in tournament_data:
         if "msi" not in tournament["slug"] and "worlds" not in tournament["slug"]:
             continue
@@ -126,9 +127,10 @@ def rank():
                     for game in match["games"]:
                         if game["state"] == "completed":
                             try:
+                                
                                 t1 = match["teams"][0]["id"]
                                 t2 = match["teams"][1]["id"]
-                            
+
                                 if match["teams"][0]["result"]["outcome"] == "win":
                                     elo_system.update_score(t1, t2, 1)
                                 else:
@@ -142,10 +144,23 @@ def rank():
     for region in region_array:
         if len(region.teams) == 0: continue
 
-        print(region.name)
         team_arr = [team for team in region.teams.keys()]
-        elo_system.print_elo_list(team_arr)
-        print("----------")
+        region.elo_teams = elo_system.return_elo_list(team_arr)
+        
+        rated_list = elo_system.return_rated_elo_list(team_arr)
+
+        if len(rated_list) == 0:
+            #this is because they have not played in international tournamnets 
+            region.rating = 1200
+        else:
+            elos = [list(team.items())[0][1] for team in rated_list]
+            region.rating = mean(elos)
+    
+    for region in region_array:
+        if region.rating == 0: continue
+        print(region.name + ":" + str(region.rating))
+
+      
     
     
 
