@@ -25,7 +25,7 @@ def update_ratings(rating_a, rating_b, outcome, k=32):
 
 
 teams = []
-
+initial_ratings = []
 for tournaments in os.listdir('FilteredData'):
   with open('FilteredData/'+tournaments, 'r') as json_file:
     results = json.load(json_file)
@@ -34,16 +34,15 @@ for tournaments in os.listdir('FilteredData'):
       teamOne = tour.get('teamOne')
       teamTwo = tour.get('teamTwo')
       if teamOne not in teams:
-          teams.append(teamOne)
+        teams.append(teamOne)
+        adjFactor = tour.get('priority')
+        if adjFactor < 10: adjFactor = 1
+        initial_ratings.append(1500 / adjFactor)
 
       if teamTwo not in teams:
-          teams.append(teamTwo)
-
-initial_ratings = np.full(
-    shape=len(teams),
-    fill_value=1500,
-    dtype=np.float16
-)
+        teams.append(teamTwo)
+        if adjFactor < 10: adjFactor = 1
+        initial_ratings.append(1500 / adjFactor)
 
 # Create a DataFrame to store ratings
 df = pd.DataFrame({"team": teams, "Rating": initial_ratings})
