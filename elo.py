@@ -10,6 +10,7 @@ class Elo:
     team_k_score: dict
     team_region: dict
     rated_teams = {}
+    strength = 1
 
     def init(self):
         self.team_k_score = {team: 0 for team in self.team_dict.keys()}
@@ -22,7 +23,12 @@ class Elo:
         
         return e_a, e_b
 
-    def update_score(self, t_a, t_b, t1wins):
+    def estimated_win_for_regions(self, r1, r2):
+        e_a = 1/(1+10**((r1 - r2)/400))
+       
+        return e_a
+    
+    def update_score(self, t_a, t_b, t1wins, weight):
         e_a, e_b = self.estimated_win(self.team_elos[t_a], self.team_elos[t_b])
         
         self.team_games_played[t_a] = 1
@@ -31,8 +37,14 @@ class Elo:
         self.team_k_score[t_a] = 50/(1+self.team_games_played[t_a]/300)
         self.team_k_score[t_b] = 50/(1+self.team_games_played[t_b]/300)
 
-        self.team_elos[t_a] = self.team_elos[t_a] + self.team_k_score[t_a] * (t1wins - e_a)
-        self.team_elos[t_b] = self.team_elos[t_b] + self.team_k_score[t_b] * ((1 - t1wins) - e_b)
+        if(t1wins == 1): weight1,weight2 = weight, 1 
+        else: weight1, weight2 = 1, weight
+
+        if weight <= 1:
+            weight1, weight2 = weight, weight
+
+        self.team_elos[t_a] = self.team_elos[t_a] + self.team_k_score[t_a] * (t1wins - e_a) * weight1
+        self.team_elos[t_b] = self.team_elos[t_b] + self.team_k_score[t_b] * ((1 - t1wins) - e_b) * weight2
 
 
     def region_print(self, ids):

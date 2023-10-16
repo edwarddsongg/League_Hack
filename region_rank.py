@@ -123,7 +123,25 @@ def rank():
         print(tournament["slug"])
         for stage in tournament["stages"]:       
             for section in stage["sections"]:
+                weight = 1
+
+                playoffs = False
+                print(section["name"])
+                if("group" in section["name"].lower()): weight = 1.2
+                elif("Play in Knockouts" == section["name"]): weight = 0.6
+                elif("knockouts" == section["name"] or "playoffs" == section["name"].lower()): 
+                    print("test")
+                    weight = 1.6
+                    playoffs = True
+               
+                count = 0
+
                 for match in section["matches"]: 
+                    count += 1
+                    if(count == 5 and playoffs): weight += 0.2
+                    if(count == 7 and playoffs): weight += 0.4
+                    # print(weight)
+
                     for game in match["games"]:
                         if game["state"] == "completed":
                             try:
@@ -132,9 +150,9 @@ def rank():
                                 t2 = match["teams"][1]["id"]
 
                                 if match["teams"][0]["result"]["outcome"] == "win":
-                                    elo_system.update_score(t1, t2, 1)
+                                    elo_system.update_score(t1, t2, 1, weight)
                                 else:
-                                    elo_system.update_score(t1, t2, 0)
+                                    elo_system.update_score(t1, t2, 0, weight)
                                 
                             except:
                                 print("gailes")
@@ -156,13 +174,27 @@ def rank():
             elos = [list(team.items())[0][1] for team in rated_list]
             region.rating = mean(elos)
     
+    rated_regions = []
+    total_scores = 0
     for region in region_array:
-        if region.rating == 0: continue
+        if region.rating == 0 or region.rating == 1200: continue
+        total_scores += region.rating
+        rated_regions.append(region)
         print(region.name + ":" + str(region.rating))
 
+    for region in rated_regions:
+        if region.rating == 0 or region.rating == 1200: continue
+    
+        region.strength = region.rating/total_scores + 1
+
+        print(region.name + ":" + str(region.strength))
       
-    
-    
+    for region in rated_regions:
+        region_score = 0
+        for opponent in rated_regions:
+            if region.name == opponent.name: continue 
+            e_region = elo_system.estimated_win_for_regions(region.rating, opponent.rating)
+            region_score += e_region    
 
     
                         
