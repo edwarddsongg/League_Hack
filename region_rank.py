@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 from statistics import mean
 
+
 def rank():
     start_time = time.time()
 
@@ -33,6 +34,9 @@ def rank():
 
     with open('international_tournament_results.json', 'r', encoding='utf-8') as json_file:
         international_tournament_data = json.load(json_file)
+    
+    with open('subregions.json', 'r', encoding='utf-8') as json_file:
+        subregion_data = json.load(json_file)
 
     #store info on regions: region[name] = region object
     region_dictionary = {}
@@ -137,7 +141,7 @@ def rank():
                 count = 0
 
                 for match in section["matches"]: 
-                    count += 1
+                    if playoffs: count += 1
                     if(count == 5 and playoffs): weight += 0.2
                     if(count == 7 and playoffs): weight += 0.4
                     # print(weight)
@@ -176,19 +180,12 @@ def rank():
     
     rated_regions = []
     total_scores = 0
+
     for region in region_array:
         if region.rating == 0 or region.rating == 1200: continue
         total_scores += region.rating
         rated_regions.append(region)
-        print(region.name + ":" + str(region.rating))
 
-    for region in rated_regions:
-        if region.rating == 0 or region.rating == 1200: continue
-    
-        region.strength = region.rating/total_scores + 1
-
-        print(region.name + ":" + str(region.strength))
-      
     for region in rated_regions:
         region_score = 0
         for opponent in rated_regions:
@@ -196,8 +193,34 @@ def rank():
             e_region = elo_system.estimated_win_for_regions(region.rating, opponent.rating)
             region_score += e_region    
 
+        region.strength = region_score
+
+
+
+    strength_stats = [region.strength for region in rated_regions]
+    strength_standard_dev = np.std(strength_stats)
+    strength_mean = np.mean(strength_stats)
     
-                        
+    region_strength = {}
+
+    for region in rated_regions:
+        region.strength = (region.strength - strength_mean)/strength_standard_dev
+        region.strength = (region.strength + 1) / 2
+
+        region_strength[region.name] = region.strength
+        print(region.name + ":" + str(region.strength))
+    
+    subregion_map = {}
+
+    for region in subregion_data.keys():
+        for team in subregion_data[region]:
+            subregion_map[team] = region  
+
+    for region in region_array: 
+        try:
+            region.region = subregion_map[region.ids]            
+
+                       
 
     print("--- %s seconds ---" % (time.time() - start_time))
 

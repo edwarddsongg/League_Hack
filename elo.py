@@ -24,7 +24,7 @@ class Elo:
         return e_a, e_b
 
     def estimated_win_for_regions(self, r1, r2):
-        e_a = 1/(1+10**((r1 - r2)/400))
+        e_a = 1/(1+10**((r2 - r1)/400))
        
         return e_a
     
