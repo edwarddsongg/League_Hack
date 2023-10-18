@@ -15,7 +15,6 @@ def rank():
 
     directory = '../international-games/games'
 
-    print(len(directory))
     #read all the files
     with open('../esports-data/players.json', 'r', encoding='utf-8') as json_file:
         player_data = json.load(json_file)
@@ -130,11 +129,9 @@ def rank():
                 weight = 1
 
                 playoffs = False
-                print(section["name"])
                 if("group" in section["name"].lower()): weight = 1.2
                 elif("Play in Knockouts" == section["name"]): weight = 0.6
                 elif("knockouts" == section["name"] or "playoffs" == section["name"].lower()): 
-                    print("test")
                     weight = 1.6
                     playoffs = True
                
@@ -213,14 +210,28 @@ def rank():
     subregion_map = {}
 
     for region in subregion_data.keys():
-        for team in subregion_data[region]:
-            subregion_map[team] = region  
+        for league in subregion_data[region]:
+            subregion_map[league] = region  
+    
+    print(subregion_map)
 
     for region in region_array: 
         try:
-            region.region = subregion_map[region.ids]            
+            region.region = subregion_map[region.id]            
+        except:
+            print("??")
+            continue
+    
+    team_regions = {}
 
-                       
+    for region in region_array:
+        if region.region == "": continue
+        for teams in region.teams:
+            team_regions[teams] = region.region
+        
+    for team in team_regions:
+        print(team_name_dict[team]["slug"] + ":" + team_regions[team])
+
 
     print("--- %s seconds ---" % (time.time() - start_time))
 
