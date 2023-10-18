@@ -32,6 +32,38 @@ def download_esports_data(file_name):
         print(f"Failed to download {file_name}")
 
 
+def calculate_damage_and_level(stats_update_event_obj):
+    team1_TD, team1_TL, team2_TD, team2_TL = 0, 0, 0, 0
+    for participant in stats_update_event_obj["participants"]:
+        stats = participant["stats"]
+        total_damage = 0
+
+        for stat in stats:
+            if "name" in stat and stat["name"] == "TOTAL_DAMAGE_DEALT_TO_CHAMPIONS":
+                total_damage = stat["value"]
+                break
+
+        if participant["teamID"] == 100:
+            team1_TD += total_damage
+            team1_TL += participant["level"]
+        else:
+            team2_TD += total_damage
+            team2_TL += participant["level"]
+
+    return (team1_TD, team2_TD, team1_TL, team2_TL)
+
+
+def updateDamageAndLevel(data_to_load, stats_string, team1_TD, team2_TD, team1_TL, team2_TL):
+    for team in data_to_load[stats_string]:
+        if team["teamID"] == 100:
+            team["totalDamage"] = team1_TD
+            team["totalLevel"] = team1_TL
+        else:
+            team["totalDamage"] = team2_TD
+            team["totalLevel"] = team2_TL
+
+
+
 def download_game_data(file_name):
     local_file_name = file_name.replace(":", "_")
     # If file already exists locally do not re-download game
@@ -60,29 +92,29 @@ def download_game_data(file_name):
                     break
 
             end_stats = data[-2]
+            midgame_stats = {}
 
-            team1_TD, team2_TD, team1_TL, team2_TL = 0, 0, 0, 0
+            total_length_of_game = data[-1]["gameTime"]
+            halfway_game_time = total_length_of_game / 2
+            total_number_of_events = len(data)
+            start_index = round(total_number_of_events * 0.4)
 
-            for participant in end_stats["participants"]:
-                if participant["teamID"] == 100:
-                    if participant["stats"][34]["name"] != "TOTAL_DAMAGE_DEALT":
-                        print("GETTING THE WRONG VALUE FOR TOTAL DAMANGE DEALT")
-                    team1_TD += participant["stats"][34]["value"]
-                    team1_TL += participant["level"]
-                else:
-                    if participant["stats"][34]["name"] != "TOTAL_DAMAGE_DEALT":
-                        print("GETTING THE WRONG VALUE FOR TOTAL DAMANGE DEALT")
-                    team2_TD += participant["stats"][34]["value"]
-                    team2_TL += participant["level"]
+            # loop from around 40% point of events until midpoint stats_update is found
+            for i in range(start_index, total_number_of_events):
+                if data[i]["eventType"] == "stats_update" and data[i]["gameTime"] >= (halfway_game_time - 1000) and data[i]["gameTime"] <= (halfway_game_time + 1000):
+                    midgame_stats = data[i]
+                    break
+
+            # TD = total damage, TL = total level
+            (midgame_team1_TD, midgame_team2_TD, midgame_team1_TL, midgame_team2_TL) = calculate_damage_and_level(midgame_stats)
+            (endgame_team1_TD, endgame_team2_TD, endgame_team1_TL, endgame_team2_TL) = calculate_damage_and_level(end_stats)
 
             data_to_load["end_stats"] = data[-2]["teams"]
-            for team in data_to_load["end_stats"]:
-                if team["teamID"] == 100:
-                    team["totalDamage"] = team1_TD
-                    team["totalLevel"] = team1_TL
-                else:
-                    team["totalDamage"] = team2_TD
-                    team["totalLevel"] = team2_TL
+            data_to_load["midgame_stats"] = midgame_stats["teams"]
+
+            updateDamageAndLevel(data_to_load, "midgame_stats", midgame_team1_TD, midgame_team2_TD, midgame_team1_TL, midgame_team2_TL)
+            updateDamageAndLevel(data_to_load, "end_stats", endgame_team1_TD, endgame_team2_TD, endgame_team1_TL, endgame_team2_TL)
+
 
             data_to_load["game_end"] = data[-1]
 
@@ -153,4 +185,5 @@ def download_games(year):
 
 
 if __name__ == "__main__":
+    download_esports_files()
     download_games(2023)
