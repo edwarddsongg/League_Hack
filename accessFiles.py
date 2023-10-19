@@ -24,12 +24,6 @@ def download_gzip_and_write_to_json(file_name, pathName, priority):
       gameResults = gameData[-1]
 
       extracted_data = {
-        # "platformId": "ESPORTSTMNT01:3303528",
-        # "teamOne": "105550042327365041",
-        # "teamTwo": "105550051809743868",
-        # "winningTeam": "105550051809743868",
-        # "losingTeam": "105550042327365041",
-        # "priority": "lmao?"
       }
 
       if "platformGameId" in gameResults and "winningTeam" in gameResults:
