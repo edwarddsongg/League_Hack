@@ -93,27 +93,42 @@ def download_game_data(file_name):
 
             end_stats = data[-2]
             midgame_stats = {}
+            ninety_stats = {}
 
             total_length_of_game = data[-1]["gameTime"]
             halfway_game_time = total_length_of_game / 2
             total_number_of_events = len(data)
-            start_index = round(total_number_of_events * 0.4)
+            halfway_start_index = round(total_number_of_events * 0.4)
+
+            ninety_percent_game_time = total_length_of_game/ 10 * 9
+            ninety_start_index = round(total_number_of_events * 0.8)
 
             # loop from around 40% point of events until midpoint stats_update is found
-            for i in range(start_index, total_number_of_events):
-                if data[i]["eventType"] == "stats_update" and data[i]["gameTime"] >= (halfway_game_time - 1000) and data[i]["gameTime"] <= (halfway_game_time + 1000):
+            for i in range(halfway_start_index, total_number_of_events):
+                if data[i]["eventType"] == "stats_update" and (halfway_game_time - 1000) <= data[i]["gameTime"] <= (
+                        halfway_game_time + 1000):
                     midgame_stats = data[i]
+                    break
+
+            for i in range(ninety_start_index, total_number_of_events):
+                if data[i]["eventType"] == "stats_update" and (ninety_percent_game_time - 1000) <= data[i]["gameTime"] <= (ninety_percent_game_time + 1000):
+                    ninety_stats = data[i]
                     break
 
             # TD = total damage, TL = total level
             (midgame_team1_TD, midgame_team2_TD, midgame_team1_TL, midgame_team2_TL) = calculate_damage_and_level(midgame_stats)
             (endgame_team1_TD, endgame_team2_TD, endgame_team1_TL, endgame_team2_TL) = calculate_damage_and_level(end_stats)
+            (ninety_team1_TD, ninety_team2_TD, ninety_team1_TL, ninety_team2_TL) = calculate_damage_and_level(ninety_stats)
+
+            # TD = total damage, TL = total level
 
             data_to_load["end_stats"] = data[-2]["teams"]
             data_to_load["midgame_stats"] = midgame_stats["teams"]
+            data_to_load["ninety_stats"] = ninety_stats["teams"]
 
             updateDamageAndLevel(data_to_load, "midgame_stats", midgame_team1_TD, midgame_team2_TD, midgame_team1_TL, midgame_team2_TL)
             updateDamageAndLevel(data_to_load, "end_stats", endgame_team1_TD, endgame_team2_TD, endgame_team1_TL, endgame_team2_TL)
+            updateDamageAndLevel(data_to_load, "ninety_stats", ninety_team1_TD, ninety_team2_TD, ninety_team1_TL, ninety_team2_TL)
 
 
             data_to_load["game_end"] = data[-1]
@@ -156,9 +171,8 @@ def download_games(year):
 
         start_date = tournament.get("startDate", "")
         if start_date.startswith(str(year)):
-            # if tournament['slug'] == "vcs_spring_2023":
-            #     already_downloaded = False
-            #     continue
+            if tournament['slug'] != "lck_summer_2023":
+                continue
             print(f"Processing {tournament['slug']}")
             # if already_downloaded:
             #     continue
