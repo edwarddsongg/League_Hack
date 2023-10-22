@@ -4,7 +4,7 @@ import json
 import os
 
 def getStrength(teamId):
-  with open("region_strengths/team_region.json", 'r') as json_file:
+  with open("region_strengths/team_regions.json", 'r') as json_file:
     teams = json.load(json_file)
 
   with open("region_strengths/2023_region_strength.json", 'r') as json_file:
@@ -12,8 +12,11 @@ def getStrength(teamId):
 
   teamRegion = teams.get(teamId)
 
+  if not teamRegion:
+     return 1
+
   try:
-     return regions.get(teamRegion)
+     return regions[teamRegion]
   except KeyError:
      print(teamRegion + "REGION NOT FOUND")
      return 1
@@ -42,10 +45,12 @@ def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scal
     expected_b = 1 - expected_a
 
     winScale = scale
-    loseScale = 1 if scale > 2 else scale
+    loseScale = 0.5 if scale >= 2 else scale
 
-    new_rating_a = rating_a + winScale * stomp * (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
-    new_rating_b = rating_b + loseScale * stomp * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
+    newStomp = 1 - stomp if stomp < 0.5 else stomp
+
+    new_rating_a = rating_a + winScale * newStomp * (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
+    new_rating_b = rating_b + loseScale * newStomp * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
 
     return new_rating_a, new_rating_b
 
@@ -72,9 +77,26 @@ with open('tournaments_game_info.json', 'r') as json_file:
 for game in tour: 
   teamOne = game.get('teamOne')
   teamTwo = game.get('teamTwo')
+  adjFactor = get_prio(game.get("tournamentId"))
+
+  if teamOne in teams:
+    teamIndex = teams.index(teamOne)
+    if adjFactor < 10: adjFactor = 1
+    elif 100 < adjFactor: adjFactor = 10
+    initialElo = 1500 / adjFactor
+    
+    if initial_ratings[teamIndex] < initialElo: initial_ratings[teamIndex] = initialElo
+
+  if teamTwo in teams:
+    teamIndex = teams.index(teamTwo)
+    if adjFactor < 10: adjFactor = 1
+    elif 100 < adjFactor: adjFactor = 10
+    initialElo = 1500 / adjFactor
+    
+    if initial_ratings[teamIndex] < initialElo: initial_ratings[teamIndex] = initialElo
+
   if teamOne not in teams:
       teams.append(teamOne)
-      adjFactor = get_prio(game.get("tournamentId"))
       if adjFactor < 10: adjFactor = 1
       elif 100 < adjFactor: adjFactor = 10
       initial_ratings.append(1500 / adjFactor)
@@ -93,6 +115,7 @@ total_games = np.full(
 )
 # Create a DataFrame to store ratings
 df = pd.DataFrame({"team": teams, "Rating": initial_ratings, "gamesPlayed": total_games})
+tournamentdf = pd.DataFrame(columns = ["tournamentId", "stage", "rankings"])
 
 with open('tournaments_game_info.json', 'r') as json_file:
   results = json.load(json_file)
@@ -103,10 +126,6 @@ for tour in results:
     outcome = 1 if tour.get("winTeam") == teamOne else 0
 
     stomp = get_stomp_factor(tour.get("platformId"))
-      
-
-    print(tour.get("platformId"))
-    print(stomp)
     
     new_rating_one, new_rating_two = update_ratings(df.loc[df["team"] == teamOne, "Rating"].values[0],
                                                     df.loc[df["team"] == teamTwo, "Rating"].values[0],
@@ -126,13 +145,9 @@ with open('esports-data/teams.json', 'r') as json_file:
 
 for val in returnDict:
     teamId = val.get("team")
-    val["Rating"] = getStrength(teamId) * val.get("Rating")
+    teamStrength = getStrength(teamId) 
+    val["Rating"] = teamStrength * val.get("Rating")
 
-    for pro in proTeams:
-        if pro.get("team_id") == teamId:
-            val.update({"name": pro.get("name")})
-
-print(returnDict)
-with open("test_rankings.json", "w") as outfile:
+with open("final_results.json", "w") as outfile:
     json.dump(
         sorted(returnDict, key=lambda x: x['Rating'], reverse=True), outfile, indent=2)
