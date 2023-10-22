@@ -3,6 +3,29 @@ import numpy as np
 import json
 import os
 
+def getStrength(teamId):
+  with open("region_strengths/team_region.json", 'r') as json_file:
+    teams = json.load(json_file)
+
+  with open("region_strengths/2023_region_strength.json", 'r') as json_file:
+    regions = json.load(json_file)
+
+  teamRegion = teams.get(teamId)
+
+  try:
+     return regions.get(teamRegion)
+  except KeyError:
+     print(teamRegion + "REGION NOT FOUND")
+     return 1
+
+def get_stomp_factor(gameId):
+   with open("model_results.json", 'r') as json_file:
+      games = json.load(json_file)
+      
+      try:
+        return games[gameId]
+      except KeyError:
+         return 0.5
 
 def calculate_expected_result(rating_a, rating_b):
     """
@@ -11,15 +34,18 @@ def calculate_expected_result(rating_a, rating_b):
     return 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
 
 
-def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scale):
+def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scale, stomp):
     """
     Update Elo ratings for two players based on the outcome of a match.
     """
     expected_a = calculate_expected_result(rating_a, rating_b)
     expected_b = 1 - expected_a
 
-    new_rating_a = rating_a + scale * (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
-    new_rating_b = rating_b + scale * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
+    winScale = scale
+    loseScale = 1 if scale > 2 else scale
+
+    new_rating_a = rating_a + winScale * stomp * (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
+    new_rating_b = rating_b + loseScale * stomp * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
 
     return new_rating_a, new_rating_b
 
@@ -76,10 +102,16 @@ for tour in results:
     weight = tour.get("weight")
     outcome = 1 if tour.get("winTeam") == teamOne else 0
 
+    stomp = get_stomp_factor(tour.get("platformId"))
+      
+
+    print(tour.get("platformId"))
+    print(stomp)
+    
     new_rating_one, new_rating_two = update_ratings(df.loc[df["team"] == teamOne, "Rating"].values[0],
                                                     df.loc[df["team"] == teamTwo, "Rating"].values[0],
                                                     df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0],
-                                                    df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0], outcome, weight)
+                                                    df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0], outcome, weight, stomp)
 
     df.loc[df["team"] == teamOne, "Rating"] = new_rating_one
     df.loc[df["team"] == teamOne, "gamesPlayed"] = df.loc[df["team"] == teamOne, "gamesPlayed"].values[0] + 1
@@ -94,6 +126,8 @@ with open('esports-data/teams.json', 'r') as json_file:
 
 for val in returnDict:
     teamId = val.get("team")
+    val["Rating"] = getStrength(teamId) * val.get("Rating")
+
     for pro in proTeams:
         if pro.get("team_id") == teamId:
             val.update({"name": pro.get("name")})
