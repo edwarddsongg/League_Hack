@@ -3,11 +3,11 @@ import numpy as np
 import json
 import os
 
-def getStrength(teamId):
+def getStrength(teamId, year):
   with open("region_strengths/team_regions.json", 'r') as json_file:
     teams = json.load(json_file)
 
-  with open("region_strengths/2023_region_strength.json", 'r') as json_file:
+  with open("region_strengths/" + year + "_region_strength.json", 'r') as json_file:
     regions = json.load(json_file)
 
   teamRegion = teams.get(teamId)
@@ -29,6 +29,29 @@ def get_stomp_factor(gameId):
         return games[gameId]
       except KeyError:
          return 0.5
+
+def parseResults(teamList):
+    with open("esports-data/teams.json", 'r', encoding='utf-8') as json_file:
+        teams_json = json.load(json_file)
+
+    rankings = list()
+
+    def findTeam(team):
+      for teams in teams_json:
+         if teams["team_id"] == team:
+            return teams
+
+    for ranking in teamList:
+        print(ranking)
+        team_id = ranking["team"] 
+        teamData = findTeam(team_id)
+
+        try:
+            rankings.append({"team_id": team_id, "team_code": teamData["acronym"], "team_name": teamData["name"]})
+        except:
+            pass
+        
+    return rankings
 
 def calculate_expected_result(rating_a, rating_b):
     """
@@ -69,8 +92,30 @@ def get_prio(tournamentId):
   
   return 1000
 
+def getStageEndResults(df, teams, year):
+  outputArray = []
+  for team in teams:
+    dfRow = df.loc[df["team"] != team]
+    teamRating = dfRow["Rating"].values[0]
+
+    teamStrength = getStrength(team, year) 
+    teamRating = teamStrength * teamRating
+
+    teamStats = {"team": team, "Rating": teamRating}
+    outputArray.append(teamStats)
+
+  outputArray.sort(key=lambda x: x['Rating'], reverse=True)
+
+  outputArray = parseResults(outputArray)
+
+  print(outputArray)
+
+  return outputArray
+
+## GETTING THE DF SETUP FOR CALCULATIONS
 teams = []
 initial_ratings = []
+
 with open('tournaments_game_info.json', 'r') as json_file:
     tour = json.load(json_file)
 
@@ -113,15 +158,36 @@ total_games = np.full(
   fill_value=0,
   dtype=np.int64
 )
+
 # Create a DataFrame to store ratings
 df = pd.DataFrame({"team": teams, "Rating": initial_ratings, "gamesPlayed": total_games})
 tournamentdf = pd.DataFrame(columns = ["tournamentId", "stage", "rankings"])
 
+## ACTUAL CALCULATIONS
 with open('tournaments_game_info.json', 'r') as json_file:
   results = json.load(json_file)
-for tour in results:
+
+playingTeams = []
+
+for i in range(len(results)):
+    tour = results[i]
+    
+    if i > 0 and tour.get("stage") != results[i - 1].get("stage"):
+      gameYear = results[i-1]["startDate"][0:4]
+      stageEndResults = getStageEndResults(df, playingTeams, gameYear)
+      tournamentdf.loc[len(tournamentdf)] = [results[i-1]["tournamentId"], results[i-1]["stage"], stageEndResults]
+
+      playingTeams = []
+
     teamOne = tour.get("teamOne")
     teamTwo = tour.get("teamTwo")
+
+    if teamOne not in playingTeams:
+      playingTeams.append(teamOne)
+
+    if teamTwo not in playingTeams:
+      playingTeams.append(teamTwo)
+  
     weight = tour.get("weight")
     outcome = 1 if tour.get("winTeam") == teamOne else 0
 
@@ -139,15 +205,19 @@ for tour in results:
 
 
 returnDict = df.to_dict('records')
-
-with open('esports-data/teams.json', 'r') as json_file:
-    proTeams = json.load(json_file)
+stageResults = tournamentdf.to_dict('records')
 
 for val in returnDict:
     teamId = val.get("team")
-    teamStrength = getStrength(teamId) 
+    teamStrength = getStrength(teamId, "2023") 
     val["Rating"] = teamStrength * val.get("Rating")
 
+
+returnDict.sort(key=lambda x: x['Rating'], reverse=True)
+returnDict = parseResults(returnDict)
+
 with open("final_results.json", "w") as outfile:
-    json.dump(
-        sorted(returnDict, key=lambda x: x['Rating'], reverse=True), outfile, indent=2)
+    json.dump(returnDict, outfile, indent=2)
+
+with open("tourney_stage_results.json", "w") as outfile:
+    json.dump(stageResults, outfile, indent=2)
