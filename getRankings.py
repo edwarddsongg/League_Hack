@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
-import os
+import time
 
 def getStrength(teamId, year):
   with open("region_strengths/team_regions.json", 'r') as json_file:
@@ -18,7 +18,7 @@ def getStrength(teamId, year):
   try:
      return regions[teamRegion]
   except KeyError:
-     print(teamRegion + "REGION NOT FOUND")
+     print(teamId + "REGION NOT FOUND")
      return 1
 
 def get_stomp_factor(gameId):
@@ -42,7 +42,6 @@ def parseResults(teamList):
             return teams
 
     for ranking in teamList:
-        print(ranking)
         team_id = ranking["team"] 
         teamData = findTeam(team_id)
 
@@ -73,7 +72,7 @@ def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scal
     newStomp = 1 - stomp if stomp < 0.5 else stomp
 
     new_rating_a = rating_a + winScale * newStomp * (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
-    new_rating_b = rating_b + loseScale * newStomp * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
+    new_rating_b = rating_b + loseScale * (newStomp / 2) * (50/(1+(teamTwoGames / 300))) * ((1 - outcome) - expected_b)
 
     return new_rating_a, new_rating_b
 
@@ -108,10 +107,10 @@ def getStageEndResults(df, teams, year):
 
   outputArray = parseResults(outputArray)
 
-  print(outputArray)
-
   return outputArray
 
+
+start_time = time.time()
 ## GETTING THE DF SETUP FOR CALCULATIONS
 teams = []
 initial_ratings = []
@@ -221,3 +220,5 @@ with open("final_results.json", "w") as outfile:
 
 with open("tourney_stage_results.json", "w") as outfile:
     json.dump(stageResults, outfile, indent=2)
+
+print("finished in: " + round((time.time() - start_time)/60, 2))
