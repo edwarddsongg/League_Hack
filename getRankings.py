@@ -148,7 +148,7 @@ for game in tour:
             adjFactor = 1
         elif 100 < adjFactor:
             adjFactor = 10
-        initialElo = 1500 / adjFactor
+        initialElo = 2000 / adjFactor
 
         if initial_ratings[teamIndex] < initialElo:
             initial_ratings[teamIndex] = initialElo
@@ -159,7 +159,7 @@ for game in tour:
             adjFactor = 1
         elif 100 < adjFactor:
             adjFactor = 10
-        initialElo = 1500 / adjFactor
+        initialElo = 2000 / adjFactor
 
         if initial_ratings[teamIndex] < initialElo:
             initial_ratings[teamIndex] = initialElo
@@ -168,9 +168,11 @@ for game in tour:
         teams.append(teamOne)
         if adjFactor < 10:
             adjFactor = 1
-        elif 100 < adjFactor:
+        elif 100 < adjFactor < 1000:
             adjFactor = 10
-        initial_ratings.append(1500 / adjFactor)
+        else:
+            adjFactor = 25
+        initial_ratings.append(2000 / adjFactor)
 
     if teamTwo not in teams:
         teams.append(teamTwo)
@@ -179,8 +181,8 @@ for game in tour:
         elif 100 < adjFactor < 1000:
             adjFactor = 10
         else:
-            adjFactor = 50
-        initial_ratings.append(1500 / adjFactor)
+            adjFactor = 25
+        initial_ratings.append(2000 / adjFactor)
 
 total_games = np.full(
     shape=len(teams),
@@ -239,6 +241,11 @@ for i in range(len(results)):
     df.loc[df["team"] == teamTwo, "gamesPlayed"] = df.loc[df["team"]
                                                           == teamTwo, "gamesPlayed"].values[0] + 1
 
+
+gameYear = results[i-1]["startDate"][0:4]
+stageEndResults = getStageEndResults(df, playingTeams, gameYear)
+tournamentdf.loc[len(tournamentdf)] = [
+    results[i-1]["tournamentId"], results[i-1]["stage"], stageEndResults]
 
 returnDict = df.to_dict('records')
 stageResults = tournamentdf.to_dict('records')
