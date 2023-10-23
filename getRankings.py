@@ -50,7 +50,10 @@ def parseResults(teamList):
 
         try:
             rankings.append(
-                {"team_id": team_id, "team_code": teamData["acronym"], "team_name": teamData["name"]})
+                {"team_id": team_id, 
+                 "team_code": teamData["acronym"], 
+                 "team_name": teamData["name"], 
+                 "rating": ranking["Rating"]})
         except:
             pass
 
@@ -102,13 +105,12 @@ def get_prio(tournamentId):
 def getStageEndResults(df, teams, year):
     outputArray = []
     for team in teams:
-        dfRow = df.loc[df["team"] != team]
+        dfRow = df.loc[df["team"] == team]
         teamRating = dfRow["Rating"].values[0]
 
         teamStrength = getStrength(team, year)
-        teamRating = teamStrength * teamRating
 
-        teamStats = {"team": team, "Rating": teamRating}
+        teamStats = {"team": team, "Rating": teamStrength * teamRating}
         outputArray.append(teamStats)
 
     outputArray.sort(key=lambda x: x['Rating'], reverse=True)
@@ -126,8 +128,11 @@ initial_ratings = []
 with open('tournaments_game_info.json', 'r') as json_file:
     tour = json.load(json_file)
 
-lplTourneys = ["110825936250664572", "110428848766564346", "109669600527985422", "108888310291632913", "108431300950695970", "107417779630700437", "106860829994219982",
-               "106269484328946755", "105516880821527383", "104282610668475466", "103462420723438502", "102181141746404105", "101388912982111577", "100205574095502272", "99566404873639114"]
+lplTourneys = ["110825936250664572", "110428848766564346", "109669600527985422", 
+               "108888310291632913", "108431300950695970", "107417779630700437", 
+               "106860829994219982", "106269484328946755", "105516880821527383", 
+               "104282610668475466", "103462420723438502", "102181141746404105",
+                 "101388912982111577", "100205574095502272", "99566404873639114"]
 
 for game in tour:
     teamOne = game.get('teamOne')
@@ -224,7 +229,8 @@ for i in range(len(results)):
                                                            "Rating"].values[0],
                                                     df.loc[df["team"] == teamTwo,
                                                            "gamesPlayed"].values[0],
-                                                    df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0], outcome, weight, stomp)
+                                                    df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0], 
+                                                    outcome, weight, stomp)
 
     df.loc[df["team"] == teamOne, "Rating"] = new_rating_one
     df.loc[df["team"] == teamOne, "gamesPlayed"] = df.loc[df["team"]
@@ -251,5 +257,3 @@ with open("final_results.json", "w") as outfile:
 
 with open("tourney_stage_results.json", "w") as outfile:
     json.dump(stageResults, outfile, indent=2)
-
-print("finished in: " + round((time.time() - start_time)/60, 2))
