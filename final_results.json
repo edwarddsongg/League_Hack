@@ -3,1411 +3,1417 @@
     "team_id": "98767991853197861",
     "team_code": "T1",
     "team_name": "T1",
-    "rating": 3538.806301233126
+    "rating": 3568.752626312361
   },
   {
     "team_id": "100725845018863243",
     "team_code": "DK",
     "team_name": "Dplus Kia",
-    "rating": 3509.7184379959667
+    "rating": 3568.5417028267025
   },
   {
     "team_id": "100205573495116443",
     "team_code": "GEN",
     "team_name": "Gen.G",
-    "rating": 3446.98141471901
-  },
-  {
-    "team_id": "99566404853854212",
-    "team_code": "BLG",
-    "team_name": "Bilibili Gaming Pingan Bank",
-    "rating": 3266.6713935360463
-  },
-  {
-    "team_id": "99566404852189289",
-    "team_code": "JDG",
-    "team_name": "Beijing JDG Intel Esports Club",
-    "rating": 3228.878895882653
-  },
-  {
-    "team_id": "99566404853058754",
-    "team_code": "WBG",
-    "team_name": "WeiboGaming FAW AUDI",
-    "rating": 3226.025670516779
-  },
-  {
-    "team_id": "99566404585387054",
-    "team_code": "DRX",
-    "team_name": "DRX",
-    "rating": 3224.432185247292
-  },
-  {
-    "team_id": "99566404579461230",
-    "team_code": "KT",
-    "team_name": "kt Rolster",
-    "rating": 3211.71050458806
-  },
-  {
-    "team_id": "99566404581868574",
-    "team_code": "KDF",
-    "team_name": "Kwangdong Freecs",
-    "rating": 3211.0598031471345
+    "rating": 3457.0152586974655
   },
   {
     "team_id": "98767991882270868",
     "team_code": "EDG",
     "team_name": "SHANGHAI EDWARD GAMING HYCAN",
-    "rating": 3173.1998842534517
+    "rating": 3286.5940174506277
   },
   {
-    "team_id": "99566404850008779",
-    "team_code": "LNG",
-    "team_name": "Suzhou LNG Esports",
-    "rating": 3144.1921796124043
+    "team_id": "99566404853058754",
+    "team_code": "WBG",
+    "team_name": "WeiboGaming FAW AUDI",
+    "rating": 3254.0387982333423
+  },
+  {
+    "team_id": "99566404853854212",
+    "team_code": "BLG",
+    "team_name": "Bilibili Gaming Pingan Bank",
+    "rating": 3251.2561494538613
+  },
+  {
+    "team_id": "99566404585387054",
+    "team_code": "DRX",
+    "team_name": "DRX",
+    "rating": 3249.865764377477
+  },
+  {
+    "team_id": "99566404579461230",
+    "team_code": "KT",
+    "team_name": "kt Rolster",
+    "rating": 3247.2826304325126
+  },
+  {
+    "team_id": "99566404581868574",
+    "team_code": "KDF",
+    "team_name": "Kwangdong Freecs",
+    "rating": 3240.126610780794
+  },
+  {
+    "team_id": "99566404852189289",
+    "team_code": "JDG",
+    "team_name": "Beijing JDG Intel Esports Club",
+    "rating": 3223.5433867492275
   },
   {
     "team_id": "105505619546859895",
     "team_code": "BRO",
     "team_name": "OKSavingsBank BRION",
-    "rating": 3120.8315894654606
-  },
-  {
-    "team_id": "99566404854685458",
-    "team_code": "TES",
-    "team_name": "TOP ESPORTS",
-    "rating": 3119.699060901555
+    "rating": 3157.6951385797156
   },
   {
     "team_id": "100205573496804586",
     "team_code": "HLE",
     "team_name": "Hanwha Life Esports",
-    "rating": 3119.0064428385917
+    "rating": 3153.029329991844
   },
   {
     "team_id": "102747101565183056",
     "team_code": "NS",
     "team_name": "NongShim REDFORCE",
-    "rating": 3108.6725114236397
+    "rating": 3146.343280802741
+  },
+  {
+    "team_id": "99566404854685458",
+    "team_code": "TES",
+    "team_name": "TOP ESPORTS",
+    "rating": 3066.2646592285196
+  },
+  {
+    "team_id": "99566404850008779",
+    "team_code": "LNG",
+    "team_name": "Suzhou LNG Esports",
+    "rating": 3042.1740209987106
   },
   {
     "team_id": "100725845022060229",
     "team_code": "LSB",
     "team_name": "Liiv SANDBOX",
-    "rating": 2990.4608138177255
+    "rating": 3028.287902174362
   },
   {
     "team_id": "102747101562758215",
     "team_code": "SP",
     "team_name": "SeolHaeOne Prince",
-    "rating": 2953.749314230751
-  },
-  {
-    "team_id": "98767991892579754",
-    "team_code": "RNG",
-    "team_name": "Royal Never Give Up",
-    "rating": 2930.218087820527
-  },
-  {
-    "team_id": "104016416551172375",
-    "team_code": "SRB",
-    "team_name": "Seorabeol Gaming",
-    "rating": 2922.147120409252
+    "rating": 2999.73415015298
   },
   {
     "team_id": "99871276356460471",
     "team_code": "GFF",
     "team_name": "Griffin",
-    "rating": 2903.4454754908643
+    "rating": 2954.16016624119
   },
   {
-    "team_id": "99566404855553726",
-    "team_code": "FPX",
-    "team_name": "FunPlus Phoenix",
-    "rating": 2873.48860084531
+    "team_id": "104016416551172375",
+    "team_code": "SRB",
+    "team_name": "Seorabeol Gaming",
+    "rating": 2936.2090424305993
   },
   {
     "team_id": "98767991877340524",
     "team_code": "C9",
     "team_name": "Cloud9",
-    "rating": 2830.9959587134704
+    "rating": 2834.636166634495
+  },
+  {
+    "team_id": "98767991892579754",
+    "team_code": "RNG",
+    "team_name": "Royal Never Give Up",
+    "rating": 2812.2037804047545
+  },
+  {
+    "team_id": "99566404855553726",
+    "team_code": "FPX",
+    "team_name": "FunPlus Phoenix",
+    "rating": 2805.60676700316
   },
   {
     "team_id": "99566404848691211",
     "team_code": "IG",
     "team_name": "Invictus Gaming",
-    "rating": 2724.368896491954
+    "rating": 2725.5106330187095
   },
   {
     "team_id": "99566404846951820",
     "team_code": "LGD",
     "team_name": "LGD GAMING",
-    "rating": 2624.0196279056913
+    "rating": 2585.2892160013675
   },
   {
     "team_id": "98926509892121852",
     "team_code": "FLY",
     "team_name": "FlyQuest",
-    "rating": 2599.4319731829964
+    "rating": 2549.567328045506
   },
   {
     "team_id": "103461966951059521",
     "team_code": "EG",
     "team_name": "Evil Geniuses LG",
-    "rating": 2564.261042523526
+    "rating": 2546.5922380954703
   },
   {
     "team_id": "106972778172351142",
     "team_code": "NRG",
     "team_name": "NRG",
-    "rating": 2539.672046857459
-  },
-  {
-    "team_id": "98767991860392497",
-    "team_code": "TSM",
-    "team_name": "TSM",
-    "rating": 2521.15030413585
-  },
-  {
-    "team_id": "98926509885559666",
-    "team_code": "TL",
-    "team_name": "Team Liquid Honda",
-    "rating": 2470.738055037174
+    "rating": 2534.1448827589693
   },
   {
     "team_id": "103461966965149786",
     "team_code": "MAD",
     "team_name": "MAD Lions",
-    "rating": 2434.3052123755465
+    "rating": 2494.302819734801
+  },
+  {
+    "team_id": "98767991860392497",
+    "team_code": "TSM",
+    "team_name": "TSM",
+    "rating": 2475.5186840933147
+  },
+  {
+    "team_id": "98926509885559666",
+    "team_code": "TL",
+    "team_name": "Team Liquid Honda",
+    "rating": 2434.047319383817
   },
   {
     "team_id": "99294153824386385",
     "team_code": "GG",
     "team_name": "Golden Guardians",
-    "rating": 2427.8776465762126
-  },
-  {
-    "team_id": "99294153828264740",
-    "team_code": "100",
-    "team_name": "100 Thieves",
-    "rating": 2404.9051955800483
+    "rating": 2390.9628456114165
   },
   {
     "team_id": "98767991866488695",
     "team_code": "FNC",
     "team_name": "Fnatic",
-    "rating": 2393.358461507952
+    "rating": 2389.9781958525555
+  },
+  {
+    "team_id": "99294153828264740",
+    "team_code": "100",
+    "team_name": "100 Thieves",
+    "rating": 2374.7604838446114
   },
   {
     "team_id": "98767991926151025",
     "team_code": "G2",
     "team_name": "G2 Esports",
-    "rating": 2367.775623424425
-  },
-  {
-    "team_id": "98926509883054987",
-    "team_code": "DIG",
-    "team_name": "Dignitas",
-    "rating": 2277.3471616938587
+    "rating": 2368.8409581175706
   },
   {
     "team_id": "98767991940181526",
     "team_code": "MSF",
     "team_name": "Misfits Gaming",
-    "rating": 2264.239686180008
+    "rating": 2245.100847873299
   },
   {
-    "team_id": "98767991930907107",
-    "team_code": "IMT",
-    "team_name": "Immortals Progressive",
-    "rating": 2230.8291406683416
-  },
-  {
-    "team_id": "107563714667537640",
-    "team_code": "BDS",
-    "team_name": "Team BDS",
-    "rating": 2227.4847005547313
+    "team_id": "98926509883054987",
+    "team_code": "DIG",
+    "team_name": "Dignitas",
+    "rating": 2243.0883141323147
   },
   {
     "team_id": "101383793574360315",
     "team_code": "KOI",
     "team_name": "KOI",
-    "rating": 2223.113968935623
+    "rating": 2216.4770757084093
+  },
+  {
+    "team_id": "107563714667537640",
+    "team_code": "BDS",
+    "team_name": "Team BDS",
+    "rating": 2212.026963303185
+  },
+  {
+    "team_id": "98767991930907107",
+    "team_code": "IMT",
+    "team_name": "Immortals Progressive",
+    "rating": 2204.253277977203
   },
   {
     "team_id": "109637393694097670",
     "team_code": "TH",
     "team_name": "Team Heretics",
-    "rating": 2215.123098339458
-  },
-  {
-    "team_id": "98926509884398584",
-    "team_code": "CLG",
-    "team_name": "CLG",
-    "rating": 2182.070670657654
+    "rating": 2197.988942980766
   },
   {
     "team_id": "101383793567806688",
     "team_code": "SK",
     "team_name": "SK Gaming",
-    "rating": 2170.0819911992858
+    "rating": 2174.6498001507757
+  },
+  {
+    "team_id": "98926509884398584",
+    "team_code": "CLG",
+    "team_name": "CLG",
+    "rating": 2146.750278980757
   },
   {
     "team_id": "101383793569248484",
     "team_code": "AST",
     "team_name": "Astralis",
-    "rating": 2163.06122076375
+    "rating": 2144.7370990312115
   },
   {
     "team_id": "99322214695067838",
     "team_code": "VIT",
     "team_name": "Team Vitality",
-    "rating": 2155.8029910767655
+    "rating": 2138.506227671051
   },
   {
     "team_id": "101383793572656373",
     "team_code": "XL",
     "team_name": "EXCEL",
-    "rating": 2136.3569878702965
+    "rating": 2119.5226987208243
   },
   {
     "team_id": "99322214689444546",
     "team_code": "S04",
     "team_name": "Schalke 04 Esports",
-    "rating": 1295.3576336468743
+    "rating": 1259.12263431328
   },
   {
     "team_id": "107467803833323099",
     "team_code": "HRTS",
     "team_name": "Los Heretics",
-    "rating": 817.8826291915769
+    "rating": 828.7140739639153
   },
   {
     "team_id": "105504044166670507",
     "team_code": "USE",
     "team_name": "Unicorns of Love Sexy Edition",
-    "rating": 779.0476254466063
-  },
-  {
-    "team_id": "105515219038427019",
-    "team_code": "KC",
-    "team_name": "Karmine Corp",
-    "rating": 750.7592419196407
+    "rating": 798.9728123670736
   },
   {
     "team_id": "104367068120825486",
     "team_code": "PSG",
     "team_name": "PSG Talon",
-    "rating": 684.2765987761059
+    "rating": 776.8350432795663
   },
   {
     "team_id": "107700199633958891",
     "team_code": "CFO",
     "team_name": "CTBC Flying Oyster",
-    "rating": 683.9738242066142
+    "rating": 763.4841176660376
   },
   {
-    "team_id": "105514907449611976",
-    "team_code": "BDSA",
-    "team_name": "Team BDS Academy",
-    "rating": 678.6446230301834
-  },
-  {
-    "team_id": "107581759470356115",
-    "team_code": "SAP",
-    "team_name": "Saprissa Esports",
-    "rating": 676.0085239724252
-  },
-  {
-    "team_id": "105550054006182911",
-    "team_code": "NS",
-    "team_name": "NONGSHIM ESPORTS ACADEMY",
-    "rating": 657.3329152003695
-  },
-  {
-    "team_id": "99566405130451785",
-    "team_code": "C9",
-    "team_name": "Cloud9 Challengers",
-    "rating": 656.7622485482955
-  },
-  {
-    "team_id": "103935530333072898",
-    "team_code": "RGO",
-    "team_name": "AGO Rogue",
-    "rating": 614.4943678633456
-  },
-  {
-    "team_id": "102787200136756173",
-    "team_code": "BIG",
-    "team_name": "Berlin International Gaming",
-    "rating": 609.3407954227355
-  },
-  {
-    "team_id": "105397404796640412",
-    "team_code": "LLL",
-    "team_name": "LOUD",
-    "rating": 605.411393021168
-  },
-  {
-    "team_id": "106269804045322803",
-    "team_code": "BYG",
-    "team_name": "Beyond Gaming",
-    "rating": 588.4046392410654
+    "team_id": "105515219038427019",
+    "team_code": "KC",
+    "team_name": "Karmine Corp",
+    "rating": 760.0288320727483
   },
   {
     "team_id": "107760667929003738",
     "team_code": "FAK",
     "team_name": "Frank Esports",
-    "rating": 585.7584185457234
+    "rating": 746.1224805548053
   },
   {
-    "team_id": "102787200120306562",
-    "team_code": "MOUZ",
-    "team_name": "Mousesports",
-    "rating": 579.0502943177815
-  },
-  {
-    "team_id": "108159917648031455",
-    "team_code": "USTE",
-    "team_name": "UST Esports",
-    "rating": 568.1598135203111
-  },
-  {
-    "team_id": "100285330168091787",
-    "team_code": "DFM",
-    "team_name": "DetonatioN FocusMe",
-    "rating": 565.2335298226475
-  },
-  {
-    "team_id": "102787200134790084",
-    "team_code": "FNCR",
-    "team_name": "HMA Fnatic Rising",
-    "rating": 564.1282836654849
-  },
-  {
-    "team_id": "103877625775457850",
-    "team_code": "MRS",
-    "team_name": "Movistar Riders",
-    "rating": 555.9141442867649
+    "team_id": "105550054006182911",
+    "team_code": "NS",
+    "team_name": "NONGSHIM ESPORTS ACADEMY",
+    "rating": 721.2979080182292
   },
   {
     "team_id": "107700204561086446",
     "team_code": "DCG",
     "team_name": "Deep Cross Gaming",
-    "rating": 555.304504172523
+    "rating": 702.765169428223
   },
   {
-    "team_id": "107603600826620492",
-    "team_code": "Z5K",
-    "team_name": "Zeus Kralik",
-    "rating": 549.9536785166248
+    "team_id": "107581759470356115",
+    "team_code": "SAP",
+    "team_name": "Saprissa Esports",
+    "rating": 697.3483106363416
   },
   {
-    "team_id": "105519746234964687",
-    "team_code": "DY",
-    "team_name": "Dusty",
-    "rating": 542.2350052164315
+    "team_id": "105514907449611976",
+    "team_code": "BDSA",
+    "team_name": "Team BDS Academy",
+    "rating": 676.854995410111
   },
   {
-    "team_id": "105550026570060790",
-    "team_code": "DK",
-    "team_name": "DK Challengers",
-    "rating": 542.1592697087856
+    "team_id": "99566405130451785",
+    "team_code": "C9",
+    "team_name": "Cloud9 Challengers",
+    "rating": 661.4816060588827
   },
   {
-    "team_id": "107575082591536093",
-    "team_code": "EIQ",
-    "team_name": "Entropiq",
-    "rating": 541.0500462789649
+    "team_id": "105397404796640412",
+    "team_code": "LLL",
+    "team_name": "LOUD",
+    "rating": 652.1978744805074
   },
   {
-    "team_id": "102141671183409133",
-    "team_code": "MU",
-    "team_name": "Maryville University",
-    "rating": 539.5651909457329
+    "team_id": "102787200136756173",
+    "team_code": "BIG",
+    "team_name": "Berlin International Gaming",
+    "rating": 618.0392967293965
   },
   {
-    "team_id": "103535282158162659",
-    "team_code": "IW",
-    "team_name": "DenizBank \u0130stanbul Wildcats Akademi",
-    "rating": 534.3752201472813
+    "team_id": "103935530333072898",
+    "team_code": "RGO",
+    "team_name": "AGO Rogue",
+    "rating": 616.7403143276713
   },
   {
-    "team_id": "107582618156093368",
-    "team_code": "INC",
-    "team_name": "Incubus",
-    "rating": 527.8214775635417
-  },
-  {
-    "team_id": "99566406490127625",
-    "team_code": "JT",
-    "team_name": "J Team",
-    "rating": 520.1102962563513
-  },
-  {
-    "team_id": "103877589042434434",
-    "team_code": "GL",
-    "team_name": "GamerLegion",
-    "rating": 519.672306176867
-  },
-  {
-    "team_id": "107581765633427097",
-    "team_code": "FUE",
-    "team_name": "Fuego",
-    "rating": 513.8904222988022
-  },
-  {
-    "team_id": "107416483509696259",
-    "team_code": "EINS",
-    "team_name": "Eintracht Spandau",
-    "rating": 511.4839661116458
-  },
-  {
-    "team_id": "109783023470714128",
-    "team_code": "TONY",
-    "team_name": "Team Tony Top",
-    "rating": 510.19339265702314
-  },
-  {
-    "team_id": "105559480124455983",
-    "team_code": "SKP",
-    "team_name": "SK Gaming Prime",
-    "rating": 508.3597441433231
-  },
-  {
-    "team_id": "103877675241047720",
-    "team_code": "LDLC",
-    "team_name": "LDLC OL",
-    "rating": 507.76938629761867
-  },
-  {
-    "team_id": "110428362822825796",
-    "team_code": "DSG",
-    "team_name": "Disguised",
-    "rating": 501.5985721393699
-  },
-  {
-    "team_id": "109800832177252614",
-    "team_code": "OAE",
-    "team_name": "Orbit Anonymo",
-    "rating": 495.41994933096356
-  },
-  {
-    "team_id": "105520819263036609",
-    "team_code": "AGC",
-    "team_name": "The Agency",
-    "rating": 488.7641936181922
-  },
-  {
-    "team_id": "107582157086477662",
-    "team_code": "DSC",
-    "team_name": "Descuydado Aucas Esports",
-    "rating": 484.49839108633444
+    "team_id": "100285330168091787",
+    "team_code": "DFM",
+    "team_name": "DetonatioN FocusMe",
+    "rating": 604.1275066443644
   },
   {
     "team_id": "99566406493155041",
     "team_code": "MCX",
     "team_name": "Machi Esports",
-    "rating": 484.2937285025024
+    "rating": 598.7051536913357
   },
   {
-    "team_id": "107423075317119707",
-    "team_code": "X7",
-    "team_name": "X7",
-    "rating": 482.28691188643234
+    "team_id": "105550026570060790",
+    "team_code": "DK",
+    "team_name": "DK Challengers",
+    "rating": 598.1657783967538
+  },
+  {
+    "team_id": "102787200120306562",
+    "team_code": "MOUZ",
+    "team_name": "Mousesports",
+    "rating": 590.6020324847672
+  },
+  {
+    "team_id": "108159917648031455",
+    "team_code": "USTE",
+    "team_name": "UST Esports",
+    "rating": 583.7910386971354
+  },
+  {
+    "team_id": "103877625775457850",
+    "team_code": "MRS",
+    "team_name": "Movistar Riders",
+    "rating": 570.767127010664
+  },
+  {
+    "team_id": "107582618156093368",
+    "team_code": "INC",
+    "team_name": "Incubus",
+    "rating": 564.3757689920039
+  },
+  {
+    "team_id": "105519746234964687",
+    "team_code": "DY",
+    "team_name": "Dusty",
+    "rating": 564.1018753210864
+  },
+  {
+    "team_id": "103535282158162659",
+    "team_code": "IW",
+    "team_name": "DenizBank \u0130stanbul Wildcats Akademi",
+    "rating": 558.7185523917271
+  },
+  {
+    "team_id": "110428362822825796",
+    "team_code": "DSG",
+    "team_name": "Disguised",
+    "rating": 553.6787947257371
+  },
+  {
+    "team_id": "102787200134790084",
+    "team_code": "FNCR",
+    "team_name": "HMA Fnatic Rising",
+    "rating": 551.9583852765718
+  },
+  {
+    "team_id": "107582157086477662",
+    "team_code": "DSC",
+    "team_name": "Descuydado Aucas Esports",
+    "rating": 551.0864480179548
+  },
+  {
+    "team_id": "107575082591536093",
+    "team_code": "EIQ",
+    "team_name": "Entropiq",
+    "rating": 545.0279650197851
   },
   {
     "team_id": "107251374793416561",
     "team_code": "CES",
     "team_name": "CERBERUS ESPORTS",
-    "rating": 481.27530526106915
+    "rating": 538.8232775323029
   },
   {
-    "team_id": "102787200151698443",
-    "team_code": "VITB",
-    "team_name": "Vitality.Bee",
-    "rating": 480.58949405224706
+    "team_id": "105559480124455983",
+    "team_code": "SKP",
+    "team_name": "SK Gaming Prime",
+    "rating": 526.1586006357929
   },
   {
-    "team_id": "109696126554266494",
-    "team_code": "GK",
-    "team_name": "Geekay Esports",
-    "rating": 477.633502802757
+    "team_id": "103877589042434434",
+    "team_code": "GL",
+    "team_name": "GamerLegion",
+    "rating": 522.8843086461475
   },
   {
-    "team_id": "102787200126663579",
-    "team_code": "GIA",
-    "team_name": "Giants",
-    "rating": 474.4505179686712
+    "team_id": "107603600826620492",
+    "team_code": "Z5K",
+    "team_name": "Zeus Kralik",
+    "rating": 520.0283399364581
   },
   {
-    "team_id": "107599156601411192",
-    "team_code": "MOX",
-    "team_name": "Movistar Optix",
-    "rating": 474.2091510934291
+    "team_id": "106269804045322803",
+    "team_code": "BYG",
+    "team_name": "Beyond Gaming",
+    "rating": 519.1983915051151
   },
   {
-    "team_id": "102235771678061291",
-    "team_code": "IW",
-    "team_name": "DenizBank \u0130stanbul Wildcats",
-    "rating": 471.8210441552823
+    "team_id": "105520819263036609",
+    "team_code": "AGC",
+    "team_name": "The Agency",
+    "rating": 510.75613542871923
   },
   {
-    "team_id": "105550049871017396",
-    "team_code": "KT",
-    "team_name": "kt Challengers",
-    "rating": 470.9242565041475
-  },
-  {
-    "team_id": "98767991954244555",
-    "team_code": "GAM",
-    "team_name": "GAM Esports",
-    "rating": 469.4101153110422
+    "team_id": "103877675241047720",
+    "team_code": "LDLC",
+    "team_name": "LDLC OL",
+    "rating": 509.3883722375479
   },
   {
     "team_id": "105593951536470384",
     "team_code": "GTZ",
     "team_name": "GTZ Esports",
-    "rating": 464.117068249376
+    "rating": 506.55493348664345
   },
   {
-    "team_id": "105536918475957734",
-    "team_code": "MCK",
-    "team_name": "Macko Esports",
-    "rating": 461.8137849281712
+    "team_id": "109800832177252614",
+    "team_code": "OAE",
+    "team_name": "Orbit Anonymo",
+    "rating": 506.0685964400248
   },
   {
-    "team_id": "99566405129589291",
-    "team_code": "GG",
-    "team_name": "Golden Guardians Challengers",
-    "rating": 461.6222242431232
+    "team_id": "102141671183409133",
+    "team_code": "MU",
+    "team_name": "Maryville University",
+    "rating": 503.05521622069034
   },
   {
-    "team_id": "103935446548920777",
-    "team_code": "MSFP",
-    "team_name": "Misfits Premier",
-    "rating": 461.2962123612428
+    "team_id": "107581765633427097",
+    "team_code": "FUE",
+    "team_name": "Fuego",
+    "rating": 502.38493502346347
   },
   {
-    "team_id": "102787200149928963",
-    "team_code": "WLG",
-    "team_name": "WLGaming Esports",
-    "rating": 459.5377749198549
+    "team_id": "109696126554266494",
+    "team_code": "GK",
+    "team_name": "Geekay Esports",
+    "rating": 501.5043017010585
+  },
+  {
+    "team_id": "99566406490127625",
+    "team_code": "JT",
+    "team_name": "J Team",
+    "rating": 499.9590857366382
+  },
+  {
+    "team_id": "107416483509696259",
+    "team_code": "EINS",
+    "team_name": "Eintracht Spandau",
+    "rating": 497.1982453135082
+  },
+  {
+    "team_id": "98767991954244555",
+    "team_code": "GAM",
+    "team_name": "GAM Esports",
+    "rating": 496.8880218076053
+  },
+  {
+    "team_id": "102235771678061291",
+    "team_code": "IW",
+    "team_name": "DenizBank \u0130stanbul Wildcats",
+    "rating": 496.7603754797721
   },
   {
     "team_id": "104710369093939895",
     "team_code": "SSU",
     "team_name": "SuppUp eSports",
-    "rating": 459.48459844182605
+    "rating": 493.23578515297777
+  },
+  {
+    "team_id": "107599156601411192",
+    "team_code": "MOX",
+    "team_name": "Movistar Optix",
+    "rating": 490.9213215720642
+  },
+  {
+    "team_id": "109783023470714128",
+    "team_code": "TONY",
+    "team_name": "Team Tony Top",
+    "rating": 485.45587105991126
   },
   {
     "team_id": "99566406334639907",
     "team_code": "LGC",
     "team_name": "Legacy Esports",
-    "rating": 457.99135875221185
-  },
-  {
-    "team_id": "105514967858969605",
-    "team_code": "GW",
-    "team_name": "GameWard",
-    "rating": 456.0651069250078
+    "rating": 484.3049119631214
   },
   {
     "team_id": "105550033967461806",
     "team_code": "DRX",
     "team_name": "DRX Challengers",
-    "rating": 456.00204191692524
+    "rating": 481.3449326854011
   },
   {
-    "team_id": "108203154514683518",
-    "team_code": "T1",
-    "team_name": "T1 Rookies",
-    "rating": 455.39901843316284
+    "team_id": "107423075317119707",
+    "team_code": "X7",
+    "team_name": "X7",
+    "rating": 478.6701665584589
   },
   {
-    "team_id": "103461966981927044",
-    "team_code": "DIG",
-    "team_name": "Dignitas Challengers",
-    "rating": 454.56667421859646
+    "team_id": "105550049871017396",
+    "team_code": "KT",
+    "team_name": "kt Challengers",
+    "rating": 475.8772829991359
   },
   {
-    "team_id": "107580497041999074",
-    "team_code": "TA",
-    "team_name": "Team Ambition",
-    "rating": 451.9047550403178
+    "team_id": "102787200149928963",
+    "team_code": "WLG",
+    "team_name": "WLGaming Esports",
+    "rating": 470.34243132585607
   },
   {
-    "team_id": "99566406332987990",
-    "team_code": "CHF",
-    "team_name": "The Chiefs",
-    "rating": 442.7668673962943
+    "team_id": "102787200126663579",
+    "team_code": "GIA",
+    "team_name": "Giants",
+    "rating": 468.4465769746569
   },
   {
-    "team_id": "99566405127798575",
-    "team_code": "TSM",
-    "team_name": "TSM Challengers",
-    "rating": 437.09960532468494
+    "team_id": "102787200151698443",
+    "team_code": "VITB",
+    "team_name": "Vitality.Bee",
+    "rating": 462.3680068217969
   },
   {
-    "team_id": "105520786527322647",
-    "team_code": "GENK",
-    "team_name": "KRC Genk Esports",
-    "rating": 436.17908324301493
-  },
-  {
-    "team_id": "99566405126602853",
-    "team_code": "FLY",
-    "team_name": "FlyQuest Challengers",
-    "rating": 432.4368770330727
-  },
-  {
-    "team_id": "107598699275015260",
-    "team_code": "LEV",
-    "team_name": "Leviat\u00e1n Esports",
-    "rating": 429.2455516976671
-  },
-  {
-    "team_id": "99566405124618295",
-    "team_code": "TL",
-    "team_name": "Team Liquid Honda Challengers",
-    "rating": 429.1255576458472
-  },
-  {
-    "team_id": "105521706535388095",
-    "team_code": "ANO",
-    "team_name": "Anorthosis Famagusta Esports",
-    "rating": 428.383263371418
-  },
-  {
-    "team_id": "108203164850614211",
-    "team_code": "NS",
-    "team_name": "NS REDFORCE Academy",
-    "rating": 424.85476353950105
-  },
-  {
-    "team_id": "105594135137147298",
-    "team_code": "WD",
-    "team_name": "White Dragons",
-    "rating": 415.14210699028973
-  },
-  {
-    "team_id": "101428372605353526",
-    "team_code": "SG",
-    "team_name": "Sengoku Gaming",
-    "rating": 414.43289489037255
-  },
-  {
-    "team_id": "103461966971048042",
-    "team_code": "EG",
-    "team_name": "Evil Geniuses Challengers",
-    "rating": 410.45297778544267
-  },
-  {
-    "team_id": "99322214684939974",
-    "team_code": "UOL",
-    "team_name": "Unicorns of Love",
-    "rating": 410.41525792038664
-  },
-  {
-    "team_id": "106827827857159558",
-    "team_code": "V3",
-    "team_name": "V3 Academy",
-    "rating": 406.93875780601974
-  },
-  {
-    "team_id": "104710316579222193",
-    "team_code": "G2AR",
-    "team_name": "G2 Arctic",
-    "rating": 405.35493630453396
-  },
-  {
-    "team_id": "99566408356697119",
-    "team_code": "FG",
-    "team_name": "Furious Gaming",
-    "rating": 404.84230145429405
-  },
-  {
-    "team_id": "99566408221961358",
-    "team_code": "RED",
-    "team_name": "RED Kalunga",
-    "rating": 403.87947191978736
-  },
-  {
-    "team_id": "105521408363571548",
-    "team_code": "IHG",
-    "team_name": "Illuminar Gaming",
-    "rating": 401.69568488657137
-  },
-  {
-    "team_id": "105537149834356301",
-    "team_code": "OP",
-    "team_name": "Anc Outplayed",
-    "rating": 398.9146969231192
-  },
-  {
-    "team_id": "101428372600307248",
-    "team_code": "RJ",
-    "team_name": "Rascal Jester",
-    "rating": 398.0052556677185
-  },
-  {
-    "team_id": "108121047955658273",
-    "team_code": "AU",
-    "team_name": "Aurelius Esports",
-    "rating": 395.56045325276193
-  },
-  {
-    "team_id": "109669678317817381",
-    "team_code": "FUT",
-    "team_name": "FUT ESPORTS",
-    "rating": 394.93424449193174
-  },
-  {
-    "team_id": "107581206998502078",
-    "team_code": "ATH",
-    "team_name": "Atheris Esports",
-    "rating": 393.6449384372469
-  },
-  {
-    "team_id": "106301891501674861",
-    "team_code": "PDW",
-    "team_name": "PDW",
-    "rating": 393.1436063619828
-  },
-  {
-    "team_id": "107581284487120142",
-    "team_code": "6K",
-    "team_name": "Six Karma",
-    "rating": 392.93583122967084
-  },
-  {
-    "team_id": "107581689894520368",
-    "team_code": "BAN",
-    "team_name": "Bandits Gaming",
-    "rating": 392.82589789978346
-  },
-  {
-    "team_id": "109668849651338559",
-    "team_code": "FL",
-    "team_name": "FENNEL",
-    "rating": 392.4762622057194
-  },
-  {
-    "team_id": "101422616509070746",
-    "team_code": "GS",
-    "team_name": "Galatasaray Espor",
-    "rating": 392.41664030161866
-  },
-  {
-    "team_id": "103461966975897718",
-    "team_code": "IMT",
-    "team_name": "Immortals Progressive Challengers",
-    "rating": 387.88609029709073
-  },
-  {
-    "team_id": "105532791598779236",
-    "team_code": "UCAM",
-    "team_name": "UCAM",
-    "rating": 386.53109033534633
-  },
-  {
-    "team_id": "99566408562477641",
-    "team_code": "INF",
-    "team_name": "INFINITY",
-    "rating": 384.39620964422653
-  },
-  {
-    "team_id": "99566406064558732",
-    "team_code": "SUP",
-    "team_name": "Papara SuperMassive ",
-    "rating": 383.77248077524644
-  },
-  {
-    "team_id": "99566405123587075",
-    "team_code": "CLG",
-    "team_name": "CLG Challengers",
-    "rating": 383.03646508919974
-  },
-  {
-    "team_id": "107581287168722290",
-    "team_code": "TK",
-    "team_name": "The Kings",
-    "rating": 382.42614926003273
-  },
-  {
-    "team_id": "99566408217955692",
-    "team_code": "PNG",
-    "team_name": "paiN Gaming",
-    "rating": 380.03735124717866
-  },
-  {
-    "team_id": "108352305932141947",
-    "team_code": "DSYR",
-    "team_name": "DSYRE",
-    "rating": 379.55651770452613
-  },
-  {
-    "team_id": "105553606349477427",
-    "team_code": "Z10",
-    "team_name": "Zero Tenacity",
-    "rating": 378.75952193712277
-  },
-  {
-    "team_id": "108404211655217274",
-    "team_code": "PAR",
-    "team_name": "Partizan Esports",
-    "rating": 377.62209532547604
+    "team_id": "103935446548920777",
+    "team_code": "MSFP",
+    "team_name": "Misfits Premier",
+    "rating": 460.72331807917413
   },
   {
     "team_id": "107582178455767077",
     "team_code": "PD",
     "team_name": "Pirate Dream",
-    "rating": 375.4354559522423
-  },
-  {
-    "team_id": "109480204628225868",
-    "team_code": "LOS",
-    "team_name": "Los Grandes",
-    "rating": 374.95231678682484
-  },
-  {
-    "team_id": "105913238372341488",
-    "team_code": "WC",
-    "team_name": "Wildcard",
-    "rating": 374.6860806862323
-  },
-  {
-    "team_id": "107565477822627354",
-    "team_code": "VER",
-    "team_name": "Verdant",
-    "rating": 373.928450193377
-  },
-  {
-    "team_id": "107599485973747723",
-    "team_code": "GRP",
-    "team_name": "Grypciocraft Esports",
-    "rating": 373.3641358572952
-  },
-  {
-    "team_id": "102787200132955066",
-    "team_code": "FTW",
-    "team_name": "FTW Esports",
-    "rating": 370.62438822113404
-  },
-  {
-    "team_id": "99566405128626825",
-    "team_code": "100",
-    "team_name": "100 Thieves Challengers",
-    "rating": 369.4505569059047
-  },
-  {
-    "team_id": "107599040773840060",
-    "team_code": "MG",
-    "team_name": "Meta Gaming",
-    "rating": 367.7873914783125
-  },
-  {
-    "team_id": "105536643047197642",
-    "team_code": "NASR",
-    "team_name": "NASR ESPORTS",
-    "rating": 367.708174857895
-  },
-  {
-    "team_id": "99566406338282437",
-    "team_code": "ORD",
-    "team_name": "ORDER",
-    "rating": 364.3917346370833
-  },
-  {
-    "team_id": "105549988405523871",
-    "team_code": "FLA",
-    "team_name": "Flamengo Academy",
-    "rating": 363.953170113224
-  },
-  {
-    "team_id": "103935468920814040",
-    "team_code": "GO",
-    "team_name": "Team GO",
-    "rating": 362.38230461709486
+    "rating": 459.7532776386543
   },
   {
     "team_id": "106269818143576465",
     "team_code": "BME",
     "team_name": "BOOM Esports",
-    "rating": 361.6627442821307
+    "rating": 457.1324590115971
   },
   {
-    "team_id": "99566408217116828",
-    "team_code": "ITZ",
-    "team_name": "INTZ",
-    "rating": 359.6342203470703
-  },
-  {
-    "team_id": "107598683861013570",
-    "team_code": "BOC",
-    "team_name": "Boca Juniors Gaming",
-    "rating": 356.79057864297255
-  },
-  {
-    "team_id": "106827844148688268",
+    "team_id": "101428372605353526",
     "team_code": "SG",
-    "team_name": "SG Academy",
-    "rating": 354.10204664158795
+    "team_name": "Sengoku Gaming",
+    "rating": 453.306949607552
   },
   {
-    "team_id": "107450819235010833",
-    "team_code": "BKR",
-    "team_name": "BK ROG Esports",
-    "rating": 353.1091026177285
+    "team_id": "99566405129589291",
+    "team_code": "GG",
+    "team_name": "Golden Guardians Challengers",
+    "rating": 452.7058954203978
   },
   {
-    "team_id": "105913221137618666",
-    "team_code": "NOR",
-    "team_name": "No Org",
-    "rating": 351.3768131334018
+    "team_id": "105520786527322647",
+    "team_code": "GENK",
+    "team_name": "KRC Genk Esports",
+    "rating": 450.05932918388737
   },
   {
-    "team_id": "108159996371573462",
-    "team_code": "MU",
-    "team_name": "Maryville University",
-    "rating": 345.62355057262073
+    "team_id": "99566406332987990",
+    "team_code": "CHF",
+    "team_name": "The Chiefs",
+    "rating": 449.70886502989396
   },
   {
-    "team_id": "98767991871709842",
-    "team_code": "GMB",
-    "team_name": "Gambit Esports",
-    "rating": 345.5741676633052
+    "team_id": "99322214684939974",
+    "team_code": "UOL",
+    "team_name": "Unicorns of Love",
+    "rating": 448.5276066576405
   },
   {
-    "team_id": "107456994699991548",
-    "team_code": "ATE",
-    "team_name": "Atleta Esport",
-    "rating": 345.28306902376016
+    "team_id": "105514967858969605",
+    "team_code": "GW",
+    "team_name": "GameWard",
+    "rating": 446.44479711123887
   },
   {
-    "team_id": "105520077508552574",
-    "team_code": "TRC",
-    "team_name": "Tricked Esport",
-    "rating": 344.11354478672496
+    "team_id": "101428372600307248",
+    "team_code": "RJ",
+    "team_name": "Rascal Jester",
+    "rating": 444.2722980795665
   },
   {
-    "team_id": "103535282143744679",
-    "team_code": "DP",
-    "team_name": "Dark Passage Akademi",
-    "rating": 343.69880138425907
+    "team_id": "108203154514683518",
+    "team_code": "T1",
+    "team_name": "T1 Rookies",
+    "rating": 442.0279229825612
   },
   {
-    "team_id": "103877554248683116",
-    "team_code": "S04E",
-    "team_name": "Schalke 04 Evolution",
-    "rating": 343.3956706982547
+    "team_id": "107598699275015260",
+    "team_code": "LEV",
+    "team_name": "Leviat\u00e1n Esports",
+    "rating": 441.0054184670579
   },
   {
-    "team_id": "109523293035238887",
-    "team_code": "AEG",
-    "team_name": "Aegis",
-    "rating": 343.3116801284877
+    "team_id": "107580497041999074",
+    "team_code": "TA",
+    "team_name": "Team Ambition",
+    "rating": 438.7607195224255
   },
   {
-    "team_id": "105543843212923183",
-    "team_code": "GSK",
-    "team_name": "Goskilla",
-    "rating": 343.1795294384084
+    "team_id": "105521706535388095",
+    "team_code": "ANO",
+    "team_name": "Anorthosis Famagusta Esports",
+    "rating": 437.9666885322774
   },
   {
-    "team_id": "109981650516317055",
-    "team_code": "MIR",
-    "team_name": "Mirage Alliance",
-    "rating": 341.73226015617337
-  },
-  {
-    "team_id": "110733870612047344",
-    "team_code": "CFY",
-    "team_name": "Team Coachify",
-    "rating": 340.7692475216815
-  },
-  {
-    "team_id": "103935642731826448",
-    "team_code": "S1",
-    "team_name": "Sector One",
-    "rating": 336.29576852105373
-  },
-  {
-    "team_id": "105515345386578249",
-    "team_code": "SLY",
-    "team_name": "Solary",
-    "rating": 336.26046802027304
-  },
-  {
-    "team_id": "107582591908138922",
-    "team_code": "CCC",
-    "team_name": "Cienciano",
-    "rating": 335.9945709996959
-  },
-  {
-    "team_id": "109981644490281844",
-    "team_code": "ROCK",
-    "team_name": "Rock Bottom Esports",
-    "rating": 335.79254298165387
-  },
-  {
-    "team_id": "107598788926820994",
-    "team_code": "PAM",
-    "team_name": "Macro Pampas",
-    "rating": 335.6958076588747
-  },
-  {
-    "team_id": "103935523328473675",
-    "team_code": "K1",
-    "team_name": "K1CK Neosurf",
-    "rating": 334.23025768239415
-  },
-  {
-    "team_id": "105550047979361273",
-    "team_code": "HLE",
-    "team_name": "HLE Challengers",
-    "rating": 333.87548911786996
-  },
-  {
-    "team_id": "108159968741268165",
-    "team_code": "CVU",
-    "team_name": "Converse University",
-    "rating": 327.87160576453255
-  },
-  {
-    "team_id": "107582641798795198",
-    "team_code": "SB",
-    "team_name": "Spectacled Bears",
-    "rating": 326.74490168115926
-  },
-  {
-    "team_id": "107564167676290839",
-    "team_code": "RBLS",
-    "team_name": "Rebels",
-    "rating": 326.2784510146838
-  },
-  {
-    "team_id": "107423109717243380",
-    "team_code": "BFR",
-    "team_name": "Bifrost",
-    "rating": 325.0419384333498
-  },
-  {
-    "team_id": "109699042809864069",
-    "team_code": "VIPS",
-    "team_name": "Vipers",
-    "rating": 324.17703144929436
-  },
-  {
-    "team_id": "109485335453835911",
-    "team_code": "VKS",
-    "team_name": "Vivo Keyd Stars Academy",
-    "rating": 321.5800209211591
-  },
-  {
-    "team_id": "103877925817094140",
-    "team_code": "PIG",
-    "team_name": "PIGSPORTS",
-    "rating": 321.4524470531494
-  },
-  {
-    "team_id": "98767991949608898",
-    "team_code": "FB",
-    "team_name": "Fenerbah\u00e7e Espor",
-    "rating": 320.9808243637734
-  },
-  {
-    "team_id": "98767991846127102",
-    "team_code": "AHQ",
-    "team_name": "ahq eSports Club",
-    "rating": 320.10724303593395
+    "team_id": "99566406064558732",
+    "team_code": "SUP",
+    "team_name": "Papara SuperMassive ",
+    "rating": 436.07344814129857
   },
   {
     "team_id": "105519977854458717",
     "team_code": "NVD",
     "team_name": "Nordavind",
-    "rating": 320.0975919765881
+    "rating": 428.624836861455
   },
   {
-    "team_id": "109783149221216052",
-    "team_code": "LIT",
-    "team_name": "Lit Esports",
-    "rating": 315.90505392448205
+    "team_id": "99566405124618295",
+    "team_code": "TL",
+    "team_name": "Team Liquid Honda Challengers",
+    "rating": 428.2624658358984
   },
   {
-    "team_id": "109695910533747910",
-    "team_code": "RAAD",
-    "team_name": "RAAD",
-    "rating": 315.4469685894093
+    "team_id": "105536918475957734",
+    "team_code": "MCK",
+    "team_name": "Macko Esports",
+    "rating": 426.75778544303864
   },
   {
-    "team_id": "109674814051390025",
-    "team_code": "PMT",
-    "team_name": "Primate",
-    "rating": 315.15888946359667
+    "team_id": "103461966981927044",
+    "team_code": "DIG",
+    "team_name": "Dignitas Challengers",
+    "rating": 424.7569806286243
   },
   {
-    "team_id": "109642680932009857",
-    "team_code": "NORD",
-    "team_name": "Nord Esports",
-    "rating": 313.9676901291258
+    "team_id": "99566405126602853",
+    "team_code": "FLY",
+    "team_name": "FlyQuest Challengers",
+    "rating": 423.6236483793669
   },
   {
-    "team_id": "102787200155434012",
-    "team_code": "JDXL",
-    "team_name": "JD|XL",
-    "rating": 312.89917459750484
+    "team_id": "99566408221961358",
+    "team_code": "RED",
+    "team_name": "RED Kalunga",
+    "rating": 422.45097843317376
   },
   {
-    "team_id": "107581750701049485",
-    "team_code": "JNS",
-    "team_name": "Janus Esports",
-    "rating": 312.391982979961
+    "team_id": "108203164850614211",
+    "team_code": "NS",
+    "team_name": "NS REDFORCE Academy",
+    "rating": 420.82548822191086
   },
   {
-    "team_id": "107580483738977500",
-    "team_code": "WU",
-    "team_name": "Winthrop University",
-    "rating": 311.6430860418752
+    "team_id": "99566405127798575",
+    "team_code": "TSM",
+    "team_name": "TSM Challengers",
+    "rating": 420.3827935020418
   },
   {
-    "team_id": "109485351596724390",
+    "team_id": "99566408356697119",
+    "team_code": "FG",
+    "team_name": "Furious Gaming",
+    "rating": 417.10457115670266
+  },
+  {
+    "team_id": "99566408562477641",
+    "team_code": "INF",
+    "team_name": "INFINITY",
+    "rating": 416.78026335150224
+  },
+  {
+    "team_id": "105913221137618666",
+    "team_code": "NOR",
+    "team_name": "No Org",
+    "rating": 415.29120559092047
+  },
+  {
+    "team_id": "99566408217116828",
+    "team_code": "ITZ",
+    "team_name": "INTZ",
+    "rating": 413.01655204217127
+  },
+  {
+    "team_id": "101422616509070746",
+    "team_code": "GS",
+    "team_name": "Galatasaray Espor",
+    "rating": 411.2627583172571
+  },
+  {
+    "team_id": "105521408363571548",
+    "team_code": "IHG",
+    "team_name": "Illuminar Gaming",
+    "rating": 407.9627168768825
+  },
+  {
+    "team_id": "105594135137147298",
+    "team_code": "WD",
+    "team_name": "White Dragons",
+    "rating": 407.18477145292667
+  },
+  {
+    "team_id": "107581689894520368",
+    "team_code": "BAN",
+    "team_name": "Bandits Gaming",
+    "rating": 406.3756491416061
+  },
+  {
+    "team_id": "106301891501674861",
+    "team_code": "PDW",
+    "team_name": "PDW",
+    "rating": 404.8075231639606
+  },
+  {
+    "team_id": "104710316579222193",
+    "team_code": "G2AR",
+    "team_name": "G2 Arctic",
+    "rating": 404.2763570493893
+  },
+  {
+    "team_id": "107581287168722290",
+    "team_code": "TK",
+    "team_name": "The Kings",
+    "rating": 398.23972494265473
+  },
+  {
+    "team_id": "108121047955658273",
+    "team_code": "AU",
+    "team_name": "Aurelius Esports",
+    "rating": 396.59143508009095
+  },
+  {
+    "team_id": "105532791598779236",
+    "team_code": "UCAM",
+    "team_name": "UCAM",
+    "rating": 396.563537971501
+  },
+  {
+    "team_id": "106827844148688268",
+    "team_code": "SG",
+    "team_name": "SG Academy",
+    "rating": 392.39136017738616
+  },
+  {
+    "team_id": "99566408217955692",
+    "team_code": "PNG",
+    "team_name": "paiN Gaming",
+    "rating": 391.0359805284041
+  },
+  {
+    "team_id": "109669678317817381",
+    "team_code": "FUT",
+    "team_name": "FUT ESPORTS",
+    "rating": 390.85691117254487
+  },
+  {
+    "team_id": "103461966971048042",
+    "team_code": "EG",
+    "team_name": "Evil Geniuses Challengers",
+    "rating": 390.25078192447484
+  },
+  {
+    "team_id": "109480204628225868",
     "team_code": "LOS",
-    "team_name": "Los Grandes Academy",
-    "rating": 311.5451053526797
+    "team_name": "Los Grandes",
+    "rating": 389.65167566399447
   },
   {
-    "team_id": "106250732506012141",
-    "team_code": "UDGG",
-    "team_name": "Umbra Divinus Gaming",
-    "rating": 309.3039145945117
+    "team_id": "107581206998502078",
+    "team_code": "ATH",
+    "team_name": "Atheris Esports",
+    "rating": 384.7101992107893
   },
   {
-    "team_id": "104841890701948065",
-    "team_code": "EST",
-    "team_name": "Estral Esports",
-    "rating": 309.07557960164036
+    "team_id": "106827827857159558",
+    "team_code": "V3",
+    "team_name": "V3 Academy",
+    "rating": 383.99496593139145
   },
   {
-    "team_id": "105520788833075738",
-    "team_code": "KVM",
-    "team_name": "KV Mechelen Esports",
-    "rating": 308.46909627985684
+    "team_id": "105536643047197642",
+    "team_code": "NASR",
+    "team_name": "NASR ESPORTS",
+    "rating": 383.55251560246944
   },
   {
-    "team_id": "103878020539746273",
-    "team_code": "EGN",
-    "team_name": "EGN Esports",
-    "rating": 307.5502704450115
+    "team_id": "107565477822627354",
+    "team_code": "VER",
+    "team_name": "Verdant",
+    "rating": 383.3813175321159
   },
   {
-    "team_id": "99566408221114231",
-    "team_code": "KBM",
-    "team_name": "KaBuM! Esports",
-    "rating": 306.23780489748106
+    "team_id": "99566405123587075",
+    "team_code": "CLG",
+    "team_name": "CLG Challengers",
+    "rating": 382.93621818915705
   },
   {
-    "team_id": "108159958519099117",
-    "team_code": "BAY",
-    "team_name": "Bay State College",
-    "rating": 305.46633135920695
+    "team_id": "103461966975897718",
+    "team_code": "IMT",
+    "team_name": "Immortals Progressive Challengers",
+    "rating": 379.9758146463943
   },
   {
-    "team_id": "106857739520697600",
-    "team_code": "100X",
-    "team_name": "100 Next",
-    "rating": 303.0566426161086
+    "team_id": "103535282143744679",
+    "team_code": "DP",
+    "team_name": "Dark Passage Akademi",
+    "rating": 373.78648612765807
   },
   {
-    "team_id": "98767991935149427",
-    "team_code": "R7",
-    "team_name": "Movistar R7",
-    "rating": 301.9221696919044
+    "team_id": "107582641798795198",
+    "team_code": "SB",
+    "team_name": "Spectacled Bears",
+    "rating": 373.02320969114294
   },
   {
-    "team_id": "106827839261303409",
-    "team_code": "CGA",
-    "team_name": "CGA  Academy",
-    "rating": 301.5461091352578
+    "team_id": "107599485973747723",
+    "team_code": "GRP",
+    "team_name": "Grypciocraft Esports",
+    "rating": 372.9998243910126
   },
   {
-    "team_id": "106827832203113865",
-    "team_code": "SHG",
-    "team_name": "SHG Academy",
-    "rating": 298.26904437336304
+    "team_id": "105549988405523871",
+    "team_code": "FLA",
+    "team_name": "Flamengo Academy",
+    "rating": 372.8750156050157
   },
   {
-    "team_id": "105549997263803379",
-    "team_code": "LLL",
-    "team_name": "LOUD Academy",
-    "rating": 298.1457379611895
+    "team_id": "98767991871709842",
+    "team_code": "GMB",
+    "team_name": "Gambit Esports",
+    "rating": 372.3110855928411
   },
   {
-    "team_id": "107251941920386009",
-    "team_code": "SKY",
-    "team_name": "BTS ESPORTS",
-    "rating": 298.033943398734
+    "team_id": "107598683861013570",
+    "team_code": "BOC",
+    "team_name": "Boca Juniors Gaming",
+    "rating": 370.9531145065164
   },
   {
-    "team_id": "104710373370426042",
-    "team_code": "C4",
-    "team_name": "CR4ZY",
-    "rating": 296.6139200820713
+    "team_id": "107599040773840060",
+    "team_code": "MG",
+    "team_name": "Meta Gaming",
+    "rating": 370.4326778297345
   },
   {
-    "team_id": "100205576309502431",
-    "team_code": "FUR",
-    "team_name": "FURIA",
-    "rating": 296.26342377898237
+    "team_id": "107598788926820994",
+    "team_code": "PAM",
+    "team_name": "Macro Pampas",
+    "rating": 369.6292692541627
   },
   {
-    "team_id": "107581738783262346",
-    "team_code": "GVE",
-    "team_name": "Gravity Elite",
-    "rating": 295.0257332633059
+    "team_id": "105520077508552574",
+    "team_code": "TRC",
+    "team_name": "Tricked Esport",
+    "rating": 369.31085083812394
   },
   {
-    "team_id": "109642690191894407",
-    "team_code": "RUD",
-    "team_name": "Ruddy Esports",
-    "rating": 294.91398923320435
+    "team_id": "105537149834356301",
+    "team_code": "OP",
+    "team_name": "Anc Outplayed",
+    "rating": 364.04521601399915
   },
   {
-    "team_id": "101383792559569368",
-    "team_code": "AK",
-    "team_name": "All Knights",
-    "rating": 294.38899358900017
+    "team_id": "108159996371573462",
+    "team_code": "MU",
+    "team_name": "Maryville University",
+    "rating": 359.3869740812729
   },
   {
-    "team_id": "105548000936710641",
-    "team_code": "M2XX",
-    "team_name": "Method2Madness",
-    "rating": 291.08383503890616
+    "team_id": "99566406338282437",
+    "team_code": "ORD",
+    "team_name": "ORDER",
+    "rating": 359.1623562781505
   },
   {
-    "team_id": "106371141659311452",
-    "team_code": "VPG",
-    "team_name": "Valiance PRO GAME",
-    "rating": 290.46631792021566
+    "team_id": "103877554248683116",
+    "team_code": "S04E",
+    "team_name": "Schalke 04 Evolution",
+    "rating": 358.11211638326915
   },
   {
-    "team_id": "107422385694193066",
-    "team_code": "BAR",
-    "team_name": "Bar\u00e7a Esports",
-    "rating": 290.00185853572475
+    "team_id": "108404211655217274",
+    "team_code": "PAR",
+    "team_name": "Partizan Esports",
+    "rating": 357.9250686958349
   },
   {
-    "team_id": "107603554304287575",
-    "team_code": "KOG",
-    "team_name": "King of Goats",
-    "rating": 289.94271961980564
+    "team_id": "102787200132955066",
+    "team_code": "FTW",
+    "team_name": "FTW Esports",
+    "rating": 356.45817421135126
   },
   {
-    "team_id": "106857761435870473",
-    "team_code": "SN",
-    "team_name": "Supernova",
-    "rating": 289.30888534707174
+    "team_id": "103935468920814040",
+    "team_code": "GO",
+    "team_name": "Team GO",
+    "rating": 355.991734287197
   },
   {
-    "team_id": "107251245690956393",
-    "team_code": "SGB",
-    "team_name": "Saigon Buffalo Esports",
-    "rating": 287.2796217875968
+    "team_id": "103935642731826448",
+    "team_code": "S1",
+    "team_name": "Sector One",
+    "rating": 354.13233342915913
   },
   {
-    "team_id": "108361552741927561",
-    "team_code": "FEAR",
-    "team_name": "Cincinnati Fear",
-    "rating": 287.10882942340805
+    "team_id": "108159968741268165",
+    "team_code": "CVU",
+    "team_name": "Converse University",
+    "rating": 353.06493369717145
   },
   {
-    "team_id": "107603548241713732",
-    "team_code": "BRR",
-    "team_name": "Braves Rising",
-    "rating": 286.6181362585208
+    "team_id": "109485335453835911",
+    "team_code": "VKS",
+    "team_name": "Vivo Keyd Stars Academy",
+    "rating": 352.84296489231616
   },
   {
-    "team_id": "103963753080578719",
-    "team_code": "CC",
-    "team_name": "CrowCrowd Moscow",
-    "rating": 284.50681764133606
+    "team_id": "105553606349477427",
+    "team_code": "Z10",
+    "team_name": "Zero Tenacity",
+    "rating": 352.76963045116275
+  },
+  {
+    "team_id": "108352305932141947",
+    "team_code": "DSYR",
+    "team_name": "DSYRE",
+    "rating": 352.138414697543
+  },
+  {
+    "team_id": "107456994699991548",
+    "team_code": "ATE",
+    "team_name": "Atleta Esport",
+    "rating": 346.3370242073826
   },
   {
     "team_id": "101428372602011186",
     "team_code": "V3",
     "team_name": "V3 Esports",
-    "rating": 283.997843834657
+    "rating": 345.84712717133203
   },
   {
-    "team_id": "105536738266035235",
-    "team_code": "CGG",
-    "team_name": "Cyberground Gaming",
-    "rating": 282.29312458767737
+    "team_id": "98767991949608898",
+    "team_code": "FB",
+    "team_name": "Fenerbah\u00e7e Espor",
+    "rating": 345.4159609199196
   },
   {
-    "team_id": "109782787975510889",
-    "team_code": "N8V",
-    "team_name": "Native Gaming",
-    "rating": 281.3454342849404
+    "team_id": "103935523328473675",
+    "team_code": "K1",
+    "team_name": "K1CK Neosurf",
+    "rating": 345.3688830882366
   },
   {
-    "team_id": "109675484017801229",
-    "team_code": "TB",
-    "team_name": "Team Bliss",
-    "rating": 278.78725586003776
+    "team_id": "104841890701948065",
+    "team_code": "EST",
+    "team_name": "Estral Esports",
+    "rating": 345.1045065689081
   },
   {
-    "team_id": "107467794614674479",
-    "team_code": "FNTQ",
-    "team_name": "FnaticTQ",
-    "rating": 277.8959826497824
+    "team_id": "109523293035238887",
+    "team_code": "AEG",
+    "team_name": "Aegis",
+    "rating": 344.3688474698769
   },
   {
-    "team_id": "105594116005157262",
-    "team_code": "OFF7",
-    "team_name": "OFFSET Esports",
-    "rating": 274.7679109835534
+    "team_id": "110733870612047344",
+    "team_code": "CFY",
+    "team_name": "Team Coachify",
+    "rating": 344.35693619643536
   },
   {
-    "team_id": "103535282124208038",
-    "team_code": "PGG",
-    "team_name": "Pentanet.GG",
-    "rating": 274.5826217417566
+    "team_id": "103877925817094140",
+    "team_code": "PIG",
+    "team_name": "PIGSPORTS",
+    "rating": 344.15837098870736
   },
   {
-    "team_id": "104270958001747936",
-    "team_code": "OBG",
-    "team_name": "One Breath Gaming",
-    "rating": 273.80308003327315
+    "team_id": "107450819235010833",
+    "team_code": "BKR",
+    "team_name": "BK ROG Esports",
+    "rating": 341.0335594367297
   },
   {
-    "team_id": "105520822049210915",
-    "team_code": "MCON",
-    "team_name": "mCon esports",
-    "rating": 271.85805658734006
+    "team_id": "105543843212923183",
+    "team_code": "GSK",
+    "team_name": "Goskilla",
+    "rating": 339.66570207465617
   },
   {
-    "team_id": "109480056092207899",
-    "team_code": "FX",
-    "team_name": "FLUXO",
-    "rating": 271.75432378841856
+    "team_id": "109676337359108345",
+    "team_code": "ECG",
+    "team_name": "Eclipse Gaming",
+    "rating": 338.47919932170123
+  },
+  {
+    "team_id": "105550047979361273",
+    "team_code": "HLE",
+    "team_name": "HLE Challengers",
+    "rating": 338.07483682159227
+  },
+  {
+    "team_id": "107251245690956393",
+    "team_code": "SGB",
+    "team_name": "Saigon Buffalo Esports",
+    "rating": 338.0337846099468
+  },
+  {
+    "team_id": "107564167676290839",
+    "team_code": "RBLS",
+    "team_name": "Rebels",
+    "rating": 336.774205491411
+  },
+  {
+    "team_id": "107581750701049485",
+    "team_code": "JNS",
+    "team_name": "Janus Esports",
+    "rating": 336.51982204476326
+  },
+  {
+    "team_id": "99566405128626825",
+    "team_code": "100",
+    "team_name": "100 Thieves Challengers",
+    "rating": 335.6787964394149
+  },
+  {
+    "team_id": "98767991846127102",
+    "team_code": "AHQ",
+    "team_name": "ahq eSports Club",
+    "rating": 333.46721512526244
+  },
+  {
+    "team_id": "105913238372341488",
+    "team_code": "WC",
+    "team_name": "Wildcard",
+    "rating": 332.4905191349395
+  },
+  {
+    "team_id": "109674814051390025",
+    "team_code": "PMT",
+    "team_name": "Primate",
+    "rating": 330.41337287737434
+  },
+  {
+    "team_id": "99566408221114231",
+    "team_code": "KBM",
+    "team_name": "KaBuM! Esports",
+    "rating": 328.4925618207944
+  },
+  {
+    "team_id": "109981650516317055",
+    "team_code": "MIR",
+    "team_name": "Mirage Alliance",
+    "rating": 328.3033266866589
+  },
+  {
+    "team_id": "102787200155434012",
+    "team_code": "JDXL",
+    "team_name": "JD|XL",
+    "rating": 325.3411899151111
+  },
+  {
+    "team_id": "105520788833075738",
+    "team_code": "KVM",
+    "team_name": "KV Mechelen Esports",
+    "rating": 323.49801309036667
+  },
+  {
+    "team_id": "105515345386578249",
+    "team_code": "SLY",
+    "team_name": "Solary",
+    "rating": 322.5672911145176
+  },
+  {
+    "team_id": "109981644490281844",
+    "team_code": "ROCK",
+    "team_name": "Rock Bottom Esports",
+    "rating": 321.9638614940047
+  },
+  {
+    "team_id": "107581284487120142",
+    "team_code": "6K",
+    "team_name": "Six Karma",
+    "rating": 320.3417605479535
+  },
+  {
+    "team_id": "98767991935149427",
+    "team_code": "R7",
+    "team_name": "Movistar R7",
+    "rating": 319.50083602688466
+  },
+  {
+    "team_id": "107251941920386009",
+    "team_code": "SKY",
+    "team_name": "BTS ESPORTS",
+    "rating": 318.0107992736225
+  },
+  {
+    "team_id": "107582591908138922",
+    "team_code": "CCC",
+    "team_name": "Cienciano",
+    "rating": 317.7028300150097
+  },
+  {
+    "team_id": "107423109717243380",
+    "team_code": "BFR",
+    "team_name": "Bifrost",
+    "rating": 316.0651274566326
+  },
+  {
+    "team_id": "109783149221216052",
+    "team_code": "LIT",
+    "team_name": "Lit Esports",
+    "rating": 313.7377409726481
+  },
+  {
+    "team_id": "109695910533747910",
+    "team_code": "RAAD",
+    "team_name": "RAAD",
+    "rating": 311.6803938259368
+  },
+  {
+    "team_id": "100205576309502431",
+    "team_code": "FUR",
+    "team_name": "FURIA",
+    "rating": 310.7782246560155
+  },
+  {
+    "team_id": "108159958519099117",
+    "team_code": "BAY",
+    "team_name": "Bay State College",
+    "rating": 309.5761782734661
+  },
+  {
+    "team_id": "109668849651338559",
+    "team_code": "FL",
+    "team_name": "FENNEL",
+    "rating": 309.5271402083493
+  },
+  {
+    "team_id": "109642680932009857",
+    "team_code": "NORD",
+    "team_name": "Nord Esports",
+    "rating": 309.1893676007288
+  },
+  {
+    "team_id": "106250732506012141",
+    "team_code": "UDGG",
+    "team_name": "Umbra Divinus Gaming",
+    "rating": 307.9756021022033
+  },
+  {
+    "team_id": "107580483738977500",
+    "team_code": "WU",
+    "team_name": "Winthrop University",
+    "rating": 307.66099128663524
+  },
+  {
+    "team_id": "101428372603715124",
+    "team_code": "CGA",
+    "team_name": "Crest Gaming Act",
+    "rating": 306.92316469893916
+  },
+  {
+    "team_id": "107581738783262346",
+    "team_code": "GVE",
+    "team_name": "Gravity Elite",
+    "rating": 303.90770648107735
   },
   {
     "team_id": "105550003470349739",
     "team_code": "RNS",
     "team_name": "Rensga Academy",
-    "rating": 271.6494714676231
+    "rating": 303.5709141404591
   },
   {
-    "team_id": "107581300297680248",
-    "team_code": "ZLT",
-    "team_name": "Zylant Esports",
-    "rating": 270.21403058064965
+    "team_id": "105549997263803379",
+    "team_code": "LLL",
+    "team_name": "LOUD Academy",
+    "rating": 302.6496352875667
   },
   {
-    "team_id": "109696073114910519",
-    "team_code": "ANB",
-    "team_name": "Anubis Gaming",
-    "rating": 269.9727080651821
+    "team_id": "99566408358330419",
+    "team_code": "ISG",
+    "team_name": "Isurus",
+    "rating": 302.0780761969449
+  },
+  {
+    "team_id": "106827832203113865",
+    "team_code": "SHG",
+    "team_name": "SHG Academy",
+    "rating": 301.34626771314504
+  },
+  {
+    "team_id": "101428372598668846",
+    "team_code": "BC",
+    "team_name": "Burning Core",
+    "rating": 298.4277058391469
+  },
+  {
+    "team_id": "105548000936710641",
+    "team_code": "M2XX",
+    "team_name": "Method2Madness",
+    "rating": 295.32556006288485
+  },
+  {
+    "team_id": "106857739520697600",
+    "team_code": "100X",
+    "team_name": "100 Next",
+    "rating": 292.59014596050156
+  },
+  {
+    "team_id": "106827765448944398",
+    "team_code": "DFM",
+    "team_name": "DFM Academy",
+    "rating": 291.18758622475775
+  },
+  {
+    "team_id": "104710373370426042",
+    "team_code": "C4",
+    "team_name": "CR4ZY",
+    "rating": 290.1564655944697
+  },
+  {
+    "team_id": "109699042809864069",
+    "team_code": "VIPS",
+    "team_name": "Vipers",
+    "rating": 287.0361451457219
+  },
+  {
+    "team_id": "103878020539746273",
+    "team_code": "EGN",
+    "team_name": "EGN Esports",
+    "rating": 286.04980054153737
+  },
+  {
+    "team_id": "101383792559569368",
+    "team_code": "AK",
+    "team_name": "All Knights",
+    "rating": 285.73389554103585
+  },
+  {
+    "team_id": "106827839261303409",
+    "team_code": "CGA",
+    "team_name": "CGA  Academy",
+    "rating": 284.37565324083084
+  },
+  {
+    "team_id": "108361552741927561",
+    "team_code": "FEAR",
+    "team_name": "Cincinnati Fear",
+    "rating": 283.69495709492514
+  },
+  {
+    "team_id": "105549998884468136",
+    "team_code": "PNG",
+    "team_name": "paiN Academy",
+    "rating": 282.0440885058374
+  },
+  {
+    "team_id": "109692071893352727",
+    "team_code": "HPS",
+    "team_name": "Hell Pigs",
+    "rating": 281.66927304397507
+  },
+  {
+    "team_id": "109480056092207899",
+    "team_code": "FX",
+    "team_name": "FLUXO",
+    "rating": 280.72182278713285
+  },
+  {
+    "team_id": "103963753080578719",
+    "team_code": "CC",
+    "team_name": "CrowCrowd Moscow",
+    "rating": 280.3380317389057
+  },
+  {
+    "team_id": "105594116005157262",
+    "team_code": "OFF7",
+    "team_name": "OFFSET Esports",
+    "rating": 279.40936376648256
+  },
+  {
+    "team_id": "109642690191894407",
+    "team_code": "RUD",
+    "team_name": "Ruddy Esports",
+    "rating": 279.022773540566
+  },
+  {
+    "team_id": "109675484017801229",
+    "team_code": "TB",
+    "team_name": "Team Bliss",
+    "rating": 278.34407717653244
+  },
+  {
+    "team_id": "107598712583969458",
+    "team_code": "EBG",
+    "team_name": "EBRO",
+    "rating": 277.94074137261606
+  },
+  {
+    "team_id": "99566408222831088",
+    "team_code": "LBR",
+    "team_name": "Liberty",
+    "rating": 276.2948887555129
+  },
+  {
+    "team_id": "107603554304287575",
+    "team_code": "KOG",
+    "team_name": "King of Goats",
+    "rating": 275.33242018120666
+  },
+  {
+    "team_id": "105521674055625312",
+    "team_code": "GSMC",
+    "team_name": "Gamespace Mediterranean College Esports",
+    "rating": 275.0622072930698
+  },
+  {
+    "team_id": "107422385694193066",
+    "team_code": "BAR",
+    "team_name": "Bar\u00e7a Esports",
+    "rating": 274.3685019742536
+  },
+  {
+    "team_id": "107582184905264520",
+    "team_code": "WS",
+    "team_name": "Waia Snikt",
+    "rating": 272.8547625267642
+  },
+  {
+    "team_id": "105550001032913831",
+    "team_code": "RED",
+    "team_name": "RED Academy",
+    "rating": 272.12392068091566
+  },
+  {
+    "team_id": "99566408561605102",
+    "team_code": "XTN",
+    "team_name": "XTEN Esports",
+    "rating": 270.48028845155216
   },
   {
     "team_id": "110733864366329081",
@@ -1416,10 +1422,10 @@
     "rating": 269.9471501591452
   },
   {
-    "team_id": "105520796734358045",
-    "team_code": "7AM",
-    "team_name": "Team 7AM",
-    "rating": 269.37549084707143
+    "team_id": "108439036582886702",
+    "team_code": "BWE",
+    "team_name": "BWE Esports",
+    "rating": 269.8246624567593
   },
   {
     "team_id": "104228817622043824",
@@ -1428,34 +1434,16 @@
     "rating": 268.97208443595645
   },
   {
-    "team_id": "105549998884468136",
-    "team_code": "PNG",
-    "team_name": "paiN Academy",
-    "rating": 268.7705730140546
-  },
-  {
-    "team_id": "105521674055625312",
-    "team_code": "GSMC",
-    "team_name": "Gamespace Mediterranean College Esports",
-    "rating": 268.37770591054993
+    "team_id": "109782787975510889",
+    "team_code": "N8V",
+    "team_name": "Native Gaming",
+    "rating": 268.57954771126106
   },
   {
     "team_id": "106269859169658575",
     "team_code": "IMP",
     "team_name": "Impunity Esports",
-    "rating": 267.9642112973
-  },
-  {
-    "team_id": "105550001032913831",
-    "team_code": "RED",
-    "team_name": "RED Academy",
-    "rating": 267.6709730812665
-  },
-  {
-    "team_id": "99566408358330419",
-    "team_code": "ISG",
-    "team_name": "Isurus",
-    "rating": 267.5975359402974
+    "rating": 268.0085899783329
   },
   {
     "team_id": "108203161924300737",
@@ -1464,34 +1452,46 @@
     "rating": 267.39369111862834
   },
   {
-    "team_id": "108203159356403647",
-    "team_code": "KDF",
-    "team_name": "Kwangdong Freecs Academy",
-    "rating": 266.5378128971763
+    "team_id": "109696073114910519",
+    "team_code": "ANB",
+    "team_name": "Anubis Gaming",
+    "rating": 267.39272123782655
   },
   {
-    "team_id": "108439036582886702",
-    "team_code": "BWE",
-    "team_name": "BWE Esports",
-    "rating": 265.81590034167283
+    "team_id": "105520784254806142",
+    "team_code": "ION",
+    "team_name": "ION SQUAD",
+    "rating": 267.3898169665282
   },
   {
-    "team_id": "101428372603715124",
-    "team_code": "CGA",
-    "team_name": "Crest Gaming Act",
-    "rating": 265.1281520192859
+    "team_id": "105520796734358045",
+    "team_code": "7AM",
+    "team_name": "Team 7AM",
+    "rating": 265.88445451244235
   },
   {
-    "team_id": "109783124183318312",
-    "team_code": "UST",
-    "team_name": "University of St. Trevor",
-    "rating": 264.1453639256996
+    "team_id": "109485351596724390",
+    "team_code": "LOS",
+    "team_name": "Los Grandes Academy",
+    "rating": 265.5065831425194
+  },
+  {
+    "team_id": "105536738266035235",
+    "team_code": "CGG",
+    "team_name": "Cyberground Gaming",
+    "rating": 265.24478437061913
   },
   {
     "team_id": "105550042327365041",
     "team_code": "GEN",
     "team_name": "Gen.G Global Academy",
-    "rating": 263.13935664960127
+    "rating": 264.7368494000907
+  },
+  {
+    "team_id": "109783124183318312",
+    "team_code": "UST",
+    "team_name": "University of St. Trevor",
+    "rating": 264.5030141022012
   },
   {
     "team_id": "108203173414485265",
@@ -1500,274 +1500,238 @@
     "rating": 263.04710551541274
   },
   {
-    "team_id": "107597870621708485",
-    "team_code": "CWE",
-    "team_name": "Cyber Wolves Esports",
-    "rating": 263.02067657287284
-  },
-  {
-    "team_id": "107598712583969458",
-    "team_code": "EBG",
-    "team_name": "EBRO",
-    "rating": 262.0621746222626
-  },
-  {
-    "team_id": "106827765448944398",
-    "team_code": "DFM",
-    "team_name": "DFM Academy",
-    "rating": 260.4098262072356
-  },
-  {
-    "team_id": "99566408222831088",
-    "team_code": "LBR",
-    "team_name": "Liberty",
-    "rating": 259.77668370950323
-  },
-  {
-    "team_id": "101428372598668846",
-    "team_code": "BC",
-    "team_name": "Burning Core",
-    "rating": 259.5623931121109
-  },
-  {
-    "team_id": "105520824521753126",
-    "team_code": "PSV",
-    "team_name": "PSV Esports",
-    "rating": 259.50693426512373
-  },
-  {
-    "team_id": "108361575122450254",
-    "team_code": "TACO",
-    "team_name": "Team Fish Taco",
-    "rating": 258.65050555535385
-  },
-  {
-    "team_id": "107597875833524424",
-    "team_code": "DIA",
-    "team_name": "Diamant Esports",
-    "rating": 258.0111943068932
-  },
-  {
-    "team_id": "98767991921462763",
-    "team_code": "DW",
-    "team_name": "Dire Wolves",
-    "rating": 256.2485508036673
-  },
-  {
-    "team_id": "105549991104165282",
-    "team_code": "FUR",
-    "team_name": "FURIA Academy",
-    "rating": 256.14339585787576
-  },
-  {
-    "team_id": "107467827374313054",
-    "team_code": "FNK",
-    "team_name": "Finetwork KOI",
-    "rating": 255.36672314852237
-  },
-  {
-    "team_id": "109692071893352727",
-    "team_code": "HPS",
-    "team_name": "Hell Pigs",
-    "rating": 255.14437930823394
-  },
-  {
-    "team_id": "105520784254806142",
-    "team_code": "ION",
-    "team_name": "ION SQUAD",
-    "rating": 253.4841434482899
-  },
-  {
-    "team_id": "107581755241449104",
-    "team_code": "RRR",
-    "team_name": "Red Rooster",
-    "rating": 252.2824840566232
+    "team_id": "107581300297680248",
+    "team_code": "ZLT",
+    "team_name": "Zylant Esports",
+    "rating": 262.79201361786346
   },
   {
     "team_id": "108078422885368642",
     "team_code": "PAO",
     "team_name": "Panathinaikos Esports",
-    "rating": 250.95976016508095
+    "rating": 262.7605396237195
   },
   {
-    "team_id": "109981647134921596",
-    "team_code": "CCG",
-    "team_name": "CCG Esports",
-    "rating": 249.8827064890808
-  },
-  {
-    "team_id": "105536952747658409",
-    "team_code": "MKS",
-    "team_name": "MKERS",
-    "rating": 248.35192772004893
-  },
-  {
-    "team_id": "109539776003058530",
-    "team_code": "AB",
-    "team_name": "Alior Bank Team",
-    "rating": 248.21470657861653
-  },
-  {
-    "team_id": "103743162394217975",
-    "team_code": "SAN",
-    "team_name": "Santos HotForex",
-    "rating": 248.04239147365294
-  },
-  {
-    "team_id": "105550005698683818",
-    "team_code": "LBR",
-    "team_name": "Liberty Academy",
-    "rating": 247.85976871059572
-  },
-  {
-    "team_id": "102787200124959636",
-    "team_code": "CZV",
-    "team_name": "Crvena Zvezda Esports",
-    "rating": 247.17577680008858
-  },
-  {
-    "team_id": "107456355516438414",
-    "team_code": "SGE",
-    "team_name": "Eintracht Frankfurt",
-    "rating": 247.0875386698393
-  },
-  {
-    "team_id": "109782867012820172",
-    "team_code": "HZG",
-    "team_name": "Horizon Gaming",
-    "rating": 246.23254742611653
-  },
-  {
-    "team_id": "109631326144414089",
-    "team_code": "19",
-    "team_name": "19 Esports",
-    "rating": 245.82313966289533
-  },
-  {
-    "team_id": "109676337359108345",
-    "team_code": "ECG",
-    "team_name": "Eclipse Gaming",
-    "rating": 244.9526170241809
+    "team_id": "103535282124208038",
+    "team_code": "PGG",
+    "team_name": "Pentanet.GG",
+    "rating": 261.50644824814253
   },
   {
     "team_id": "103495716886587312",
     "team_code": "BJK",
     "team_name": "Be\u015fikta\u015f",
-    "rating": 244.58946520050344
+    "rating": 260.5033816695207
   },
   {
-    "team_id": "99566408561605102",
-    "team_code": "XTN",
-    "team_name": "XTEN Esports",
-    "rating": 243.6515137193717
+    "team_id": "107467794614674479",
+    "team_code": "FNTQ",
+    "team_name": "FnaticTQ",
+    "rating": 260.24807406195924
   },
   {
-    "team_id": "106857734387052095",
-    "team_code": "AOE",
-    "team_name": "AOE Gold",
-    "rating": 242.83233832793843
+    "team_id": "105520822049210915",
+    "team_code": "MCON",
+    "team_name": "mCon esports",
+    "rating": 259.4794938703582
   },
   {
-    "team_id": "105554088239949229",
-    "team_code": "X25",
-    "team_name": "x25 Esports",
-    "rating": 241.65370244079313
+    "team_id": "107597870621708485",
+    "team_code": "CWE",
+    "team_name": "Cyber Wolves Esports",
+    "rating": 258.8174079163174
   },
   {
-    "team_id": "105537444152141556",
-    "team_code": "BTS",
-    "team_name": "Herbalife Real Betis",
-    "rating": 241.22786315108158
+    "team_id": "104270958001747936",
+    "team_code": "OBG",
+    "team_name": "One Breath Gaming",
+    "rating": 258.1786027296906
   },
   {
-    "team_id": "107251307514079872",
-    "team_code": "LX",
-    "team_name": "LXE ESPORTS",
-    "rating": 240.52054199028484
+    "team_id": "105520824521753126",
+    "team_code": "PSV",
+    "team_name": "PSV Esports",
+    "rating": 256.99928758586253
   },
   {
-    "team_id": "110534749775658790",
-    "team_code": "NPC",
-    "team_name": "The Cheese Chasers",
-    "rating": 240.47304124367557
+    "team_id": "109631326144414089",
+    "team_code": "19",
+    "team_name": "19 Esports",
+    "rating": 256.90302524161393
   },
   {
-    "team_id": "109783130654973406",
-    "team_code": "GODL",
-    "team_name": "Godel Gamers",
-    "rating": 240.29152158766004
+    "team_id": "107603548241713732",
+    "team_code": "BRR",
+    "team_name": "Braves Rising",
+    "rating": 256.46003241629944
   },
   {
-    "team_id": "102141671185899507",
-    "team_code": "UWO",
-    "team_name": "University of Western Ontario",
-    "rating": 239.4438587946546
+    "team_id": "98767991921462763",
+    "team_code": "DW",
+    "team_name": "Dire Wolves",
+    "rating": 255.28335749318933
   },
   {
-    "team_id": "109698757443650056",
-    "team_code": "MKE",
-    "team_name": "Mad Kings",
-    "rating": 238.72275250066417
+    "team_id": "103743162394217975",
+    "team_code": "SAN",
+    "team_name": "Santos HotForex",
+    "rating": 255.071398148873
   },
   {
-    "team_id": "104710354840711661",
-    "team_code": "RDL",
-    "team_name": "Riddle Esports",
-    "rating": 238.45293458402395
+    "team_id": "109539776003058530",
+    "team_code": "AB",
+    "team_name": "Alior Bank Team",
+    "rating": 253.83066765911312
   },
   {
-    "team_id": "110534724851488577",
-    "team_code": "FROG",
-    "team_name": "Froggy Five",
-    "rating": 238.15814180906693
+    "team_id": "107581755241449104",
+    "team_code": "RRR",
+    "team_name": "Red Rooster",
+    "rating": 252.3033068796335
   },
   {
-    "team_id": "105550024238752685",
+    "team_id": "108203159356403647",
     "team_code": "KDF",
-    "team_name": "KDF Challengers",
-    "rating": 236.25341289850434
+    "team_name": "Kwangdong Freecs Academy",
+    "rating": 251.59702085452386
+  },
+  {
+    "team_id": "105550005698683818",
+    "team_code": "LBR",
+    "team_name": "Liberty Academy",
+    "rating": 250.99031934818154
+  },
+  {
+    "team_id": "109981647134921596",
+    "team_code": "CCG",
+    "team_name": "CCG Esports",
+    "rating": 250.93216818192627
   },
   {
     "team_id": "106334802515490809",
     "team_code": "WTX",
     "team_name": "Wortex",
-    "rating": 236.2515617162288
+    "rating": 249.89107217658318
+  },
+  {
+    "team_id": "103535282119620510",
+    "team_code": "SHG",
+    "team_name": "Fukuoka SoftBank HAWKS gaming",
+    "rating": 249.62292962460404
+  },
+  {
+    "team_id": "107456355516438414",
+    "team_code": "SGE",
+    "team_name": "Eintracht Frankfurt",
+    "rating": 249.27760592933976
+  },
+  {
+    "team_id": "106857761435870473",
+    "team_code": "SN",
+    "team_name": "Supernova",
+    "rating": 248.765916824519
+  },
+  {
+    "team_id": "105549991104165282",
+    "team_code": "FUR",
+    "team_name": "FURIA Academy",
+    "rating": 248.24953793690588
   },
   {
     "team_id": "100205576307813373",
     "team_code": "FLA",
     "team_name": "Flamengo ",
-    "rating": 234.46878306733512
+    "rating": 247.64261138199532
   },
   {
-    "team_id": "108361578564310810",
-    "team_code": "TBA",
-    "team_name": "Team Pending",
-    "rating": 233.8220550890745
+    "team_id": "109782867012820172",
+    "team_code": "HZG",
+    "team_name": "Horizon Gaming",
+    "rating": 247.27758253989464
   },
   {
-    "team_id": "106250729133367861",
-    "team_code": "GOAL",
-    "team_name": "Olympiacos Alimou esports",
-    "rating": 233.65148011812605
+    "team_id": "107251307514079872",
+    "team_code": "LX",
+    "team_name": "LXE ESPORTS",
+    "rating": 246.21214550360787
   },
   {
-    "team_id": "104710343016706538",
-    "team_code": "PT7",
-    "team_name": "7more7 Pompa Team",
-    "rating": 232.93226103527087
+    "team_id": "106371141659311452",
+    "team_code": "VPG",
+    "team_name": "Valiance PRO GAME",
+    "rating": 244.72330209946637
+  },
+  {
+    "team_id": "107467827374313054",
+    "team_code": "FNK",
+    "team_name": "Finetwork KOI",
+    "rating": 243.7379121650792
+  },
+  {
+    "team_id": "105536952747658409",
+    "team_code": "MKS",
+    "team_name": "MKERS",
+    "rating": 243.5248797081113
+  },
+  {
+    "team_id": "102141671185899507",
+    "team_code": "UWO",
+    "team_name": "University of Western Ontario",
+    "rating": 242.39219279558245
+  },
+  {
+    "team_id": "109783130654973406",
+    "team_code": "GODL",
+    "team_name": "Godel Gamers",
+    "rating": 242.09549071209588
+  },
+  {
+    "team_id": "105550024238752685",
+    "team_code": "KDF",
+    "team_name": "KDF Challengers",
+    "rating": 240.1072417944402
+  },
+  {
+    "team_id": "110534724851488577",
+    "team_code": "FROG",
+    "team_name": "Froggy Five",
+    "rating": 238.2298445566712
+  },
+  {
+    "team_id": "105519562229907355",
+    "team_code": "BRG",
+    "team_name": "Barrage Esports",
+    "rating": 235.85691139411156
+  },
+  {
+    "team_id": "110534749775658790",
+    "team_code": "NPC",
+    "team_name": "The Cheese Chasers",
+    "rating": 235.07678530535233
   },
   {
     "team_id": "109485342651298305",
     "team_code": "FX",
     "team_name": "FLUXO Academy",
-    "rating": 232.1077778699494
+    "rating": 234.91068235229815
+  },
+  {
+    "team_id": "105537444152141556",
+    "team_code": "BTS",
+    "team_name": "Herbalife Real Betis",
+    "rating": 234.68743003596836
+  },
+  {
+    "team_id": "105550059790656435",
+    "team_code": "T1",
+    "team_name": "T1 Esports Academy",
+    "rating": 234.45418405762138
   },
   {
     "team_id": "105521637552587612",
     "team_code": "TP",
     "team_name": "Team Phantasma",
-    "rating": 231.73453689541736
+    "rating": 234.23226858944764
   },
   {
     "team_id": "105357803054359120",
@@ -1776,28 +1740,34 @@
     "rating": 231.52355744634548
   },
   {
-    "team_id": "107416342401528388",
-    "team_code": "MFSK",
-    "team_name": "Maturalni Forsaken",
-    "rating": 230.65723879221548
+    "team_id": "104710343016706538",
+    "team_code": "PT7",
+    "team_name": "7more7 Pompa Team",
+    "rating": 231.03631841601126
+  },
+  {
+    "team_id": "109692074894483834",
+    "team_code": "WP",
+    "team_name": "West Point Esports",
+    "rating": 230.45962411442542
+  },
+  {
+    "team_id": "105554088239949229",
+    "team_code": "X25",
+    "team_name": "x25 Esports",
+    "rating": 230.37467234737403
   },
   {
     "team_id": "109697683685398040",
     "team_code": "MGZ",
     "team_name": "MAGAZA",
-    "rating": 229.84096481707635
+    "rating": 229.30809887435316
   },
   {
     "team_id": "103935567188806885",
     "team_code": "EWIZ",
     "team_name": "Energypot Wizards",
-    "rating": 229.81734476242474
-  },
-  {
-    "team_id": "106806773698472633",
-    "team_code": "AZE",
-    "team_name": "Team Aze",
-    "rating": 229.24030410382457
+    "rating": 229.29169678899078
   },
   {
     "team_id": "110506938087991033",
@@ -1806,10 +1776,16 @@
     "rating": 228.9963939369862
   },
   {
-    "team_id": "107456419134134246",
-    "team_code": "ASTL",
-    "team_name": "Astralis Talent",
-    "rating": 227.34724671555253
+    "team_id": "106250729133367861",
+    "team_code": "GOAL",
+    "team_name": "Olympiacos Alimou esports",
+    "rating": 227.35347768980137
+  },
+  {
+    "team_id": "107416342401528388",
+    "team_code": "MFSK",
+    "team_name": "Maturalni Forsaken",
+    "rating": 226.11273906164723
   },
   {
     "team_id": "110733877357854829",
@@ -1818,22 +1794,10 @@
     "rating": 226.09594427222498
   },
   {
-    "team_id": "103535282151674574",
-    "team_code": "RYLA",
-    "team_name": "Royal Youth Akademi",
-    "rating": 225.95951022524906
-  },
-  {
-    "team_id": "103877756742242918",
-    "team_code": "RCN",
-    "team_name": "Racoon",
-    "rating": 225.19169005183886
-  },
-  {
-    "team_id": "105550059790656435",
-    "team_code": "T1",
-    "team_name": "T1 Esports Academy",
-    "rating": 225.14271410275154
+    "team_id": "107565493716773932",
+    "team_code": "NTZ",
+    "team_name": "Nativz",
+    "rating": 225.4261141884469
   },
   {
     "team_id": "105301877841257613",
@@ -1842,22 +1806,28 @@
     "rating": 224.97550486878026
   },
   {
-    "team_id": "107565493716773932",
-    "team_code": "NTZ",
-    "team_name": "Nativz",
-    "rating": 224.03262734229048
+    "team_id": "103877756742242918",
+    "team_code": "RCN",
+    "team_name": "Racoon",
+    "rating": 223.96230400250255
   },
   {
-    "team_id": "103535282146169523",
-    "team_code": "AUR",
-    "team_name": "Info Yat\u0131r\u0131m Aurora Akademi",
-    "rating": 223.97054561776167
+    "team_id": "99566406065437842",
+    "team_code": "DP",
+    "team_name": "Dark Passage",
+    "rating": 223.66180222295094
   },
   {
-    "team_id": "110424394375218208",
-    "team_code": "AOMA",
-    "team_name": "A One Man Army",
-    "rating": 223.9692888104421
+    "team_id": "103535282138043022",
+    "team_code": "FB",
+    "team_name": "Fenerbah\u00e7e Espor Akademi",
+    "rating": 223.65389813016543
+  },
+  {
+    "team_id": "107456419134134246",
+    "team_code": "ASTL",
+    "team_name": "Astralis Talent",
+    "rating": 223.40519439669114
   },
   {
     "team_id": "99124844354766222",
@@ -1866,10 +1836,22 @@
     "rating": 223.08059819042683
   },
   {
-    "team_id": "106382545123328648",
-    "team_code": "DNE",
-    "team_name": "Dynamo Eclot",
-    "rating": 222.1634339012344
+    "team_id": "104710354840711661",
+    "team_code": "RDL",
+    "team_name": "Riddle Esports",
+    "rating": 222.563531989162
+  },
+  {
+    "team_id": "103535282151674574",
+    "team_code": "RYLA",
+    "team_name": "Royal Youth Akademi",
+    "rating": 221.9712047898528
+  },
+  {
+    "team_id": "107597875833524424",
+    "team_code": "DIA",
+    "team_name": "Diamant Esports",
+    "rating": 221.73349376951495
   },
   {
     "team_id": "105193385417106233",
@@ -1878,46 +1860,34 @@
     "rating": 221.7157632112503
   },
   {
-    "team_id": "103535282138043022",
-    "team_code": "FB",
-    "team_name": "Fenerbah\u00e7e Espor Akademi",
-    "rating": 220.48448310644588
+    "team_id": "109698757443650056",
+    "team_code": "MKE",
+    "team_name": "Mad Kings",
+    "rating": 221.4281952843289
   },
   {
     "team_id": "107467834753797729",
     "team_code": "BSO",
     "team_name": "Bisons",
-    "rating": 220.00916178231097
+    "rating": 221.16464781185076
   },
   {
-    "team_id": "102141671182557163",
-    "team_code": "UI",
-    "team_name": "Redbird Esports",
-    "rating": 219.30630589577135
+    "team_id": "108361578564310810",
+    "team_code": "TBA",
+    "team_name": "Team Pending",
+    "rating": 221.0271943016425
   },
   {
-    "team_id": "99566406065437842",
-    "team_code": "DP",
-    "team_name": "Dark Passage",
-    "rating": 218.91195061956017
+    "team_id": "108361575122450254",
+    "team_code": "TACO",
+    "team_name": "Team Fish Taco",
+    "rating": 220.0228418958935
   },
   {
-    "team_id": "108159890692353756",
-    "team_code": "SCC",
-    "team_name": "St. Clair College",
-    "rating": 218.79344136072845
-  },
-  {
-    "team_id": "109696092218588987",
-    "team_code": "NGX",
-    "team_name": "Nigma Galaxy",
-    "rating": 218.50588120189852
-  },
-  {
-    "team_id": "105519562229907355",
-    "team_code": "BRG",
-    "team_name": "Barrage Esports",
-    "rating": 217.766417379495
+    "team_id": "109695924147263860",
+    "team_code": "TE",
+    "team_name": "Triple Esports",
+    "rating": 219.48836959929082
   },
   {
     "team_id": "105351737774956843",
@@ -1926,52 +1896,46 @@
     "rating": 216.56790384701657
   },
   {
-    "team_id": "109695924147263860",
-    "team_code": "TE",
-    "team_name": "Triple Esports",
-    "rating": 216.13849180685057
+    "team_id": "102787200145472495",
+    "team_code": "DKI",
+    "team_name": "Defusekids",
+    "rating": 216.23717588664314
+  },
+  {
+    "team_id": "110424394375218208",
+    "team_code": "AOMA",
+    "team_name": "A One Man Army",
+    "rating": 215.4273470767161
   },
   {
     "team_id": "103877774634323825",
     "team_code": "YDN",
     "team_name": "YDN Gamers",
-    "rating": 214.85870493722425
-  },
-  {
-    "team_id": "106857724782292541",
-    "team_code": "C9AM",
-    "team_name": "C9 Amateur",
-    "rating": 214.47385487362257
-  },
-  {
-    "team_id": "102787200145472495",
-    "team_code": "DKI",
-    "team_name": "Defusekids",
-    "rating": 214.0834704306016
-  },
-  {
-    "team_id": "106857755268998406",
-    "team_code": "RSV",
-    "team_name": "Resolve",
-    "rating": 212.2535110530712
-  },
-  {
-    "team_id": "103535282119620510",
-    "team_code": "SHG",
-    "team_name": "Fukuoka SoftBank HAWKS gaming",
-    "rating": 211.889201919708
+    "rating": 215.23264684091038
   },
   {
     "team_id": "109671413728531527",
     "team_code": "PTR",
     "team_name": "Pentagon Rejects",
-    "rating": 211.84560198418123
+    "rating": 214.69360569435355
   },
   {
-    "team_id": "102141671181705193",
-    "team_code": "MSU",
-    "team_name": "Michigan State University",
-    "rating": 210.91420795935832
+    "team_id": "103535282146169523",
+    "team_code": "AUR",
+    "team_name": "Info Yat\u0131r\u0131m Aurora Akademi",
+    "rating": 214.14886793719546
+  },
+  {
+    "team_id": "105550036134585264",
+    "team_code": "BRO",
+    "team_name": "BRO Challengers",
+    "rating": 213.0538813235433
+  },
+  {
+    "team_id": "104710383210356454",
+    "team_code": "LION",
+    "team_name": "LowLandLions",
+    "rating": 211.24466213030306
   },
   {
     "team_id": "104212455500985426",
@@ -1980,22 +1944,22 @@
     "rating": 210.5318136208865
   },
   {
-    "team_id": "105537947396116202",
-    "team_code": "NSR",
-    "team_name": "NASR ESPORTS Akademi",
-    "rating": 210.17877033604154
-  },
-  {
-    "team_id": "108573042084687884",
-    "team_code": "TW",
-    "team_name": "TEAM WHALES",
-    "rating": 209.5055524536361
+    "team_id": "108160026618060825",
+    "team_code": "UCI",
+    "team_name": "UCI Esports",
+    "rating": 209.2411706962502
   },
   {
     "team_id": "110534714934488523",
     "team_code": "CBG",
     "team_name": "CB Gaming",
-    "rating": 208.95077808663402
+    "rating": 209.0414490600201
+  },
+  {
+    "team_id": "108361570687544399",
+    "team_code": "JK",
+    "team_name": "Jake's Kittens",
+    "rating": 208.85779042116206
   },
   {
     "team_id": "105301755072677196",
@@ -2004,16 +1968,16 @@
     "rating": 208.48146479586063
   },
   {
-    "team_id": "104710383210356454",
-    "team_code": "LION",
-    "team_name": "LowLandLions",
-    "rating": 208.16646596252198
+    "team_id": "109783160511364305",
+    "team_code": "CB",
+    "team_name": "CB Gaming",
+    "rating": 208.05662329826188
   },
   {
-    "team_id": "105550036134585264",
-    "team_code": "BRO",
-    "team_name": "BRO Challengers",
-    "rating": 208.10713213128426
+    "team_id": "106334794714373670",
+    "team_code": "GOEX",
+    "team_name": "Goexanimo",
+    "rating": 207.78393241573104
   },
   {
     "team_id": "104212474149188693",
@@ -2022,34 +1986,10 @@
     "rating": 207.5470255660124
   },
   {
-    "team_id": "109783160511364305",
-    "team_code": "CB",
-    "team_name": "CB Gaming",
-    "rating": 207.3873554519037
-  },
-  {
     "team_id": "104234362586443283",
     "team_code": "PNGU",
     "team_name": "German Pingus",
     "rating": 207.28674852561
-  },
-  {
-    "team_id": "108361570687544399",
-    "team_code": "JK",
-    "team_name": "Jake's Kittens",
-    "rating": 206.79228600252458
-  },
-  {
-    "team_id": "109692074894483834",
-    "team_code": "WP",
-    "team_name": "West Point Esports",
-    "rating": 206.45961756546765
-  },
-  {
-    "team_id": "105536773074826367",
-    "team_code": "GGE",
-    "team_name": "GGEsports",
-    "rating": 206.286024780506
   },
   {
     "team_id": "99124844355850858",
@@ -2058,22 +1998,28 @@
     "rating": 206.25589830438014
   },
   {
-    "team_id": "107582184905264520",
-    "team_code": "WS",
-    "team_name": "Waia Snikt",
-    "rating": 205.69724063300967
+    "team_id": "108159890692353756",
+    "team_code": "SCC",
+    "team_name": "St. Clair College",
+    "rating": 205.75069142173484
   },
   {
     "team_id": "110534696811298545",
     "team_code": "AMI",
     "team_name": "Apex Mission Impossible",
-    "rating": 205.02790657346762
+    "rating": 205.2882341473385
   },
   {
     "team_id": "109981655738221109",
     "team_code": "CAT",
     "team_name": "Team Plink",
-    "rating": 204.76089368220886
+    "rating": 204.8593506093408
+  },
+  {
+    "team_id": "107599061926073885",
+    "team_code": "N5R",
+    "team_name": "Newstar",
+    "rating": 204.77420755544424
   },
   {
     "team_id": "110425157952111645",
@@ -2082,16 +2028,22 @@
     "rating": 204.63614945447742
   },
   {
-    "team_id": "107599061926073885",
-    "team_code": "N5R",
-    "team_name": "Newstar",
-    "rating": 203.87417711276356
+    "team_id": "109696092218588987",
+    "team_code": "NGX",
+    "team_name": "Nigma Galaxy",
+    "rating": 204.03093581251787
   },
   {
-    "team_id": "106334794714373670",
-    "team_code": "GOEX",
-    "team_name": "Goexanimo",
-    "rating": 202.76224462787246
+    "team_id": "107067065368380132",
+    "team_code": "WPE",
+    "team_name": "Wild Panthers Esports",
+    "rating": 203.94171612785877
+  },
+  {
+    "team_id": "109981678167856017",
+    "team_code": "MRC",
+    "team_name": "Miracle",
+    "rating": 202.58991714180056
   },
   {
     "team_id": "99124844353216570",
@@ -2100,22 +2052,16 @@
     "rating": 202.23028793619366
   },
   {
-    "team_id": "109981678167856017",
-    "team_code": "MRC",
-    "team_name": "Miracle",
-    "rating": 201.7347302649204
-  },
-  {
-    "team_id": "107581178720470377",
-    "team_code": "ARC",
-    "team_name": "Arctic Gaming",
-    "rating": 201.22377133837668
+    "team_id": "106857734387052095",
+    "team_code": "AOE",
+    "team_name": "AOE Gold",
+    "rating": 201.749581856684
   },
   {
     "team_id": "98767991959203254",
     "team_code": "ONEE",
     "team_name": "Team oNe e-Sports",
-    "rating": 201.16984721688095
+    "rating": 201.5885058499526
   },
   {
     "team_id": "104234144258996303",
@@ -2124,10 +2070,10 @@
     "rating": 201.04194004109823
   },
   {
-    "team_id": "107067065368380132",
-    "team_code": "WPE",
-    "team_name": "Wild Panthers Esports",
-    "rating": 200.73760425056912
+    "team_id": "105521402545275594",
+    "team_code": "GGM",
+    "team_name": "Gentlemen's Gaming",
+    "rating": 200.2314290249673
   },
   {
     "team_id": "99124844358677975",
@@ -2136,10 +2082,28 @@
     "rating": 199.50644627118723
   },
   {
-    "team_id": "107582598621022934",
-    "team_code": "CDM",
-    "team_name": "Club Deportivo Municipal",
-    "rating": 197.16942026706138
+    "team_id": "107700211633200412",
+    "team_code": "MFT",
+    "team_name": "Meta Falcon Team",
+    "rating": 199.39810069701718
+  },
+  {
+    "team_id": "107598785733448849",
+    "team_code": "RIV",
+    "team_name": "River Plate Gaming",
+    "rating": 198.73878221917465
+  },
+  {
+    "team_id": "101428372607057464",
+    "team_code": "AXZ",
+    "team_name": "AXIZ",
+    "rating": 198.6984282769243
+  },
+  {
+    "team_id": "102787200124959636",
+    "team_code": "CZV",
+    "team_name": "Crvena Zvezda Esports",
+    "rating": 198.0340629128077
   },
   {
     "team_id": "110733889090164854",
@@ -2148,22 +2112,10 @@
     "rating": 196.87643226673063
   },
   {
-    "team_id": "108160026618060825",
-    "team_code": "UCI",
-    "team_name": "UCI Esports",
-    "rating": 196.87471716151148
-  },
-  {
-    "team_id": "105520816474194464",
-    "team_code": "DYN",
-    "team_name": "Dynasty",
-    "rating": 196.68193409519697
-  },
-  {
-    "team_id": "107603544245460197",
-    "team_code": "AWK",
-    "team_name": "Ramo Awake Gaming",
-    "rating": 195.95942301600797
+    "team_id": "107581178720470377",
+    "team_code": "ARC",
+    "team_name": "Arctic Gaming",
+    "rating": 196.48762245084617
   },
   {
     "team_id": "106302119383559530",
@@ -2172,64 +2124,46 @@
     "rating": 195.01040021839526
   },
   {
-    "team_id": "107693836459380354",
-    "team_code": "SMP",
-    "team_name": "SAMPI",
-    "rating": 194.60907367896786
-  },
-  {
-    "team_id": "110492173877838150",
-    "team_code": "EF",
-    "team_name": "Eternal Fire",
-    "rating": 194.22168841352533
-  },
-  {
-    "team_id": "109696115986547257",
-    "team_code": "FOX",
-    "team_name": "Fox Gaming",
-    "rating": 193.99324774374017
-  },
-  {
-    "team_id": "107597866344501908",
-    "team_code": "AUX",
-    "team_name": "Auxesis Esports",
-    "rating": 193.43702117429933
-  },
-  {
-    "team_id": "105521402545275594",
-    "team_code": "GGM",
-    "team_name": "Gentlemen's Gaming",
-    "rating": 192.56495930353623
-  },
-  {
-    "team_id": "103877976717529187",
-    "team_code": "IF",
-    "team_name": "Intrepid Fox Gaming",
-    "rating": 191.9792203494105
-  },
-  {
-    "team_id": "105709099258505657",
-    "team_code": "PCE",
-    "team_name": "PEACE",
-    "rating": 191.51391935421128
+    "team_id": "109699038581250169",
+    "team_code": "RDY",
+    "team_name": "Red Eyes Esports",
+    "rating": 193.84950862705023
   },
   {
     "team_id": "105503948999800557",
     "team_code": "EWI",
     "team_name": "E WIE EINFACH E-SPORTS",
-    "rating": 191.2280164101551
+    "rating": 193.6110824353144
   },
   {
-    "team_id": "108448995754333242",
-    "team_code": "WBD",
-    "team_name": "webidoo Gaming",
-    "rating": 191.20473743255286
+    "team_id": "109696115986547257",
+    "team_code": "FOX",
+    "team_name": "Fox Gaming",
+    "rating": 193.37168273907258
   },
   {
-    "team_id": "103877879209300619",
-    "team_code": "VIP",
-    "team_name": "Vipers Inc",
-    "rating": 190.7906253842796
+    "team_id": "108573042084687884",
+    "team_code": "TW",
+    "team_name": "TEAM WHALES",
+    "rating": 192.57070755785412
+  },
+  {
+    "team_id": "106806773698472633",
+    "team_code": "AZE",
+    "team_name": "Team Aze",
+    "rating": 192.2845078638261
+  },
+  {
+    "team_id": "105536773074826367",
+    "team_code": "GGE",
+    "team_name": "GGEsports",
+    "rating": 191.76015632251102
+  },
+  {
+    "team_id": "103877976717529187",
+    "team_code": "IF",
+    "team_name": "Intrepid Fox Gaming",
+    "rating": 191.21778566346597
   },
   {
     "team_id": "110534741480867943",
@@ -2238,112 +2172,178 @@
     "rating": 189.8173981385791
   },
   {
-    "team_id": "107598785733448849",
-    "team_code": "RIV",
-    "team_name": "River Plate Gaming",
-    "rating": 189.50643622620913
+    "team_id": "103877879209300619",
+    "team_code": "VIP",
+    "team_name": "Vipers Inc",
+    "rating": 189.421151502063
   },
   {
     "team_id": "104251016988118464",
     "team_code": "GS",
     "team_name": "Galatasaray Espor Akademi",
-    "rating": 189.44561724612404
+    "rating": 188.95946239871725
   },
   {
-    "team_id": "107582609836036013",
-    "team_code": "DD",
-    "team_name": "Diamond Doves",
-    "rating": 189.18445495962575
+    "team_id": "105520816474194464",
+    "team_code": "DYN",
+    "team_name": "Dynasty",
+    "rating": 188.69288819370277
   },
   {
-    "team_id": "106421708401759879",
-    "team_code": "BSGG",
-    "team_name": "Black Star Gaming",
-    "rating": 188.7478034420942
+    "team_id": "107582598621022934",
+    "team_code": "CDM",
+    "team_name": "Club Deportivo Municipal",
+    "rating": 188.2533856863143
   },
   {
-    "team_id": "107179740624168899",
-    "team_code": "HEET",
-    "team_name": "HEET",
-    "rating": 188.59531469108916
+    "team_id": "102141671181705193",
+    "team_code": "MSU",
+    "team_name": "Michigan State University",
+    "rating": 187.4587622664731
   },
   {
-    "team_id": "103935421249833954",
-    "team_code": "MADM",
-    "team_name": "MAD Lions Madrid",
-    "rating": 187.8829791820982
-  },
-  {
-    "team_id": "105553729458550723",
-    "team_code": "NXK",
-    "team_name": "Nexus KTRL",
-    "rating": 186.62233320729226
-  },
-  {
-    "team_id": "105537226118106446",
-    "team_code": "AXL",
-    "team_name": "Axolotl Esports",
-    "rating": 186.22490603286434
-  },
-  {
-    "team_id": "105913232697120493",
-    "team_code": "EG",
-    "team_name": "EG Prodigies",
-    "rating": 184.76147978961853
-  },
-  {
-    "team_id": "107580499570181349",
-    "team_code": "WCA",
-    "team_name": "Wildcard Aces",
-    "rating": 184.43682361795283
-  },
-  {
-    "team_id": "107251231972989211",
-    "team_code": "SE",
-    "team_name": "SBTC ESPORTS",
-    "rating": 183.71761295715214
-  },
-  {
-    "team_id": "107581296208168309",
-    "team_code": "TMR",
-    "team_name": "Tomorrow Esports",
-    "rating": 182.26600606456626
-  },
-  {
-    "team_id": "105520713962793016",
-    "team_code": "GRNT",
-    "team_name": "Granit Gaming",
-    "rating": 182.0335143053345
-  },
-  {
-    "team_id": "107580506699777259",
-    "team_code": "ISU",
-    "team_name": "ISU Redbirds",
-    "rating": 181.58343442678313
-  },
-  {
-    "team_id": "103535282135552642",
-    "team_code": "SMB",
-    "team_name": "Papara SuperMassive Blaze Akademi",
-    "rating": 181.57262386819116
-  },
-  {
-    "team_id": "105957640798249312",
-    "team_code": "BRG",
-    "team_name": "Barrage.NA",
-    "rating": 178.7381360798883
+    "team_id": "108448995754333242",
+    "team_code": "WBD",
+    "team_name": "webidoo Gaming",
+    "rating": 187.24597595063332
   },
   {
     "team_id": "105520781900097659",
     "team_code": "4E",
     "team_name": "4 Elements",
-    "rating": 178.6654938746843
+    "rating": 187.20367022935912
   },
   {
-    "team_id": "107128093558481418",
-    "team_code": "ZNT",
-    "team_name": "ZennIT",
-    "rating": 178.48497607545562
+    "team_id": "107603544245460197",
+    "team_code": "AWK",
+    "team_name": "Ramo Awake Gaming",
+    "rating": 186.43562699560948
+  },
+  {
+    "team_id": "106421708401759879",
+    "team_code": "BSGG",
+    "team_name": "Black Star Gaming",
+    "rating": 186.27128781986303
+  },
+  {
+    "team_id": "105397399468432537",
+    "team_code": "NMG",
+    "team_name": "Miners",
+    "rating": 186.0164446352231
+  },
+  {
+    "team_id": "103935421249833954",
+    "team_code": "MADM",
+    "team_name": "MAD Lions Madrid",
+    "rating": 185.87943866743507
+  },
+  {
+    "team_id": "107251231972989211",
+    "team_code": "SE",
+    "team_name": "SBTC ESPORTS",
+    "rating": 184.6094461556471
+  },
+  {
+    "team_id": "107580499570181349",
+    "team_code": "WCA",
+    "team_name": "Wildcard Aces",
+    "rating": 184.56745784443362
+  },
+  {
+    "team_id": "105520713962793016",
+    "team_code": "GRNT",
+    "team_name": "Granit Gaming",
+    "rating": 184.37992113036879
+  },
+  {
+    "team_id": "106857724782292541",
+    "team_code": "C9AM",
+    "team_name": "C9 Amateur",
+    "rating": 184.2602088857778
+  },
+  {
+    "team_id": "107693836459380354",
+    "team_code": "SMP",
+    "team_name": "SAMPI",
+    "rating": 184.19909641367803
+  },
+  {
+    "team_id": "105537947396116202",
+    "team_code": "NSR",
+    "team_name": "NASR ESPORTS Akademi",
+    "rating": 183.4138311460924
+  },
+  {
+    "team_id": "107580506699777259",
+    "team_code": "ISU",
+    "team_name": "ISU Redbirds",
+    "rating": 183.2781892786642
+  },
+  {
+    "team_id": "107251295460371069",
+    "team_code": "TS",
+    "team_name": "Team Secret",
+    "rating": 183.06375561003057
+  },
+  {
+    "team_id": "107581296208168309",
+    "team_code": "TMR",
+    "team_name": "Tomorrow Esports",
+    "rating": 181.92833915204835
+  },
+  {
+    "team_id": "102141671182557163",
+    "team_code": "UI",
+    "team_name": "Redbird Esports",
+    "rating": 180.6406494891827
+  },
+  {
+    "team_id": "107582609836036013",
+    "team_code": "DD",
+    "team_name": "Diamond Doves",
+    "rating": 179.78867864812554
+  },
+  {
+    "team_id": "105549995617170853",
+    "team_code": "KBM",
+    "team_name": "KaBuM! Academy",
+    "rating": 179.77384247283624
+  },
+  {
+    "team_id": "102825747701670848",
+    "team_code": "UCH",
+    "team_name": "Azules Esports",
+    "rating": 179.22073459765886
+  },
+  {
+    "team_id": "105553729458550723",
+    "team_code": "NXK",
+    "team_name": "Nexus KTRL",
+    "rating": 179.20854479255408
+  },
+  {
+    "team_id": "109704625422425316",
+    "team_code": "BLX",
+    "team_name": "Benelux United",
+    "rating": 178.97602193050383
+  },
+  {
+    "team_id": "110534732558665825",
+    "team_code": "KMD",
+    "team_name": "Komodo",
+    "rating": 178.90860576684355
+  },
+  {
+    "team_id": "107597866344501908",
+    "team_code": "AUX",
+    "team_name": "Auxesis Esports",
+    "rating": 178.79782850880278
+  },
+  {
+    "team_id": "103535282135552642",
+    "team_code": "SMB",
+    "team_name": "Papara SuperMassive Blaze Akademi",
+    "rating": 178.6333870093639
   },
   {
     "team_id": "106222632206917342",
@@ -2352,16 +2352,10 @@
     "rating": 178.3834556115928
   },
   {
-    "team_id": "110534732558665825",
-    "team_code": "KMD",
-    "team_name": "Komodo",
-    "rating": 177.22176408307217
-  },
-  {
-    "team_id": "107251295460371069",
-    "team_code": "TS",
-    "team_name": "Team Secret",
-    "rating": 176.73300909987373
+    "team_id": "105550051809743868",
+    "team_code": "LSB",
+    "team_name": "Liiv SANDBOX Youth",
+    "rating": 177.542913955485
   },
   {
     "team_id": "110733881542862348",
@@ -2370,70 +2364,52 @@
     "rating": 176.46457069687227
   },
   {
-    "team_id": "109539873500788632",
-    "team_code": "EXD",
-    "team_name": "EXEED",
-    "rating": 176.35815331074562
-  },
-  {
-    "team_id": "105549995617170853",
-    "team_code": "KBM",
-    "team_name": "KaBuM! Academy",
-    "rating": 175.85696007469534
-  },
-  {
-    "team_id": "107580481273119961",
-    "team_code": "TG",
-    "team_name": "Taco Gaming",
-    "rating": 175.82243133987095
+    "team_id": "110534751905120040",
+    "team_code": "YB",
+    "team_name": "Young Buffalos",
+    "rating": 176.3949173493527
   },
   {
     "team_id": "103877908090914662",
     "team_code": "KEN",
     "team_name": "Kenty",
-    "rating": 175.39705947715308
+    "rating": 175.49266990321325
   },
   {
-    "team_id": "105550051809743868",
-    "team_code": "LSB",
-    "team_name": "Liiv SANDBOX Youth",
-    "rating": 175.25481866128612
+    "team_id": "107179740624168899",
+    "team_code": "HEET",
+    "team_name": "HEET",
+    "rating": 175.43916294155386
   },
   {
-    "team_id": "110534751905120040",
-    "team_code": "YB",
-    "team_name": "Young Buffalos",
-    "rating": 174.78201572786642
-  },
-  {
-    "team_id": "109704625422425316",
-    "team_code": "BLX",
-    "team_name": "Benelux United",
-    "rating": 174.616327790388
-  },
-  {
-    "team_id": "107953988302037900",
-    "team_code": "MU",
-    "team_name": "Maryville Saints",
-    "rating": 173.78352866913957
+    "team_id": "107128093558481418",
+    "team_code": "ZNT",
+    "team_name": "ZennIT",
+    "rating": 174.98844890380101
   },
   {
     "team_id": "105521451717484016",
     "team_code": "HIVE",
     "team_name": "Hive Athens EC",
-    "rating": 173.3276518573802
+    "rating": 174.9462709682
   },
   {
-    "team_id": "105593129376630217",
-    "team_code": "VIK",
-    "team_name": "Vikingekrig Esports",
-    "rating": 172.82588798384592
+    "team_id": "109539873500788632",
+    "team_code": "EXD",
+    "team_name": "EXEED",
+    "rating": 174.39110944705112
   },
   {
-    "team_id": "104710682193583854",
-    "team_code": "WOLF",
-    "team_name": "Topo Centras Iron Wolves",
-    "rating": 172.57271370716157
+    "team_id": "107953988302037900",
+    "team_code": "MU",
+    "team_name": "Maryville Saints",
+    "rating": 174.24191950521325
+  },
+  {
+    "team_id": "106382545123328648",
+    "team_code": "DNE",
+    "team_name": "Dynamo Eclot",
+    "rating": 173.21243244278887
   },
   {
     "team_id": "108203166973601408",
@@ -2442,46 +2418,28 @@
     "rating": 172.34624903582358
   },
   {
-    "team_id": "102825747701670848",
-    "team_code": "UCH",
-    "team_name": "Azules Esports",
-    "rating": 170.71591962565526
+    "team_id": "110492173877838150",
+    "team_code": "EF",
+    "team_name": "Eternal Fire",
+    "rating": 170.23531199893023
   },
   {
-    "team_id": "102787200129022886",
-    "team_code": "ESB",
-    "team_name": "eSuba",
-    "rating": 170.6294352744546
+    "team_id": "105709099258505657",
+    "team_code": "PCE",
+    "team_name": "PEACE",
+    "rating": 169.54324208058347
   },
   {
-    "team_id": "105913111502565010",
-    "team_code": "ZOOS",
-    "team_name": "Zoos Gaming",
-    "rating": 170.35923692625144
+    "team_id": "106300533256999014",
+    "team_code": "SGC",
+    "team_name": "Starlan Gaming Club",
+    "rating": 168.57318734891774
   },
   {
-    "team_id": "107580444745581889",
-    "team_code": "IMA",
-    "team_name": "Immortals AOE",
-    "rating": 169.39590168395026
-  },
-  {
-    "team_id": "110418022381234710",
-    "team_code": "SPK",
-    "team_name": "SPIKE Syndicate",
-    "rating": 169.302926117755
-  },
-  {
-    "team_id": "106302593752767294",
-    "team_code": "NMG",
-    "team_name": "Miners Academy",
-    "rating": 168.17573061720404
-  },
-  {
-    "team_id": "105532840001188717",
-    "team_code": "S2V",
-    "team_name": "S2V Esports",
-    "rating": 167.77935260325094
+    "team_id": "105537226118106446",
+    "team_code": "AXL",
+    "team_name": "Axolotl Esports",
+    "rating": 168.42210261071858
   },
   {
     "team_id": "105352091319919029",
@@ -2502,46 +2460,34 @@
     "rating": 167.09096025965925
   },
   {
-    "team_id": "108361545122797332",
-    "team_code": "AGT",
-    "team_name": "AOE Ginger Turmeric",
-    "rating": 165.99667933685808
+    "team_id": "105532840001188717",
+    "team_code": "S2V",
+    "team_name": "S2V Esports",
+    "rating": 166.7811786127845
   },
   {
-    "team_id": "106300533256999014",
-    "team_code": "SGC",
-    "team_name": "Starlan Gaming Club",
-    "rating": 165.91877211696777
+    "team_id": "107580444745581889",
+    "team_code": "IMA",
+    "team_name": "Immortals AOE",
+    "rating": 165.98310125501672
   },
   {
-    "team_id": "109699038581250169",
-    "team_code": "RDY",
-    "team_name": "Red Eyes Esports",
-    "rating": 165.91246122562202
+    "team_id": "104710682193583854",
+    "team_code": "WOLF",
+    "team_name": "Topo Centras Iron Wolves",
+    "rating": 165.88243222814083
   },
   {
-    "team_id": "107700211633200412",
-    "team_code": "MFT",
-    "team_name": "Meta Falcon Team",
-    "rating": 165.6270342487414
+    "team_id": "105957640798249312",
+    "team_code": "BRG",
+    "team_name": "Barrage.NA",
+    "rating": 165.20062468788583
   },
   {
-    "team_id": "105957603362200620",
-    "team_code": "DIGM",
-    "team_name": "Dignitas Mirage",
-    "rating": 164.28583659424302
-  },
-  {
-    "team_id": "105593182576105603",
-    "team_code": "BRT",
-    "team_name": "BRUTE",
-    "rating": 163.91476515757972
-  },
-  {
-    "team_id": "105397399468432537",
-    "team_code": "NMG",
-    "team_name": "Miners",
-    "rating": 163.86470184862378
+    "team_id": "105593129376630217",
+    "team_code": "VIK",
+    "team_name": "Vikingekrig Esports",
+    "rating": 164.16805746489837
   },
   {
     "team_id": "104211677548295324",
@@ -2553,13 +2499,25 @@
     "team_id": "99566405944694628",
     "team_code": "PIX",
     "team_name": "Pixel Esports Club",
-    "rating": 161.81670586974133
+    "rating": 163.0124052061372
   },
   {
     "team_id": "105503778424809514",
     "team_code": "ESG",
     "team_name": "EURONICS Gaming",
-    "rating": 160.74919728585377
+    "rating": 162.92839168079476
+  },
+  {
+    "team_id": "108361545122797332",
+    "team_code": "AGT",
+    "team_name": "AOE Ginger Turmeric",
+    "rating": 161.3756738581764
+  },
+  {
+    "team_id": "107580475800733004",
+    "team_code": "3P",
+    "team_name": "Third Party",
+    "rating": 160.45431173856164
   },
   {
     "team_id": "107582176093752697",
@@ -2568,40 +2526,34 @@
     "rating": 160.41741297110138
   },
   {
-    "team_id": "107580475800733004",
-    "team_code": "3P",
-    "team_name": "Third Party",
-    "rating": 160.2800283651099
+    "team_id": "104367072827489994",
+    "team_code": "BJD",
+    "team_name": "Berjaya Dragons",
+    "rating": 159.97802376646482
   },
   {
-    "team_id": "108361537886099513",
-    "team_code": "300",
-    "team_name": "300",
-    "rating": 159.1180416607416
+    "team_id": "105549993449477104",
+    "team_code": "ITZ",
+    "team_name": "INTZ Academy",
+    "rating": 159.49175152877027
   },
   {
-    "team_id": "104710359142494900",
-    "team_code": "SMS",
-    "team_name": "Samsung Morning Stars",
-    "rating": 158.84477147433824
-  },
-  {
-    "team_id": "101428372607057464",
-    "team_code": "AXZ",
-    "team_name": "AXIZ",
-    "rating": 158.21404042365455
+    "team_id": "108566004579728490",
+    "team_code": "LRG",
+    "team_name": "LARGE",
+    "rating": 159.1932537385472
   },
   {
     "team_id": "110534712174898632",
     "team_code": "BOL",
     "team_name": "Blue Otter",
-    "rating": 157.92320636055675
+    "rating": 158.91820015853406
   },
   {
     "team_id": "109783136441695429",
     "team_code": "MRGE",
     "team_name": "Mirage",
-    "rating": 157.6661189634536
+    "rating": 157.5907677332611
   },
   {
     "team_id": "110425005562048945",
@@ -2610,256 +2562,304 @@
     "rating": 157.45466377778692
   },
   {
+    "team_id": "105957603362200620",
+    "team_code": "DIGM",
+    "team_name": "Dignitas Mirage",
+    "rating": 156.46498841428522
+  },
+  {
+    "team_id": "107580481273119961",
+    "team_code": "TG",
+    "team_name": "Taco Gaming",
+    "rating": 156.45143518902847
+  },
+  {
     "team_id": "110424397251619481",
     "team_code": "MYTH",
     "team_name": "Myth Esports",
     "rating": 155.95299374656705
   },
   {
-    "team_id": "104710678170825211",
-    "team_code": "SIN",
-    "team_name": "SINNERS Esports",
-    "rating": 155.81395470729024
-  },
-  {
-    "team_id": "107456284318482723",
-    "team_code": "ME",
-    "team_name": "Mirage-Elyandra",
-    "rating": 154.67416210331842
-  },
-  {
-    "team_id": "108566004579728490",
-    "team_code": "LRG",
-    "team_name": "LARGE",
-    "rating": 154.52382368425737
-  },
-  {
-    "team_id": "109783170393931575",
-    "team_code": "CNV",
-    "team_name": "Conviction",
-    "rating": 153.88847385671278
-  },
-  {
-    "team_id": "102787200159169580",
-    "team_code": "GOD",
-    "team_name": "Godsent",
-    "rating": 153.51143555584977
-  },
-  {
-    "team_id": "107603586980602718",
-    "team_code": "NOC",
-    "team_name": "NOCTA",
-    "rating": 153.1705058756481
-  },
-  {
-    "team_id": "109631610813971977",
-    "team_code": "MZS",
-    "team_name": "Mezexis Esports",
-    "rating": 153.09057869716813
-  },
-  {
-    "team_id": "105536980594429116",
-    "team_code": "RML",
-    "team_name": "Romulea eSport",
-    "rating": 152.56280727037677
+    "team_id": "106857755268998406",
+    "team_code": "RSV",
+    "team_name": "Resolve",
+    "rating": 155.8043578345365
   },
   {
     "team_id": "105503848339138647",
     "team_code": "PTA",
     "team_name": "PENTA 1860",
-    "rating": 151.88876190509112
-  },
-  {
-    "team_id": "108203169709977541",
-    "team_code": "BRO",
-    "team_name": "BRO Academy",
-    "rating": 150.72798650447507
-  },
-  {
-    "team_id": "105515109012592449",
-    "team_code": "IZI",
-    "team_name": "IZIDREAM",
-    "rating": 150.53261799523847
-  },
-  {
-    "team_id": "109783164711873455",
-    "team_code": "ZEN",
-    "team_name": "Zenigma",
-    "rating": 150.21172587541454
-  },
-  {
-    "team_id": "105537621677160078",
-    "team_code": "TQ",
-    "team_name": "Team Queso",
-    "rating": 149.01393473039158
-  },
-  {
-    "team_id": "109698855806033734",
-    "team_code": "UE",
-    "team_name": "Universitario Esports",
-    "rating": 147.54049274306544
-  },
-  {
-    "team_id": "107648168744912288",
-    "team_code": "DREN",
-    "team_name": "DREN Esports",
-    "rating": 147.10720874370202
-  },
-  {
-    "team_id": "105537408539332006",
-    "team_code": "EMZ",
-    "team_name": "eMonkeyz SDH",
-    "rating": 146.8439604689768
-  },
-  {
-    "team_id": "107598780504331406",
-    "team_code": "EV",
-    "team_name": "Maycam Evolve",
-    "rating": 146.63069473396715
-  },
-  {
-    "team_id": "107580455322240324",
-    "team_code": "NOT",
-    "team_name": "No Team",
-    "rating": 146.19274346251024
-  },
-  {
-    "team_id": "107423086908356081",
-    "team_code": "NKI",
-    "team_name": "Nyyrikki",
-    "rating": 145.2959043988319
+    "rating": 155.55724699712792
   },
   {
     "team_id": "99566408219409348",
     "team_code": "VKS",
     "team_name": "Vivo Keyd Stars",
-    "rating": 145.2825155173876
+    "rating": 155.2390188013122
   },
   {
-    "team_id": "105549993449477104",
-    "team_code": "ITZ",
-    "team_name": "INTZ Academy",
-    "rating": 144.91562917498885
+    "team_id": "102787200159169580",
+    "team_code": "GOD",
+    "team_name": "Godsent",
+    "rating": 154.6156949395166
   },
   {
-    "team_id": "107565448721890834",
-    "team_code": "DMN",
-    "team_name": "Domino Esports",
-    "rating": 144.67374518258308
+    "team_id": "106302593752767294",
+    "team_code": "NMG",
+    "team_name": "Miners Academy",
+    "rating": 154.56990961215746
   },
   {
-    "team_id": "109696047948627764",
-    "team_code": "GNG",
-    "team_name": "GNG Esports",
-    "rating": 144.25221819904553
+    "team_id": "105593182576105603",
+    "team_code": "BRT",
+    "team_name": "BRUTE",
+    "rating": 154.0327562037407
   },
   {
-    "team_id": "108361565719424734",
-    "team_code": "DKC",
-    "team_name": "DK Crew",
-    "rating": 143.99597230009397
+    "team_id": "108361537886099513",
+    "team_code": "300",
+    "team_name": "300",
+    "rating": 153.9902186348508
   },
   {
-    "team_id": "99566406332122275",
-    "team_code": "AV",
-    "team_name": "Avant Gaming",
-    "rating": 143.96883012102936
+    "team_id": "107598780504331406",
+    "team_code": "EV",
+    "team_name": "Maycam Evolve",
+    "rating": 153.94979513510887
   },
   {
-    "team_id": "105593213115128994",
-    "team_code": "DTG",
-    "team_name": "Dark Tigers",
-    "rating": 143.7413307082927
+    "team_id": "107423086908356081",
+    "team_code": "NKI",
+    "team_name": "Nyyrikki",
+    "rating": 149.77965953425254
   },
   {
     "team_id": "105521412995449549",
     "team_code": "ESCA",
     "team_name": "Team ESCA Gaming",
-    "rating": 141.96810266056525
+    "rating": 149.0725845987635
   },
   {
-    "team_id": "110383487456480967",
-    "team_code": "VTX",
-    "team_name": "Vertex ESC",
-    "rating": 141.379398898441
+    "team_id": "109783170393931575",
+    "team_code": "CNV",
+    "team_name": "Conviction",
+    "rating": 148.67781648024825
+  },
+  {
+    "team_id": "109783164711873455",
+    "team_code": "ZEN",
+    "team_name": "Zenigma",
+    "rating": 148.5292528310593
+  },
+  {
+    "team_id": "109698855806033734",
+    "team_code": "UE",
+    "team_name": "Universitario Esports",
+    "rating": 147.9301063215181
+  },
+  {
+    "team_id": "105913111502565010",
+    "team_code": "ZOOS",
+    "team_name": "Zoos Gaming",
+    "rating": 147.75881810524623
+  },
+  {
+    "team_id": "105537621677160078",
+    "team_code": "TQ",
+    "team_name": "Team Queso",
+    "rating": 147.09173028694087
+  },
+  {
+    "team_id": "107456284318482723",
+    "team_code": "ME",
+    "team_name": "Mirage-Elyandra",
+    "rating": 146.43324922248274
   },
   {
     "team_id": "107599112065439311",
     "team_code": "DHX",
     "team_name": "Dark Horse",
-    "rating": 140.57673164600467
+    "rating": 146.3818781116333
+  },
+  {
+    "team_id": "105536980594429116",
+    "team_code": "RML",
+    "team_name": "Romulea eSport",
+    "rating": 146.00560468454094
+  },
+  {
+    "team_id": "105537408539332006",
+    "team_code": "EMZ",
+    "team_name": "eMonkeyz SDH",
+    "rating": 145.85139122633473
+  },
+  {
+    "team_id": "99566406332122275",
+    "team_code": "AV",
+    "team_name": "Avant Gaming",
+    "rating": 145.7026037502112
+  },
+  {
+    "team_id": "105515109012592449",
+    "team_code": "IZI",
+    "team_name": "IZIDREAM",
+    "rating": 144.603882010354
+  },
+  {
+    "team_id": "104710359142494900",
+    "team_code": "SMS",
+    "team_name": "Samsung Morning Stars",
+    "rating": 144.459840820357
+  },
+  {
+    "team_id": "109696047948627764",
+    "team_code": "GNG",
+    "team_name": "GNG Esports",
+    "rating": 144.10462194702362
+  },
+  {
+    "team_id": "107648168744912288",
+    "team_code": "DREN",
+    "team_name": "DREN Esports",
+    "rating": 143.7939887653408
+  },
+  {
+    "team_id": "110383487456480967",
+    "team_code": "VTX",
+    "team_name": "Vertex ESC",
+    "rating": 143.65895470663017
+  },
+  {
+    "team_id": "107603586980602718",
+    "team_code": "NOC",
+    "team_name": "NOCTA",
+    "rating": 143.16227767210097
+  },
+  {
+    "team_id": "105913232697120493",
+    "team_code": "EG",
+    "team_name": "EG Prodigies",
+    "rating": 142.41806166013248
+  },
+  {
+    "team_id": "106806779752531762",
+    "team_code": "GET",
+    "team_name": "Globant Emerald Team",
+    "rating": 142.36562590885043
+  },
+  {
+    "team_id": "109631610813971977",
+    "team_code": "MZS",
+    "team_name": "Mezexis Esports",
+    "rating": 141.5225425893179
   },
   {
     "team_id": "110534728305628996",
     "team_code": "OLD",
     "team_name": "Kelyx's Grandpa Gamers",
-    "rating": 139.8902014405654
+    "rating": 140.20447369739273
   },
   {
     "team_id": "106295024192678387",
     "team_code": "GAIA",
     "team_name": "Gaia Esports",
-    "rating": 138.689304747777
+    "rating": 139.6178808306463
   },
   {
-    "team_id": "105593161016793151",
-    "team_code": "ING",
-    "team_name": "Inside Games",
-    "rating": 137.06458095549849
+    "team_id": "107565448721890834",
+    "team_code": "DMN",
+    "team_name": "Domino Esports",
+    "rating": 139.11745637357572
   },
   {
-    "team_id": "107655539755387391",
-    "team_code": "VAE",
-    "team_name": "Varona Esports",
-    "rating": 136.6100638656472
-  },
-  {
-    "team_id": "105547976546505145",
-    "team_code": "IFM",
-    "team_name": "Team Infamous",
-    "rating": 136.3705599600538
-  },
-  {
-    "team_id": "108565997404381643",
-    "team_code": "TPG",
-    "team_name": "Tempest Gaming",
-    "rating": 136.12349276063296
-  },
-  {
-    "team_id": "107581212180071788",
-    "team_code": "PK",
-    "team_name": "Peek Gaming",
-    "rating": 132.38608790473006
+    "team_id": "110418022381234710",
+    "team_code": "SPK",
+    "team_name": "SPIKE Syndicate",
+    "rating": 138.50769882774824
   },
   {
     "team_id": "99566406066182955",
     "team_code": "GAL",
     "team_name": "GALAKTICOS",
-    "rating": 130.5090000696917
+    "rating": 138.30410668905307
   },
   {
-    "team_id": "107468079354897663",
-    "team_code": "OPL",
-    "team_name": "Team Oplon",
-    "rating": 129.520092337212
+    "team_id": "107581212180071788",
+    "team_code": "PK",
+    "team_name": "Peek Gaming",
+    "rating": 137.1625142490419
   },
   {
-    "team_id": "103535282148790975",
-    "team_code": "GAL",
-    "team_name": "GALAKTICOS Akademi",
-    "rating": 129.3859451335472
+    "team_id": "102787200129022886",
+    "team_code": "ESB",
+    "team_name": "eSuba",
+    "rating": 136.6960757876565
   },
   {
-    "team_id": "104367072827489994",
-    "team_code": "BJD",
-    "team_name": "Berjaya Dragons",
-    "rating": 128.8918730435392
+    "team_id": "105593213115128994",
+    "team_code": "DTG",
+    "team_name": "Dark Tigers",
+    "rating": 136.51388820749582
+  },
+  {
+    "team_id": "107655539755387391",
+    "team_code": "VAE",
+    "team_name": "Varona Esports",
+    "rating": 136.30250039735495
+  },
+  {
+    "team_id": "105547976546505145",
+    "team_code": "IFM",
+    "team_name": "Team Infamous",
+    "rating": 136.17399296904415
+  },
+  {
+    "team_id": "105593161016793151",
+    "team_code": "ING",
+    "team_name": "Inside Games",
+    "rating": 134.5140483721992
+  },
+  {
+    "team_id": "107598764318774383",
+    "team_code": "KRU",
+    "team_name": "KR\u00dc Esports",
+    "rating": 134.03117460792478
+  },
+  {
+    "team_id": "108361565719424734",
+    "team_code": "DKC",
+    "team_name": "DK Crew",
+    "rating": 133.37459296785784
+  },
+  {
+    "team_id": "107574959289974368",
+    "team_code": "OSC",
+    "team_name": "Odivelas Sports Club",
+    "rating": 131.97615249410129
   },
   {
     "team_id": "109631614501223948",
     "team_code": "WLE",
     "team_name": "War Legion Esports",
-    "rating": 128.38547432702387
+    "rating": 131.94290201171268
+  },
+  {
+    "team_id": "108121051709036068",
+    "team_code": "PLS",
+    "team_name": "Polar Squad",
+    "rating": 129.27268190344188
+  },
+  {
+    "team_id": "107582169874155554",
+    "team_code": "GDP",
+    "team_name": "God's Plan",
+    "rating": 129.1652964968792
+  },
+  {
+    "team_id": "104202382255290736",
+    "team_code": "RNS",
+    "team_name": "RENSGA",
+    "rating": 128.96570160548254
   },
   {
     "team_id": "99124844356912967",
@@ -2868,118 +2868,76 @@
     "rating": 128.34448323290022
   },
   {
-    "team_id": "109671201259007744",
-    "team_code": "TLF",
-    "team_name": "Team Liquid Honda First",
-    "rating": 127.92108464037716
-  },
-  {
     "team_id": "103963715924353674",
     "team_code": "DA",
     "team_name": "Dragon Army",
-    "rating": 126.97386680718019
+    "rating": 127.92156531548042
   },
   {
-    "team_id": "107582638341246907",
-    "team_code": "INS",
-    "team_name": "Instinct Gaming",
-    "rating": 126.56747570811783
+    "team_id": "108565997404381643",
+    "team_code": "TPG",
+    "team_name": "Tempest Gaming",
+    "rating": 126.90344484108348
   },
   {
-    "team_id": "107598764318774383",
-    "team_code": "KRU",
-    "team_name": "KR\u00dc Esports",
-    "rating": 125.91697772615105
-  },
-  {
-    "team_id": "106827815539026710",
-    "team_code": "RJ",
-    "team_name": "RJ Academy",
-    "rating": 124.10133917167335
-  },
-  {
-    "team_id": "104367099322647716",
-    "team_code": "LYB",
-    "team_name": "Liyab Esports",
-    "rating": 123.98475229072065
+    "team_id": "103535282148790975",
+    "team_code": "GAL",
+    "team_name": "GALAKTICOS Akademi",
+    "rating": 125.67442546272778
   },
   {
     "team_id": "107598982142057588",
     "team_code": "UC",
     "team_name": "Cruzados Esports",
-    "rating": 121.76961384053621
+    "rating": 124.71140835873993
   },
   {
-    "team_id": "105549984475833252",
-    "team_code": "CRZA",
-    "team_name": "Cruzeiro Academy",
-    "rating": 119.90157126486622
+    "team_id": "104710678170825211",
+    "team_code": "SIN",
+    "team_name": "SINNERS Esports",
+    "rating": 124.49145111031581
   },
   {
     "team_id": "107700208463820785",
     "team_code": "HG",
     "team_name": "Hurricane Gaming",
-    "rating": 119.56726153547447
+    "rating": 123.96665724726824
+  },
+  {
+    "team_id": "106827815539026710",
+    "team_code": "RJ",
+    "team_name": "RJ Academy",
+    "rating": 123.02524393987981
+  },
+  {
+    "team_id": "105549984475833252",
+    "team_code": "CRZA",
+    "team_name": "Cruzeiro Academy",
+    "rating": 122.33912005573524
   },
   {
     "team_id": "101383793195758800",
     "team_code": "RDP",
     "team_name": "Redemption Porto Alegre",
-    "rating": 118.67160105966764
+    "rating": 121.4848008543058
   },
   {
-    "team_id": "107574959289974368",
-    "team_code": "OSC",
-    "team_name": "Odivelas Sports Club",
-    "rating": 118.62624441762385
+    "team_id": "107468079354897663",
+    "team_code": "OPL",
+    "team_name": "Team Oplon",
+    "rating": 121.34910756300545
   },
   {
-    "team_id": "107179722233063345",
-    "team_code": "OVA",
-    "team_name": "Cryptova",
-    "rating": 118.17706459141978
-  },
-  {
-    "team_id": "106806779752531762",
-    "team_code": "GET",
-    "team_name": "Globant Emerald Team",
-    "rating": 118.09606810809261
-  },
-  {
-    "team_id": "105515266817621145",
-    "team_code": "MCES",
-    "team_name": "Team MCES",
-    "rating": 118.08853546649198
-  },
-  {
-    "team_id": "105521293297166647",
-    "team_code": "HELL",
-    "team_name": "Hell Zerolag Esports",
-    "rating": 117.81280217319
-  },
-  {
-    "team_id": "107582169874155554",
-    "team_code": "GDP",
-    "team_name": "God's Plan",
-    "rating": 115.89641948207625
-  },
-  {
-    "team_id": "109698026697016325",
-    "team_code": "BBG",
-    "team_name": "Barcelona BG",
-    "rating": 115.85263299447575
-  },
-  {
-    "team_id": "108121051709036068",
-    "team_code": "PLS",
-    "team_name": "Polar Squad",
-    "rating": 114.64167992070726
+    "team_id": "104367099322647716",
+    "team_code": "LYB",
+    "team_name": "Liyab Esports",
+    "rating": 118.04070225499626
   },
   {
     "team_id": "105519945593890595",
     "team_code": "KOVA",
     "team_name": "KOVA Esports",
-    "rating": 114.60747652050419
+    "rating": 116.85372558479318
   },
   {
     "team_id": "105193481874236222",
@@ -2988,94 +2946,100 @@
     "rating": 114.20161125140152
   },
   {
+    "team_id": "105515266817621145",
+    "team_code": "MCES",
+    "team_name": "Team MCES",
+    "rating": 114.15203503082067
+  },
+  {
     "team_id": "110534700622694005",
     "team_code": "APR",
     "team_name": "Aporia",
     "rating": 113.71297204129833
   },
   {
-    "team_id": "103535282140533402",
-    "team_code": "BJK",
-    "team_name": "Be\u015fikta\u015f Akademi",
-    "rating": 112.41426317437474
-  },
-  {
-    "team_id": "103877951616192529",
-    "team_code": "CG",
-    "team_name": "Cyber Gaming",
-    "rating": 110.21165229036478
-  },
-  {
-    "team_id": "107456352597333899",
-    "team_code": "NNO",
-    "team_name": "NNO Prime",
-    "rating": 108.7911217691037
+    "team_id": "105521293297166647",
+    "team_code": "HELL",
+    "team_name": "Hell Zerolag Esports",
+    "rating": 112.56561796460292
   },
   {
     "team_id": "109675490370327425",
     "team_code": "GZ",
     "team_name": "Ground Zero",
-    "rating": 108.74904465452626
+    "rating": 111.55477347504348
   },
   {
-    "team_id": "107597858964689090",
-    "team_code": "SVJ",
-    "team_name": "SOVEJA",
-    "rating": 107.30553462375202
+    "team_id": "107456352597333899",
+    "team_code": "NNO",
+    "team_name": "NNO Prime",
+    "rating": 111.2973494995049
+  },
+  {
+    "team_id": "103877951616192529",
+    "team_code": "CG",
+    "team_name": "Cyber Gaming",
+    "rating": 110.41100892798228
+  },
+  {
+    "team_id": "109698026697016325",
+    "team_code": "BBG",
+    "team_name": "Barcelona BG",
+    "rating": 109.55696291385286
+  },
+  {
+    "team_id": "107179722233063345",
+    "team_code": "OVA",
+    "team_name": "Cryptova",
+    "rating": 107.62579028987264
   },
   {
     "team_id": "102787200153467923",
     "team_code": "BCN",
     "team_name": "BCN Squad",
-    "rating": 107.2443908048278
+    "rating": 106.36780868585866
+  },
+  {
+    "team_id": "98767991897792379",
+    "team_code": "HKA",
+    "team_name": "Hong Kong Attitude",
+    "rating": 105.28285901845466
   },
   {
     "team_id": "103535282113853330",
     "team_code": "5R",
     "team_name": "5 Ronin Akademi",
-    "rating": 105.92626482313943
+    "rating": 101.83550537834424
   },
   {
-    "team_id": "108361550364038935",
-    "team_code": "AOER",
-    "team_name": "AOE Randoms",
-    "rating": 100.56458955998917
+    "team_id": "107423083507599175",
+    "team_code": "VNR",
+    "team_name": "Vanir",
+    "rating": 101.62793302546577
+  },
+  {
+    "team_id": "107597858964689090",
+    "team_code": "SVJ",
+    "team_name": "SOVEJA",
+    "rating": 101.38721147401438
+  },
+  {
+    "team_id": "107598651997213225",
+    "team_code": "9Z",
+    "team_name": "9z Gaming",
+    "rating": 100.29832649138788
+  },
+  {
+    "team_id": "103535282140533402",
+    "team_code": "BJK",
+    "team_name": "Be\u015fikta\u015f Akademi",
+    "rating": 99.87367312848136
   },
   {
     "team_id": "109749493607708438",
     "team_code": "NM3",
     "team_name": "ENEMI3S",
     "rating": 98.24069736903039
-  },
-  {
-    "team_id": "107581209070519555",
-    "team_code": "MC2",
-    "team_name": "Atomic Esports",
-    "rating": 97.90455705075276
-  },
-  {
-    "team_id": "107423083507599175",
-    "team_code": "VNR",
-    "team_name": "Vanir",
-    "rating": 97.78830747687407
-  },
-  {
-    "team_id": "98767991897792379",
-    "team_code": "HKA",
-    "team_name": "Hong Kong Attitude",
-    "rating": 97.22351516651366
-  },
-  {
-    "team_id": "107110686951738484",
-    "team_code": "EE",
-    "team_name": "Esports Empire",
-    "rating": 97.11368843718196
-  },
-  {
-    "team_id": "104202382255290736",
-    "team_code": "RNS",
-    "team_name": "RENSGA",
-    "rating": 96.54692815963854
   },
   {
     "team_id": "105351835580819729",
@@ -3090,6 +3054,12 @@
     "rating": 96.39330269535292
   },
   {
+    "team_id": "107581209070519555",
+    "team_code": "MC2",
+    "team_name": "Atomic Esports",
+    "rating": 93.1297938394251
+  },
+  {
     "team_id": "105193554293818475",
     "team_code": "LJL",
     "team_name": "LJL All-Stars",
@@ -3102,10 +3072,10 @@
     "rating": 92.6469713941597
   },
   {
-    "team_id": "107598651997213225",
-    "team_code": "9Z",
-    "team_name": "9z Gaming",
-    "rating": 91.3818872583858
+    "team_id": "108018637503819612",
+    "team_code": "P42",
+    "team_name": "PRO42 Esports",
+    "rating": 91.87616326291635
   },
   {
     "team_id": "105193571520283762",
@@ -3114,16 +3084,16 @@
     "rating": 90.74748672573658
   },
   {
-    "team_id": "108131965235538611",
-    "team_code": "ANT",
-    "team_name": "Antares Esports",
-    "rating": 89.04511054158212
+    "team_id": "109671201259007744",
+    "team_code": "TLF",
+    "team_name": "Team Liquid Honda First",
+    "rating": 90.2553654051831
   },
   {
-    "team_id": "108018637503819612",
-    "team_code": "P42",
-    "team_name": "PRO42 Esports",
-    "rating": 87.52949606619718
+    "team_id": "108203169709977541",
+    "team_code": "BRO",
+    "team_name": "BRO Academy",
+    "rating": 88.35102556662356
   },
   {
     "team_id": "109672446077514083",
@@ -3132,28 +3102,40 @@
     "rating": 87.36613145981833
   },
   {
+    "team_id": "108361550364038935",
+    "team_code": "AOER",
+    "team_name": "AOE Randoms",
+    "rating": 87.21308204156622
+  },
+  {
+    "team_id": "107582150625414483",
+    "team_code": "ACS",
+    "team_name": "AceS GaminG",
+    "rating": 85.4237799596511
+  },
+  {
+    "team_id": "107110686951738484",
+    "team_code": "EE",
+    "team_name": "Esports Empire",
+    "rating": 84.74792095921562
+  },
+  {
     "team_id": "105521419784127190",
     "team_code": "KNF",
     "team_name": "Komil&Friends",
-    "rating": 86.67304755521816
+    "rating": 83.48311323612837
   },
   {
-    "team_id": "105553684493690219",
-    "team_code": "STR",
-    "team_name": "Split Raiders",
-    "rating": 83.3353296692736
+    "team_id": "107580455322240324",
+    "team_code": "NOT",
+    "team_name": "No Team",
+    "rating": 80.06928459958317
   },
   {
-    "team_id": "107603551467692884",
-    "team_code": "ELR",
-    "team_name": "ELR Gaming",
-    "rating": 83.14350388167371
-  },
-  {
-    "team_id": "108403526900459473",
-    "team_code": "UNIQ",
-    "team_name": "UniQ Esports",
-    "rating": 79.27690013559541
+    "team_id": "108131965235538611",
+    "team_code": "ANT",
+    "team_name": "Antares Esports",
+    "rating": 79.69516463394899
   },
   {
     "team_id": "107582613263241138",
@@ -3162,16 +3144,10 @@
     "rating": 79.06126323751946
   },
   {
-    "team_id": "107437032053655867",
-    "team_code": "KNG",
-    "team_name": "Kanga Esports",
-    "rating": 77.96085304938283
-  },
-  {
-    "team_id": "107582615829368757",
-    "team_code": "FSY",
-    "team_name": "Fantasy Gaming",
-    "rating": 77.36963505849697
+    "team_id": "105594101461473671",
+    "team_code": "KRM",
+    "team_name": "Karma Clan Esports",
+    "rating": 78.68309982892676
   },
   {
     "team_id": "105351724613755142",
@@ -3180,22 +3156,46 @@
     "rating": 75.75926760206968
   },
   {
-    "team_id": "107582150625414483",
-    "team_code": "ACS",
-    "team_name": "AceS GaminG",
-    "rating": 73.2496145174231
+    "team_id": "107437032053655867",
+    "team_code": "KNG",
+    "team_name": "Kanga Esports",
+    "rating": 74.4392568814202
   },
   {
-    "team_id": "105593311172904657",
-    "team_code": "ECT",
-    "team_name": "Eclot Gaming",
-    "rating": 72.56359681352545
+    "team_id": "105521504308341229",
+    "team_code": "RFS",
+    "team_name": "Team Refuse",
+    "rating": 73.9718914463699
+  },
+  {
+    "team_id": "108403526900459473",
+    "team_code": "UNIQ",
+    "team_name": "UniQ Esports",
+    "rating": 73.9050984561707
+  },
+  {
+    "team_id": "107582615829368757",
+    "team_code": "FSY",
+    "team_name": "Fantasy Gaming",
+    "rating": 73.23944697038371
   },
   {
     "team_id": "100289931264192378",
     "team_code": "TSPT",
     "team_name": "Team Spirit",
-    "rating": 71.9856720584041
+    "rating": 72.37568175684913
+  },
+  {
+    "team_id": "107603551467692884",
+    "team_code": "ELR",
+    "team_name": "ELR Gaming",
+    "rating": 72.30196967832842
+  },
+  {
+    "team_id": "101383792887446028",
+    "team_code": "MEC",
+    "team_name": "MAMMOTH",
+    "rating": 72.26469250291879
   },
   {
     "team_id": "105301773561628001",
@@ -3216,94 +3216,106 @@
     "rating": 71.44311004499735
   },
   {
-    "team_id": "105521504308341229",
-    "team_code": "RFS",
-    "team_name": "Team Refuse",
-    "rating": 71.39968317884002
+    "team_id": "105553684493690219",
+    "team_code": "STR",
+    "team_name": "Split Raiders",
+    "rating": 70.44528871951667
   },
   {
     "team_id": "109697689430777005",
     "team_code": "ANK",
     "team_name": "Ankora Gaming",
-    "rating": 70.65761532017406
-  },
-  {
-    "team_id": "101383792887446028",
-    "team_code": "MEC",
-    "team_name": "MAMMOTH",
-    "rating": 70.34128258427819
-  },
-  {
-    "team_id": "105594101461473671",
-    "team_code": "KRM",
-    "team_name": "Karma Clan Esports",
-    "rating": 67.27916520372824
-  },
-  {
-    "team_id": "109671193729027761",
-    "team_code": "FLYF",
-    "team_name": "FLY FAM",
-    "rating": 65.65407911301119
-  },
-  {
-    "team_id": "105594176887807460",
-    "team_code": "E5",
-    "team_name": "EFIVE Esports",
-    "rating": 62.22674582158896
+    "rating": 70.24075990747323
   },
   {
     "team_id": "104843437139220481",
     "team_code": "UBK",
     "team_name": "Undead BK",
-    "rating": 60.81227600985035
+    "rating": 70.02186232559504
   },
   {
-    "team_id": "107603596915629288",
-    "team_code": "STS",
-    "team_name": "Spirituals",
-    "rating": 59.5703904319207
+    "team_id": "105593311172904657",
+    "team_code": "ECT",
+    "team_name": "Eclot Gaming",
+    "rating": 68.66659229066038
   },
   {
-    "team_id": "109696138543579708",
-    "team_code": "3BL",
-    "team_name": "3BL Esports",
-    "rating": 59.53708651722969
+    "team_id": "105594176887807460",
+    "team_code": "E5",
+    "team_name": "EFIVE Esports",
+    "rating": 68.14484298398477
+  },
+  {
+    "team_id": "107582638341246907",
+    "team_code": "INS",
+    "team_name": "Instinct Gaming",
+    "rating": 65.05505954624199
   },
   {
     "team_id": "107258254469504696",
     "team_code": "TF",
     "team_name": "Team Flash",
-    "rating": 59.42051539822405
+    "rating": 62.23500759280954
+  },
+  {
+    "team_id": "107603596915629288",
+    "team_code": "STS",
+    "team_name": "Spirituals",
+    "rating": 61.30757769931334
   },
   {
     "team_id": "105521239281281237",
     "team_code": "CBI",
     "team_name": "CowBoySquad Imperials Esports",
-    "rating": 58.23313513573653
+    "rating": 59.82997129794502
+  },
+  {
+    "team_id": "109696138543579708",
+    "team_code": "3BL",
+    "team_name": "3BL Esports",
+    "rating": 59.24445440651971
   },
   {
     "team_id": "107599174108436104",
     "team_code": "RBT",
     "team_name": "Rebirth Esports",
-    "rating": 53.86774284783246
+    "rating": 54.313275286037864
   },
   {
-    "team_id": "105593278887024877",
-    "team_code": "INAE",
-    "team_name": "Inaequalis",
-    "rating": 53.08548359695875
+    "team_id": "107599144012469862",
+    "team_code": "MAZ",
+    "team_name": "Maze Gaming",
+    "rating": 54.30125530101835
   },
   {
     "team_id": "106371176555003349",
     "team_code": "NKOS",
     "team_name": "NK Osijek Esport",
-    "rating": 52.89938819611022
+    "rating": 52.93672803681406
   },
   {
     "team_id": "105503535895066182",
     "team_code": "WAVE",
     "team_name": "Wave Esports",
-    "rating": 49.88624842482357
+    "rating": 51.40682076050111
+  },
+  {
+    "team_id": "109539675734129088",
+    "team_code": "NLE",
+    "team_name": "Northern Lions Esports",
+    "rating": 50.291745477794855
+  },
+  {
+    "team_id": "105593278887024877",
+    "team_code": "INAE",
+    "team_name": "Inaequalis",
+    "rating": 49.46571753696643
+  },
+  {
+    "team_id": "105519846782566525",
+    "team_code": "MNM",
+    "team_name": "MnM Gaming",
+    "rating": 48.749347370973496
   },
   {
     "team_id": "109631541326560210",
@@ -3312,94 +3324,88 @@
     "rating": 48.072392498295066
   },
   {
-    "team_id": "109539675734129088",
-    "team_code": "NLE",
-    "team_name": "Northern Lions Esports",
-    "rating": 46.83812271514187
-  },
-  {
-    "team_id": "107599144012469862",
-    "team_code": "MAZ",
-    "team_name": "Maze Gaming",
-    "rating": 45.63588391979489
-  },
-  {
-    "team_id": "105519846782566525",
-    "team_code": "MNM",
-    "team_name": "MnM Gaming",
-    "rating": 43.6680100302565
-  },
-  {
-    "team_id": "105520826536746180",
-    "team_code": "TRL",
-    "team_name": "Team THRLL",
-    "rating": 41.184647966274476
-  },
-  {
     "team_id": "109697686032800938",
     "team_code": "XD",
     "team_name": "XtremeDominators",
-    "rating": 40.46001542275239
-  },
-  {
-    "team_id": "109674808371974726",
-    "team_code": "NOB",
-    "team_name": "Newell's Esports",
-    "rating": 34.54537987075331
-  },
-  {
-    "team_id": "107599188771591359",
-    "team_code": "WCE",
-    "team_name": "Wolf Club Gaming",
-    "rating": 33.779968832373854
-  },
-  {
-    "team_id": "106827823550343961",
-    "team_code": "AXZ",
-    "team_name": "AXZ Academy",
-    "rating": 31.102114577963054
-  },
-  {
-    "team_id": "101428372830010965",
-    "team_code": "ALF",
-    "team_name": "Alpha Esports",
-    "rating": 30.696111912802387
-  },
-  {
-    "team_id": "107603566520687175",
-    "team_code": "MYN",
-    "team_name": "Team Mayan eSports",
-    "rating": 25.900636619596334
-  },
-  {
-    "team_id": "107581761958954646",
-    "team_code": "VAN",
-    "team_name": "Vandals Esports",
-    "rating": 19.889001291096154
-  },
-  {
-    "team_id": "107582173169864040",
-    "team_code": "GSE",
-    "team_name": "GeekSide Esports",
-    "rating": 18.46852526709871
+    "rating": 39.7690487689953
   },
   {
     "team_id": "109698030312834058",
     "team_code": "GNGG",
     "team_name": "Genbu Gaming",
-    "rating": 14.552860536306056
+    "rating": 37.02546632855646
   },
   {
-    "team_id": "98767991916844003",
-    "team_code": "KLG",
-    "team_name": "Kaos Latin Gamers",
-    "rating": 13.937796810512081
+    "team_id": "101428372830010965",
+    "team_code": "ALF",
+    "team_name": "Alpha Esports",
+    "rating": 35.67355622593259
+  },
+  {
+    "team_id": "109674808371974726",
+    "team_code": "NOB",
+    "team_name": "Newell's Esports",
+    "rating": 35.33067106589655
+  },
+  {
+    "team_id": "107599188771591359",
+    "team_code": "WCE",
+    "team_name": "Wolf Club Gaming",
+    "rating": 34.897206764447624
   },
   {
     "team_id": "108319257932089006",
     "team_code": "OSK",
     "team_name": "Osaka",
-    "rating": 13.043388856043363
+    "rating": 32.82144836423024
+  },
+  {
+    "team_id": "108517492697602721",
+    "team_code": "DWT",
+    "team_name": "Dewish Team",
+    "rating": 32.48596004706429
+  },
+  {
+    "team_id": "105520826536746180",
+    "team_code": "TRL",
+    "team_name": "Team THRLL",
+    "rating": 31.18419878579982
+  },
+  {
+    "team_id": "106827823550343961",
+    "team_code": "AXZ",
+    "team_name": "AXZ Academy",
+    "rating": 29.921197622829315
+  },
+  {
+    "team_id": "107581761958954646",
+    "team_code": "VAN",
+    "team_name": "Vandals Esports",
+    "rating": 26.091475756696774
+  },
+  {
+    "team_id": "107603566520687175",
+    "team_code": "MYN",
+    "team_name": "Team Mayan eSports",
+    "rating": 20.73990500321526
+  },
+  {
+    "team_id": "107635420167535818",
+    "team_code": "S9",
+    "team_name": "SEM9",
+    "rating": 19.916704323808002
+  },
+  {
+    "team_id": "99566406069969565",
+    "team_code": "AUR",
+    "team_name": "Info Yat\u0131r\u0131m Aurora",
+    "rating": 17.833366007725186
+  },
+  {
+    "team_id": "103495716836203404",
+    "team_code": "5R",
+    "team_name": "5 Ronin",
+    "rating": 15.844211527170113
   },
   {
     "team_id": "109672618694070633",
@@ -3408,141 +3414,135 @@
     "rating": 11.247066769615769
   },
   {
-    "team_id": "103495716836203404",
-    "team_code": "5R",
-    "team_name": "5 Ronin",
-    "rating": 10.606511468316462
+    "team_id": "107598805167594304",
+    "team_code": "WAP",
+    "team_name": "Wap Esports",
+    "rating": 10.182887739067954
+  },
+  {
+    "team_id": "107582173169864040",
+    "team_code": "GSE",
+    "team_name": "GeekSide Esports",
+    "rating": 9.310863833802038
   },
   {
     "team_id": "109828279319224248",
     "team_code": "MBE",
     "team_name": "MGN Box Esports",
-    "rating": 10.035944712857255
-  },
-  {
-    "team_id": "107635420167535818",
-    "team_code": "S9",
-    "team_name": "SEM9",
-    "rating": 7.714168341257333
+    "rating": 8.633090849105615
   },
   {
     "team_id": "106827848618374543",
     "team_code": "BC",
     "team_name": "BC Academy",
-    "rating": 7.598469334373348
-  },
-  {
-    "team_id": "108517492697602721",
-    "team_code": "DWT",
-    "team_name": "Dewish Team",
-    "rating": 7.480257504876934
-  },
-  {
-    "team_id": "99566406069969565",
-    "team_code": "AUR",
-    "team_name": "Info Yat\u0131r\u0131m Aurora",
-    "rating": 7.052018421038896
-  },
-  {
-    "team_id": "102787200138722262",
-    "team_code": "DV1",
-    "team_name": "Devils.One",
-    "rating": 4.851344637580673
+    "rating": 6.83197539172736
   },
   {
     "team_id": "107599089191671351",
     "team_code": "SW",
     "team_name": "Santiago Wanderers",
-    "rating": 3.5014387634412856
+    "rating": 4.701125866723363
+  },
+  {
+    "team_id": "109671193729027761",
+    "team_code": "FLYF",
+    "team_name": "FLY FAM",
+    "rating": 2.996226809122009
+  },
+  {
+    "team_id": "102787200138722262",
+    "team_code": "DV1",
+    "team_name": "Devils.One",
+    "rating": 0.9656069680186161
   },
   {
     "team_id": "107564135791716115",
     "team_code": "GSNS",
     "team_name": "Guasones",
-    "rating": -1.9211371792940497
-  },
-  {
-    "team_id": "101978171843206569",
-    "team_code": "VEG",
-    "team_name": "Vega Squadron",
-    "rating": -2.519980126837822
-  },
-  {
-    "team_id": "107598805167594304",
-    "team_code": "WAP",
-    "team_name": "Wap Esports",
-    "rating": -3.0115992075554137
-  },
-  {
-    "team_id": "105548019132871601",
-    "team_code": "MDVL",
-    "team_name": "Medieval Riga",
-    "rating": -6.3206237469624655
-  },
-  {
-    "team_id": "108361563004344389",
-    "team_code": "LAST",
-    "team_name": "The Last Dance",
-    "rating": -9.736645018864241
-  },
-  {
-    "team_id": "108319669531442279",
-    "team_code": "AD",
-    "team_name": "Aguilas Doradas",
-    "rating": -12.11372914119772
+    "rating": -1.4358333770422258
   },
   {
     "team_id": "103877891572305836",
     "team_code": "SNG",
     "team_name": "Team Singularity",
-    "rating": -12.99121703462627
+    "rating": -4.161690059376027
+  },
+  {
+    "team_id": "101978171843206569",
+    "team_code": "VEG",
+    "team_name": "Vega Squadron",
+    "rating": -7.01190891587546
+  },
+  {
+    "team_id": "98767991916844003",
+    "team_code": "KLG",
+    "team_name": "Kaos Latin Gamers",
+    "rating": -7.129722233291357
+  },
+  {
+    "team_id": "105548019132871601",
+    "team_code": "MDVL",
+    "team_name": "Medieval Riga",
+    "rating": -7.228397696029984
+  },
+  {
+    "team_id": "108361563004344389",
+    "team_code": "LAST",
+    "team_name": "The Last Dance",
+    "rating": -15.611157032324114
   },
   {
     "team_id": "99566406070802758",
     "team_code": "RYL",
     "team_name": "Royal Youth",
-    "rating": -19.272075412447535
+    "rating": -17.8687731291802
+  },
+  {
+    "team_id": "108319669531442279",
+    "team_code": "AD",
+    "team_name": "Aguilas Doradas",
+    "rating": -18.957415923143095
   },
   {
     "team_id": "105594163014588871",
     "team_code": "BFC",
     "team_name": "Boavista F.C",
-    "rating": -22.779192558654966
+    "rating": -22.64649582981354
   },
   {
     "team_id": "102787200130988976",
     "team_code": "ASUS",
     "team_name": "ASUS ROG Elite",
-    "rating": -25.580469144864207
+    "rating": -27.578112373904634
   },
   {
     "team_id": "105663527959374033",
     "team_code": "CPT",
     "team_name": "CTRL PLAY Team",
-    "rating": -27.679266900165132
+    "rating": -29.49390476360601
   },
   {
     "team_id": "107598878262940546",
     "team_code": "MVG",
     "team_name": "Malvinas Rise",
-    "rating": -39.840857133301846
+    "rating": -32.8030718252865
   },
   {
     "team_id": "107582181197106556",
     "team_code": "SKC",
     "team_name": "Skull Cracker Clan",
-    "rating": -59.40237252029017
+    "rating": -42.661789769379396
   },
   {
     "team_id": "107598704067400262",
     "team_code": "STM",
     "team_name": "Stone Movistar",
-    "rating": -89.8573453174935
+    "rating": -82.82080923468861
   },
   {
     "team_id": "101383792891050518",
     "team_code": "GRV",
     "team_name": "Gravitas",
-    "rating": -112.81322433352332
+    "rating": -112.08357329720835
   }
 ]
