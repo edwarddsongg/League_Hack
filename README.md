@@ -15,4 +15,3 @@ https://ded9b05jx7.execute-api.us-east-2.amazonaws.com/test/global_rankings?numb
 
 For tournament rankings, you query with the string parameter: “tournament_id: {tournament_id}” and “stage: {stage_name}” for example: https://ded9b05jx7.execute-api.us-east-2.amazonaws.com/test/tournament_rankings/?tournament_id=110733838935136200&stage=knockouts 
 
-You can view our repository here:
