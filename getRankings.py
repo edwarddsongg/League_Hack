@@ -67,7 +67,7 @@ def calculate_expected_result(rating_a, rating_b):
     return 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
 
 
-def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scale, stomp):
+def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scale, stomp, k=1):
     """
     Update Elo ratings for two players based on the outcome of a match.
     """
@@ -77,9 +77,9 @@ def update_ratings(rating_a, rating_b, teamOneGames, teamTwoGames, outcome, scal
     winScale = scale
     loseScale = 0.5 if scale >= 2 else scale
 
-    newStomp = 1 - stomp if stomp < 0.5 else stomp
-
-    new_rating_a = rating_a + winScale * newStomp * \
+    newStomp = 1 + 2 * abs(stomp - 0.5)
+    
+    new_rating_a = rating_a + k * winScale * newStomp * \
         (50/(1+(teamOneGames / 300))) * (outcome - expected_a)
     new_rating_b = rating_b + loseScale * \
         (newStomp / 2) * (50/(1+(teamTwoGames / 300))) * \
@@ -234,6 +234,13 @@ for i in range(len(results)):
     outcome = 1 if tour.get("winTeam") == teamOne else 0
 
     stomp = get_stomp_factor(tour.get("platformId"))
+    
+    bigTourneyScale = 1
+
+    if results[i].get("tournamentId") in worldsTourneys:
+      bigTourneyScale = 2.5
+    elif results[i].get("tournamentId") in msiTourneys:
+      bigTourneyScale = 2
 
     new_rating_one, new_rating_two = update_ratings(df.loc[df["team"] == teamOne, "Rating"].values[0],
                                                     df.loc[df["team"] == teamTwo,
@@ -241,7 +248,7 @@ for i in range(len(results)):
                                                     df.loc[df["team"] == teamTwo,
                                                            "gamesPlayed"].values[0],
                                                     df.loc[df["team"] == teamTwo, "gamesPlayed"].values[0], 
-                                                    outcome, weight, stomp)
+                                                    outcome, weight, stomp, bigTourneyScale)
 
     df.loc[df["team"] == teamOne, "Rating"] = new_rating_one
     df.loc[df["team"] == teamOne, "gamesPlayed"] = df.loc[df["team"]

@@ -30,12 +30,15 @@ for tournament in tournaments_data:
     sections = stage.get("sections")
     for sec in sections: 
       matches = sec.get("matches")
+      totalMatches = len(matches)
       gameCount = 1
       for match in matches:
-        if match.get("state") == "unstarted":
+        if match.get("state") == "unstarted" or match.get("state") == "unneeded":
           continue
         games = match.get("games")
         for game in games:
+          if game.get("state") == "unstarted" or game.get("state") == "unneeded":
+            continue
           try: 
             gameId = game.get("id")
             teamOne = game.get("teams")[0].get("id")
@@ -47,19 +50,19 @@ for tournament in tournaments_data:
             continue
           weight = 1
           if stageName == "knockouts" or stageName == "playoffs":
-            if gameCount == 7:
+            if gameCount == totalMatches:
               weight = 3
-            elif gameCount < 5:
-              weight = 2
-            elif gameCount < 7:
+            elif totalMatches - 3 <= gameCount < totalMatches:
               weight = 2.5
+            else:
+              weight = 2
 
 
           platformId = ""
 
-          
           outputObj = {
             "tournament": tournament.get("slug"),
+            "tournamentId": tournament.get("id"),
             "gameId": gameId,
             "platformId": getPlatformId(gameId),
             "startDate": startDate,
